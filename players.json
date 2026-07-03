@@ -4916,7 +4916,7 @@
   {
     "id": "pentakill-peyz",
     "nombre": "Peyz",
-    "media": 92,
+    "media": 91,
     "posicion": 3,
     "club": "T1",
     "pais": "kr",
@@ -4940,5 +4940,19 @@
     "background": "/assets/background-tn.png",
     "rarity": "takenotes",
     "fade": "/assets/fade-tn.png"
+  },
+  {
+    "id": "pentakill-caps",
+    "nombre": "Caps",
+    "media": 90,
+    "posicion": 2,
+    "club": "G2 Esports",
+    "pais": "dk",
+    "imagen": "/assets/players/special/caps.png",
+    "league": "lec",
+    "border": "/assets/border-pentakill.png",
+    "background": "/assets/background-pentakill.png",
+    "rarity": "pentakill",
+    "fade": "/assets/fade-pentakill.png"
   }
 ]
