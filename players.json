@@ -476,13 +476,13 @@
     "fade": "/assets/fade.png"
   },
   {
-    "id": "b-trymbi",
-    "nombre": "Trymbi",
-    "media": 83,
+    "id": "b-stend",
+    "nombre": "Stend",
+    "media": 82,
     "posicion": 4,
     "club": "Shifters",
-    "pais": "pl",
-    "imagen": "/assets/players/lec/trymbi.png",
+    "pais": "fr",
+    "imagen": "/assets/players/lec/stend.png",
     "league": "lec",
     "border": "/assets/border.png",
     "background": "/assets/background.png",
@@ -518,13 +518,13 @@
     "fade": "/assets/fade.png"
   },
   {
-    "id": "b-lider",
-    "nombre": "LIDER",
-    "media": 82,
+    "id": "b-slowq",
+    "nombre": "SLOWQ",
+    "media": 80,
     "posicion": 2,
     "club": "SK Gaming",
-    "pais": "no",
-    "imagen": "/assets/players/lec/lider.png",
+    "pais": "se",
+    "imagen": "/assets/players/lec/slowq.png",
     "league": "lec",
     "border": "/assets/border.png",
     "background": "/assets/background.png",
@@ -602,13 +602,13 @@
     "fade": "/assets/fade.png"
   },
   {
-    "id": "b-ice",
-    "nombre": "Ice",
+    "id": "b-hype",
+    "nombre": "Hype",
     "media": 82,
     "posicion": 3,
     "club": "Team Heretics",
     "pais": "kr",
-    "imagen": "/assets/players/lec/ice.png",
+    "imagen": "/assets/players/lec/hype.png",
     "league": "lec",
     "border": "/assets/border.png",
     "background": "/assets/background.png",
@@ -4342,7 +4342,7 @@
   {
     "id": "msi-zeus",
     "nombre": "Zeus",
-    "media": 90,
+    "media": 91,
     "posicion": 0,
     "club": "Hanwha Life Esports",
     "pais": "kr",
@@ -4356,7 +4356,7 @@
   {
     "id": "msi-kanavi",
     "nombre": "Kanavi",
-    "media": 90,
+    "media": 91,
     "posicion": 1,
     "club": "Hanwha Life Esports",
     "pais": "kr",
@@ -4370,7 +4370,7 @@
   {
     "id": "msi-zeka",
     "nombre": "Zeka",
-    "media": 90,
+    "media": 91,
     "posicion": 2,
     "club": "Hanwha Life Esports",
     "pais": "kr",
@@ -4384,7 +4384,7 @@
   {
     "id": "msi-guamyusi",
     "nombre": "Gumayusi",
-    "media": 90,
+    "media": 91,
     "posicion": 3,
     "club": "Hanwha Life Esports",
     "pais": "kr",
@@ -4398,7 +4398,7 @@
   {
     "id": "msi-delight",
     "nombre": "Delight",
-    "media": 88,
+    "media": 89,
     "posicion": 4,
     "club": "Hanwha Life Esports",
     "pais": "kr",
@@ -4776,7 +4776,7 @@
   {
     "id": "msi-bin",
     "nombre": "Bin",
-    "media": 91,
+    "media": 92,
     "posicion": 0,
     "club": "Bilibili Gaming",
     "pais": "cn",
@@ -4790,7 +4790,7 @@
   {
     "id": "msi-xun",
     "nombre": "Xun",
-    "media": 89,
+    "media": 90,
     "posicion": 1,
     "club": "Bilibili Gaming",
     "pais": "cn",
@@ -4804,7 +4804,7 @@
   {
     "id": "msi-knight",
     "nombre": "Knight",
-    "media": 91,
+    "media": 92,
     "posicion": 2,
     "club": "Bilibili Gaming",
     "pais": "cn",
@@ -4818,7 +4818,7 @@
   {
     "id": "msi-viper",
     "nombre": "Viper",
-    "media": 91,
+    "media": 92,
     "posicion": 3,
     "club": "Bilibili Gaming",
     "pais": "kr",
@@ -4832,7 +4832,7 @@
   {
     "id": "msi-on",
     "nombre": "ON",
-    "media": 89,
+    "media": 90,
     "posicion": 4,
     "club": "Bilibili Gaming",
     "pais": "cn",
