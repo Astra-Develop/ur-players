@@ -1442,6 +1442,20 @@
     "fade": "/assets/fade.png"
   },
   {
+    "id": "b-loki",
+    "nombre": "Loki",
+    "media": 83,
+    "posicion": 2,
+    "club": "Cloud9",
+    "pais": "kr",
+    "imagen": "/assets/players/lcs/loki.png",
+    "league": "lcs",
+    "border": "/assets/border.png",
+    "background": "/assets/background.png",
+    "rarity": "base",
+    "fade": "/assets/fade.png"
+  },
+  {
     "id": "b-zven",
     "nombre": "Zven",
     "media": 82,
@@ -1449,6 +1463,20 @@
     "club": "Cloud9",
     "pais": "dk",
     "imagen": "/assets/players/lcs/zven.png",
+    "league": "lcs",
+    "border": "/assets/border.png",
+    "background": "/assets/background.png",
+    "rarity": "base",
+    "fade": "/assets/fade.png"
+  },
+  {
+    "id": "b-tactical",
+    "nombre": "Tactical",
+    "media": 82,
+    "posicion": 3,
+    "club": "Cloud9",
+    "pais": "us",
+    "imagen": "/assets/players/lcs/tactical.png",
     "league": "lcs",
     "border": "/assets/border.png",
     "background": "/assets/background.png",
@@ -1806,13 +1834,13 @@
     "fade": "/assets/fade.png"
   },
   {
-    "id": "b-ceos",
-    "nombre": "Ceos",
+    "id": "b-zeyzal",
+    "nombre": "Zeyzal",
     "media": 81,
     "posicion": 4,
     "club": "Shopify Rebellion",
-    "pais": "br",
-    "imagen": "/assets/players/lcs/ceos.png",
+    "pais": "us",
+    "imagen": "/assets/players/lcs/zeyzal.png",
     "league": "lcs",
     "border": "/assets/border.png",
     "background": "/assets/background.png",
@@ -2800,34 +2828,6 @@
     "fade": "/assets/fade.png"
   },
   {
-    "id": "b-envy",
-    "nombre": "Envy",
-    "media": 81,
-    "posicion": 2,
-    "club": "LOUD",
-    "pais": "br",
-    "imagen": "/assets/players/cblol/envy.png",
-    "league": "cblol",
-    "border": "/assets/border.png",
-    "background": "/assets/background.png",
-    "rarity": "base",
-    "fade": "/assets/fade.png"
-  },
-  {
-    "id": "b-bull",
-    "nombre": "Bull",
-    "media": 81,
-    "posicion": 3,
-    "club": "LOUD",
-    "pais": "kr",
-    "imagen": "/assets/players/cblol/bull.png",
-    "league": "cblol",
-    "border": "/assets/border.png",
-    "background": "/assets/background.png",
-    "rarity": "base",
-    "fade": "/assets/fade.png"
-  },
-  {
     "id": "b-uzent",
     "nombre": "uZent",
     "media": 80,
@@ -3696,20 +3696,6 @@
     "fade": "/assets/fade.png"
   },
   {
-    "id": "b-angel",
-    "nombre": "Angel",
-    "media": 84,
-    "posicion": 2,
-    "club": "EDward Gaming",
-    "pais": "cn",
-    "imagen": "/assets/players/lpl/angel.png",
-    "league": "lpl",
-    "border": "/assets/border.png",
-    "background": "/assets/background.png",
-    "rarity": "base",
-    "fade": "/assets/fade.png"
-  },
-  {
     "id": "b-sinian",
     "nombre": "sinian",
     "media": 81,
@@ -3738,13 +3724,13 @@
     "fade": "/assets/fade.png"
   },
   {
-    "id": "b-jwei",
-    "nombre": "Jwei",
-    "media": 82,
+    "id": "b-parukia",
+    "nombre": "Parukia",
+    "media": 80,
     "posicion": 4,
     "club": "EDward Gaming",
     "pais": "cn",
-    "imagen": "/assets/players/lpl/jwei.png",
+    "imagen": "/assets/players/lpl/parukia.png",
     "league": "lpl",
     "border": "/assets/border.png",
     "background": "/assets/background.png",
