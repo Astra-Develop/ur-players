@@ -5500,5 +5500,47 @@
     "background": "/assets/background.png",
     "rarity": "base",
     "fade": "/assets/fade.png"
+  },
+  {
+    "id": "legacy-uzi",
+    "nombre": "Uzi",
+    "media": 93,
+    "posicion": 3,
+    "club": "Legacy",
+    "pais": "ch",
+    "imagen": "",
+    "league": "legacy",
+    "border": "/assets/border-legacy.png",
+    "background": "/assets/background-legacy.png",
+    "rarity": "legacy",
+    "fade": "/assets/fade-legacy.png"
+  },
+  {
+    "id": "legacy-mata",
+    "nombre": "Mata",
+    "media": 93,
+    "posicion": 4,
+    "club": "Legacy",
+    "pais": "kr",
+    "imagen": "",
+    "league": "legacy",
+    "border": "/assets/border-legacy.png",
+    "background": "/assets/background-legacy.png",
+    "rarity": "legacy",
+    "fade": "/assets/fade-legacy.png"
+  },
+  {
+    "id": "legacy-xpeke",
+    "nombre": "xPeke",
+    "media": 92,
+    "posicion": 2,
+    "club": "Legacy",
+    "pais": "es",
+    "imagen": "",
+    "league": "legacy",
+    "border": "/assets/border-legacy.png",
+    "background": "/assets/background-legacy.png",
+    "rarity": "legacy",
+    "fade": "/assets/fade-legacy.png"
   }
 ]
