@@ -4940,5 +4940,19 @@
     "background": "/assets/background-pentakill.png",
     "rarity": "pentakill",
     "fade": "/assets/fade-pentakill.png"
+  },
+  {
+    "id": "t-faker",
+    "nombre": "Faker",
+    "media": 99,
+    "posicion": 2,
+    "club": "T1",
+    "pais": "kr",
+    "imagen": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/03/SKT_Faker_2015_Split_1.png/revision/latest?cb=20250426130232",
+    "league": "lck",
+    "border": "/assets/border-pentakill.png",
+    "background": "/assets/background-pentakill.png",
+    "rarity": "pentakill",
+    "fade": "/assets/fade-pentakill.png"
   }
 ]
