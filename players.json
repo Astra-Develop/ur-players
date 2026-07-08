@@ -4188,7 +4188,7 @@
   {
     "id": "msi-dhokla",
     "nombre": "Dhokla",
-    "media": 83,
+    "media": 84,
     "posicion": 0,
     "club": "LYON",
     "pais": "us",
@@ -4202,7 +4202,7 @@
   {
     "id": "msi-inspired",
     "nombre": "Inspired",
-    "media": 87,
+    "media": 88,
     "posicion": 1,
     "club": "LYON",
     "pais": "pl",
@@ -4216,7 +4216,7 @@
   {
     "id": "msi-saint",
     "nombre": "Saint",
-    "media": 83,
+    "media": 84,
     "posicion": 2,
     "club": "LYON",
     "pais": "kr",
@@ -4230,7 +4230,7 @@
   {
     "id": "msi-berserker",
     "nombre": "Berserker",
-    "media": 86,
+    "media": 87,
     "posicion": 3,
     "club": "LYON",
     "pais": "kr",
@@ -4244,7 +4244,7 @@
   {
     "id": "msi-isles",
     "nombre": "Isles",
-    "media": 83,
+    "media": 84,
     "posicion": 4,
     "club": "LYON",
     "pais": "au",
@@ -4907,6 +4907,20 @@
     "club": "T1",
     "pais": "kr",
     "imagen": "/assets/players/special/peyz-penta.png",
+    "league": "lck",
+    "border": "/assets/border-pentakill.png",
+    "background": "/assets/background-pentakill.png",
+    "rarity": "pentakill",
+    "fade": "/assets/fade-pentakill.png"
+  },
+  {
+    "id": "pentakill-peyz-2",
+    "nombre": "Peyz",
+    "media": 92,
+    "posicion": 3,
+    "club": "T1",
+    "pais": "kr",
+    "imagen": "/assets/players/special/peyz-penta-2.png",
     "league": "lck",
     "border": "/assets/border-pentakill.png",
     "background": "/assets/background-pentakill.png",
