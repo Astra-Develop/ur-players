@@ -5544,6 +5544,34 @@
     "fade": "/assets/fade-legacy.png"
   },
   {
+    "id": "legacy-marin",
+    "nombre": "MaRin",
+    "media": 92,
+    "posicion": 0,
+    "club": "Legacy",
+    "pais": "kr",
+    "imagen": "/assets/players/special/marin-legacy.png",
+    "league": "legacy",
+    "border": "/assets/border-legacy.png",
+    "background": "/assets/background-legacy.png",
+    "rarity": "legacy",
+    "fade": "/assets/fade-legacy.png"
+  },
+  {
+    "id": "legacy-bengi",
+    "nombre": "Bengi",
+    "media": 94,
+    "posicion": 1,
+    "club": "Legacy",
+    "pais": "kr",
+    "imagen": "/assets/players/special/bengi-legacy.png",
+    "league": "legacy",
+    "border": "/assets/border-legacy.png",
+    "background": "/assets/background-legacy.png",
+    "rarity": "legacy",
+    "fade": "/assets/fade-legacy.png"
+  },
+  {
     "id": "legacy-xpeke",
     "nombre": "xPeke",
     "media": 90,
