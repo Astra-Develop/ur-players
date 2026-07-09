@@ -5782,13 +5782,13 @@
     "fade": "/assets/fade.png"
   },
   {
-    "id": "b-teo",
-    "nombre": "Teo",
+    "id": "b-tao",
+    "nombre": "Tao",
     "media": 79,
     "posicion": 0,
     "club": "Karmine Corp Blue",
     "pais": "it",
-    "imagen": "/assets/players/lfl/teo.png",
+    "imagen": "/assets/players/lfl/tao.png",
     "league": "lfl",
     "border": "/assets/border.png",
     "background": "/assets/background.png",
