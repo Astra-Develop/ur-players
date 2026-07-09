@@ -5474,13 +5474,13 @@
     "fade": "/assets/fade.png"
   },
   {
-    "id": "b-macaquino",
-    "nombre": "Macaquiño",
+    "id": "b-macaquinho",
+    "nombre": "Macaquinho",
     "media": 79,
     "posicion": 2,
     "club": "Barça eSports",
     "pais": "es",
-    "imagen": "/assets/players/les/macaquiño.png",
+    "imagen": "/assets/players/les/macaquinho.png",
     "league": "les",
     "border": "/assets/border.png",
     "background": "/assets/background.png",
