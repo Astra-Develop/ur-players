@@ -5878,5 +5878,19 @@
     "background": "/assets/background.png",
     "rarity": "base",
     "fade": "/assets/fade.png"
+  },
+  {
+    "id": "spotlight-elyoya",
+    "nombre": "Elyoya",
+    "media": 89,
+    "posicion": 1,
+    "club": "Movistar Koi",
+    "pais": "es",
+    "imagen": "/assets/players/lec/elyoya.png",
+    "league": "lec",
+    "border": "/assets/border-spotlight.png",
+    "background": "/assets/background-spotlight.png",
+    "rarity": "spotlight",
+    "fade": "/assets/fade-spotlight.png"
   }
 ]
