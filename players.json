@@ -5892,5 +5892,61 @@
     "background": "/assets/background-spotlight.png",
     "rarity": "spotlight",
     "fade": "/assets/fade-spotlight.png"
+  },
+  {
+    "id": "spotlight-showmaker",
+    "nombre": "ShowMaker",
+    "media": 90,
+    "posicion": 2,
+    "club": "Dplus KIA",
+    "pais": "kr",
+    "imagen": "/assets/players/sepcial/showmaker-spotlight.png",
+    "league": "lck",
+    "border": "/assets/border-spotlight.png",
+    "background": "/assets/background-spotlight.png",
+    "rarity": "baspotlightse",
+    "fade": "/assets/fade-spotlight.png"
+  },
+  {
+    "id": "spotlight-inspired",
+    "nombre": "Inspired",
+    "media": 89,
+    "posicion": 1,
+    "club": "LYON",
+    "pais": "pl",
+    "imagen": "/assets/players/special/inspired-spotlight.png",
+    "league": "lcs",
+    "border": "/assets/border-spotlight.png",
+    "background": "/assets/background-spotlight.png",
+    "rarity": "spotlight",
+    "fade": "/assets/fade-spotlight.png"
+  },
+  {
+    "id": "spotlight-theshy",
+    "nombre": "TheShy",
+    "media": 90,
+    "posicion": 0,
+    "club": "Invictus Gaming",
+    "pais": "kr",
+    "imagen": "/assets/players/special/theshy-spotlight.png",
+    "league": "lpl",
+    "border": "/assets/border-spotlight.png",
+    "background": "/assets/background-spotlight.png",
+    "rarity": "spotlight",
+    "fade": "/assets/fade-spotlight.png"
+  },
+  {
+    "id": "spotlight-doggo",
+    "nombre": "Doggo",
+    "media": 87,
+    "posicion": 3,
+    "club": "CTBC Flying Oyster",
+    "pais": "tw",
+    "imagen": "/assets/players/special/doggo.png",
+    "league": "lcp",
+    "border": "/assets/border-spotlight.png",
+    "background": "/assets/background-spotlight.png",
+    "rarity": "spotlight",
+    "fade": "/assets/fade-spotlight.png"
   }
 ]
