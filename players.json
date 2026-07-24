@@ -5900,11 +5900,11 @@
     "posicion": 2,
     "club": "Dplus KIA",
     "pais": "kr",
-    "imagen": "/assets/players/sepcial/showmaker-spotlight.png",
+    "imagen": "/assets/players/special/showmaker-spotlight.png",
     "league": "lck",
     "border": "/assets/border-spotlight.png",
     "background": "/assets/background-spotlight.png",
-    "rarity": "baspotlightse",
+    "rarity": "spotlight",
     "fade": "/assets/fade-spotlight.png"
   },
   {
