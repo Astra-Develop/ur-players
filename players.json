@@ -3192,6 +3192,20 @@
     "fade": "/assets/fade.png"
   },
   {
+    "id": "b-wenbo",
+    "nombre": "Wenbo",
+    "media": 81,
+    "posicion": 0,
+    "club": "Bilibili Gaming",
+    "pais": "cn",
+    "imagen": "/assets/players/lpl/wenbo.png",
+    "league": "lpl",
+    "border": "/assets/border.png",
+    "background": "/assets/background.png",
+    "rarity": "base",
+    "fade": "/assets/fade.png"
+  },
+  {
     "id": "b-xun",
     "nombre": "Xun",
     "media": 89,
@@ -5948,5 +5962,33 @@
     "background": "/assets/background-spotlight.png",
     "rarity": "spotlight",
     "fade": "/assets/fade-spotlight.png"
+  },
+  {
+    "id": "pentakill-bdd",
+    "nombre": "Bdd",
+    "media": 89,
+    "posicion": 2,
+    "club": "KT Rolster",
+    "pais": "kr",
+    "imagen": "/assets/players/special/bdd-penta.png",
+    "league": "lck",
+    "border": "/assets/border-pentakill.png",
+    "background": "/assets/background-pentakill.png",
+    "rarity": "pen",
+    "fade": "/assets/fade-pentakill.png"
+  },
+  {
+    "id": "pentakill-escik",
+    "nombre": "Escik",
+    "media": 80,
+    "posicion": 2,
+    "club": "UCAM Esports",
+    "pais": "pl",
+    "imagen": "/assets/players/les/escik-penta.png",
+    "league": "les",
+    "border": "/assets/border-pentakill.png",
+    "background": "/assets/background-pentakill.png",
+    "rarity": "pentakill",
+    "fade": "/assets/fade-pentakill.png"
   }
 ]
