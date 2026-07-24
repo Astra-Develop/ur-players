@@ -11,7 +11,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-razork",
@@ -25,7 +26,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-upset",
@@ -39,7 +41,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-soboro",
@@ -53,8 +56,9 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
-  },  
+    "fade": "/assets/fade.png",
+    "marketable": true
+  },
   {
     "id": "b-lospa",
     "nombre": "Lospa",
@@ -67,7 +71,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-brokenblade",
@@ -81,7 +86,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-labrov",
@@ -95,7 +101,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-caps",
@@ -109,7 +116,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-skewmond",
@@ -123,7 +131,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-hanssama",
@@ -137,7 +146,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-oscarinin",
@@ -151,7 +161,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-isma",
@@ -165,7 +176,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-jackies",
@@ -179,7 +191,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-flakked",
@@ -193,7 +206,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-jun",
@@ -207,7 +221,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-canna",
@@ -221,7 +236,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-yike",
@@ -235,7 +251,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kyeahoo",
@@ -249,7 +266,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-caliste",
@@ -263,7 +281,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-busio",
@@ -277,7 +296,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-myrwn",
@@ -291,7 +311,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-elyoya",
@@ -305,7 +326,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-jojopyun",
@@ -319,7 +341,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-supa",
@@ -333,7 +356,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-alvaro",
@@ -347,7 +371,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-maynter",
@@ -361,7 +386,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-rhilech",
@@ -375,7 +401,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-poby",
@@ -389,7 +416,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-samd",
@@ -403,7 +431,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-parus",
@@ -417,7 +446,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-rooster",
@@ -431,7 +461,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-sheo",
@@ -445,7 +476,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-nuc",
@@ -459,7 +491,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-paduck",
@@ -473,7 +506,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-stend",
@@ -487,7 +521,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-wunder",
@@ -501,7 +536,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-skeanz",
@@ -515,7 +551,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-slowq",
@@ -529,7 +566,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-jopa",
@@ -543,7 +581,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-mikyx",
@@ -557,7 +596,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-tracyn",
@@ -571,7 +611,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-daglas",
@@ -585,7 +626,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-serin",
@@ -599,7 +641,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-hype",
@@ -613,7 +656,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-way",
@@ -627,7 +671,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-naaknako",
@@ -641,7 +686,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-lyncas",
@@ -655,7 +701,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-fiesta",
@@ -669,7 +716,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-carzzy",
@@ -683,7 +731,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-fleshy",
@@ -697,7 +746,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-clear",
@@ -711,7 +761,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-raptor",
@@ -725,7 +776,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-vicla",
@@ -739,7 +791,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-taeyoon",
@@ -753,7 +806,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kellin",
@@ -767,7 +821,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-dudu",
@@ -781,7 +836,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-pyosik",
@@ -795,7 +851,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-clozer",
@@ -809,7 +866,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-deokdam",
@@ -823,7 +881,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-life",
@@ -837,7 +896,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-siwoo",
@@ -851,7 +911,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-lucid",
@@ -865,7 +926,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-showmaker",
@@ -879,7 +941,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-smash",
@@ -893,7 +956,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-career",
@@ -907,7 +971,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kiin",
@@ -921,7 +986,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-canyon",
@@ -935,7 +1001,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-chovy",
@@ -949,7 +1016,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-ruler",
@@ -963,7 +1031,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-duro",
@@ -977,7 +1046,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-casting",
@@ -991,7 +1061,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-gideon",
@@ -1005,7 +1076,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-roamer",
@@ -1019,7 +1091,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-teddy",
@@ -1033,7 +1106,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-namgung",
@@ -1047,7 +1121,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-zeus",
@@ -1061,7 +1136,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kanavi",
@@ -1075,7 +1151,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-zeka",
@@ -1089,7 +1166,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-guamyusi",
@@ -1103,7 +1181,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-delight",
@@ -1117,7 +1196,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-rich",
@@ -1131,7 +1211,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-willer",
@@ -1145,7 +1226,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-ucal",
@@ -1159,7 +1241,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-lazyfeel",
@@ -1173,7 +1256,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-andil",
@@ -1187,7 +1271,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-perfect",
@@ -1201,7 +1286,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-cuzz",
@@ -1215,7 +1301,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-bdd",
@@ -1229,7 +1316,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-aiming",
@@ -1243,7 +1331,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-effort",
@@ -1257,7 +1346,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kingen",
@@ -1271,7 +1361,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-sponge",
@@ -1285,7 +1376,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-scout",
@@ -1299,7 +1391,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-diable",
@@ -1313,7 +1406,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-lehends",
@@ -1327,7 +1421,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-doran",
@@ -1341,7 +1436,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-oner",
@@ -1355,7 +1451,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-faker",
@@ -1369,7 +1466,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-peyz",
@@ -1383,7 +1481,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-keria",
@@ -1397,7 +1496,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-thanatos",
@@ -1411,7 +1511,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-blaber",
@@ -1425,7 +1526,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-apa",
@@ -1439,7 +1541,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-loki",
@@ -1453,7 +1556,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-zven",
@@ -1467,7 +1571,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-tactical",
@@ -1481,7 +1586,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-vulcan",
@@ -1495,7 +1601,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-photon",
@@ -1509,7 +1616,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-exyu",
@@ -1523,7 +1631,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-palafox",
@@ -1537,7 +1646,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-fbi",
@@ -1551,7 +1661,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-ignar",
@@ -1565,7 +1676,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-gakgos",
@@ -1579,7 +1691,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-gryffinn",
@@ -1593,7 +1706,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-quad",
@@ -1607,7 +1721,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-massu",
@@ -1621,7 +1736,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-cryogen",
@@ -1635,7 +1751,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-dhokla",
@@ -1649,7 +1766,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-inspired",
@@ -1663,7 +1781,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-saint",
@@ -1677,7 +1796,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-berserker",
@@ -1691,7 +1811,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-isles",
@@ -1705,7 +1826,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-impact",
@@ -1719,7 +1841,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-hambak",
@@ -1733,7 +1856,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-darkwings",
@@ -1747,7 +1871,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-rahel",
@@ -1761,7 +1886,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-huhi",
@@ -1775,7 +1901,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-fudge",
@@ -1789,7 +1916,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-contractz",
@@ -1803,7 +1931,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-zinie",
@@ -1817,7 +1946,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-bvoy",
@@ -1831,7 +1961,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-zeyzal",
@@ -1845,7 +1976,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-morgan",
@@ -1859,7 +1991,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-josedeodo",
@@ -1873,7 +2006,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-quid",
@@ -1887,7 +2021,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-yeon",
@@ -1901,7 +2036,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-corejj",
@@ -1915,7 +2051,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-srtty",
@@ -1929,7 +2066,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kryra",
@@ -1943,7 +2081,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-callme",
@@ -1957,7 +2096,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-sajed",
@@ -1971,7 +2111,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-lyonz",
@@ -1985,7 +2126,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-rest",
@@ -1999,7 +2141,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-shad0w",
@@ -2013,7 +2156,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-pout",
@@ -2027,7 +2171,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-doggo",
@@ -2041,7 +2186,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kino",
@@ -2055,7 +2201,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-evi",
@@ -2069,7 +2216,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-van1",
@@ -2083,7 +2231,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-aria",
@@ -2097,7 +2246,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-marble",
@@ -2111,7 +2261,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-vsta",
@@ -2125,7 +2276,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kiaya",
@@ -2139,7 +2291,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-draktharr",
@@ -2153,7 +2306,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-aress",
@@ -2167,7 +2321,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-gloryy",
@@ -2181,7 +2336,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-artemis",
@@ -2195,7 +2351,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-taki",
@@ -2209,7 +2366,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-flauren",
@@ -2223,7 +2381,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-pop9",
@@ -2237,7 +2396,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-hongsuo",
@@ -2251,7 +2411,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-feng",
@@ -2265,7 +2426,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-shiauc",
@@ -2279,7 +2441,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-momo",
@@ -2293,7 +2456,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-citrus",
@@ -2307,7 +2471,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-fisher",
@@ -2321,7 +2486,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kakkun",
@@ -2335,7 +2501,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-woody",
@@ -2349,7 +2516,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-1jiang",
@@ -2363,7 +2531,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-husha",
@@ -2377,7 +2546,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-jimien",
@@ -2391,7 +2561,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-shunn",
@@ -2405,7 +2576,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-orca",
@@ -2419,7 +2591,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kratos",
@@ -2433,7 +2606,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-gury",
@@ -2447,7 +2621,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-chika",
@@ -2461,7 +2636,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-seany",
@@ -2475,7 +2651,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-harky",
@@ -2489,7 +2666,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-siuloong",
@@ -2503,7 +2681,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-hiro02",
@@ -2517,7 +2696,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-pun",
@@ -2531,7 +2711,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-hizto",
@@ -2545,7 +2726,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-dire",
@@ -2559,7 +2741,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-eddie",
@@ -2573,7 +2756,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-bie",
@@ -2587,7 +2771,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-curty",
@@ -2601,7 +2786,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-peach",
@@ -2615,7 +2801,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-cody",
@@ -2629,7 +2816,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-bao",
@@ -2643,7 +2831,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-momochi",
@@ -2657,7 +2846,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-guigo",
@@ -2671,7 +2861,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-tatu",
@@ -2685,7 +2876,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-tutsz",
@@ -2699,7 +2891,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-ayu",
@@ -2713,7 +2906,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-jojo",
@@ -2727,7 +2921,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-devost",
@@ -2741,7 +2936,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-booki",
@@ -2755,7 +2951,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-enga",
@@ -2769,7 +2966,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-snaker",
@@ -2783,7 +2981,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-toplop",
@@ -2797,7 +2996,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-xyno",
@@ -2811,7 +3011,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-sinatra",
@@ -2825,7 +3026,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-uzent",
@@ -2839,7 +3041,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-boal",
@@ -2853,7 +3056,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-cariok",
@@ -2867,7 +3071,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-keine",
@@ -2881,7 +3086,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kuri",
@@ -2895,7 +3101,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-zynts",
@@ -2909,7 +3116,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-stepz",
@@ -2923,7 +3131,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kaze",
@@ -2937,7 +3146,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-morttheus",
@@ -2951,7 +3161,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-frosty",
@@ -2965,7 +3176,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-zekas",
@@ -2979,7 +3191,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-disamis",
@@ -2993,7 +3206,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-mireu",
@@ -3007,7 +3221,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-ceo",
@@ -3021,7 +3236,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-scamber",
@@ -3035,7 +3251,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-zest",
@@ -3049,7 +3266,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-curse",
@@ -3063,7 +3281,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-feisty",
@@ -3077,7 +3296,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-duduhh",
@@ -3091,7 +3311,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-ackerman",
@@ -3105,7 +3326,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-flandre",
@@ -3119,7 +3341,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-tarzan",
@@ -3133,7 +3356,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-shanks",
@@ -3147,7 +3371,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-hope",
@@ -3161,7 +3386,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kael",
@@ -3175,7 +3401,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-bin",
@@ -3189,7 +3416,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-wenbo",
@@ -3203,7 +3431,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-xun",
@@ -3217,7 +3446,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-knight",
@@ -3231,7 +3461,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-viper",
@@ -3245,7 +3476,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-on",
@@ -3259,7 +3491,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-theshy",
@@ -3273,7 +3506,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-wei",
@@ -3287,7 +3521,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-renard",
@@ -3301,7 +3536,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-jiaqi",
@@ -3315,7 +3551,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-meiko",
@@ -3329,7 +3566,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-xiaoxu",
@@ -3343,7 +3581,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-junjia",
@@ -3357,7 +3596,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-hongq",
@@ -3371,7 +3611,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-gala",
@@ -3385,7 +3626,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-vampire",
@@ -3399,7 +3641,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-hoya",
@@ -3413,7 +3656,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-guwon",
@@ -3427,7 +3671,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-care",
@@ -3441,7 +3686,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-assum",
@@ -3455,7 +3701,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-zhuo",
@@ -3469,7 +3716,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-cube",
@@ -3483,7 +3731,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-monki",
@@ -3497,7 +3746,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-karis",
@@ -3511,7 +3761,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-about",
@@ -3525,7 +3776,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-erha",
@@ -3539,7 +3791,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-zuian",
@@ -3553,7 +3806,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-tian",
@@ -3567,7 +3821,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-creme",
@@ -3581,7 +3836,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-jackeylove",
@@ -3595,7 +3851,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-fengyue",
@@ -3609,7 +3866,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-zika",
@@ -3623,7 +3881,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-jiejie",
@@ -3637,7 +3896,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-xiaohu",
@@ -3651,7 +3911,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-elk",
@@ -3665,7 +3926,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-hang",
@@ -3679,7 +3941,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-zdz",
@@ -3693,7 +3956,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-xiaohao",
@@ -3707,7 +3971,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-sinian",
@@ -3721,7 +3986,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-leave",
@@ -3735,7 +4001,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-parukia",
@@ -3749,7 +4016,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-burdol",
@@ -3763,7 +4031,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-heng",
@@ -3777,7 +4046,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-tangyuan",
@@ -3791,7 +4061,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-shaoye",
@@ -3805,7 +4076,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-ycx",
@@ -3819,7 +4091,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-sheer",
@@ -3833,7 +4106,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-croco",
@@ -3847,7 +4121,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-bulldog",
@@ -3861,7 +4136,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-1xn",
@@ -3875,7 +4151,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-missing",
@@ -3889,7 +4166,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-hery",
@@ -3903,7 +4181,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-re0",
@@ -3917,7 +4196,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-juhan",
@@ -3931,7 +4211,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-haichao",
@@ -3945,7 +4226,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-photic",
@@ -3959,7 +4241,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-starry",
@@ -3973,7 +4256,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-moham",
@@ -3987,7 +4271,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-keshi",
@@ -4001,7 +4286,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-junhao",
@@ -4015,7 +4301,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-heru",
@@ -4029,7 +4316,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-ahn",
@@ -4043,7 +4331,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-feather",
@@ -4057,7 +4346,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-sasi",
@@ -4071,7 +4361,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-climber",
@@ -4085,7 +4376,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-saber",
@@ -4099,7 +4391,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-hena",
@@ -4113,7 +4406,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-xiaoxia",
@@ -4127,7 +4421,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "msi-brokenblade",
@@ -4141,7 +4436,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-labrov",
@@ -4155,7 +4451,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-caps",
@@ -4169,7 +4466,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-skewmond",
@@ -4183,7 +4481,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-hanssama",
@@ -4197,7 +4496,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-dhokla",
@@ -4211,7 +4511,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-inspired",
@@ -4225,7 +4526,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-saint",
@@ -4239,7 +4541,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-berserker",
@@ -4253,7 +4556,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-isles",
@@ -4267,7 +4571,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-zeus",
@@ -4281,7 +4586,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-kanavi",
@@ -4295,7 +4601,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-zeka",
@@ -4309,7 +4616,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-guamyusi",
@@ -4323,7 +4631,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-delight",
@@ -4337,7 +4646,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-hiro02",
@@ -4351,7 +4661,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-doran",
@@ -4365,7 +4676,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-oner",
@@ -4379,7 +4691,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-faker",
@@ -4393,7 +4706,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-peyz",
@@ -4407,7 +4721,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-keria",
@@ -4421,7 +4736,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-morgan",
@@ -4435,7 +4751,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-josedeodo",
@@ -4449,7 +4766,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-quid",
@@ -4463,7 +4781,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-yeon",
@@ -4477,7 +4796,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-corejj",
@@ -4491,7 +4811,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-bin",
@@ -4505,7 +4826,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-xun",
@@ -4519,7 +4841,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-knight",
@@ -4533,7 +4856,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-viper",
@@ -4547,7 +4871,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "msi-on",
@@ -4561,7 +4886,8 @@
     "border": "/assets/border-msi.png",
     "background": "/assets/background-msi.png",
     "rarity": "msi",
-    "fade": "/assets/fade-msi.png"
+    "fade": "/assets/fade-msi.png",
+    "marketable": true
   },
   {
     "id": "pentakill-peyz",
@@ -4575,7 +4901,8 @@
     "border": "/assets/border-pentakill.png",
     "background": "/assets/background-pentakill.png",
     "rarity": "pentakill",
-    "fade": "/assets/fade-pentakill.png"
+    "fade": "/assets/fade-pentakill.png",
+    "marketable": true
   },
   {
     "id": "pentakill-peyz-2",
@@ -4589,7 +4916,8 @@
     "border": "/assets/border-pentakill.png",
     "background": "/assets/background-pentakill.png",
     "rarity": "pentakill",
-    "fade": "/assets/fade-pentakill.png"
+    "fade": "/assets/fade-pentakill.png",
+    "marketable": true
   },
   {
     "id": "tn-josedeodo",
@@ -4603,7 +4931,8 @@
     "border": "/assets/border-tn.png",
     "background": "/assets/background-tn.png",
     "rarity": "takenotes",
-    "fade": "/assets/fade-tn.png"
+    "fade": "/assets/fade-tn.png",
+    "marketable": true
   },
   {
     "id": "pentakill-caps",
@@ -4617,7 +4946,8 @@
     "border": "/assets/border-pentakill.png",
     "background": "/assets/background-pentakill.png",
     "rarity": "pentakill",
-    "fade": "/assets/fade-pentakill.png"
+    "fade": "/assets/fade-pentakill.png",
+    "marketable": true
   },
   {
     "id": "b-th3antonio",
@@ -4631,7 +4961,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-time",
@@ -4645,7 +4976,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-dyenn",
@@ -4659,7 +4991,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-rayito",
@@ -4673,7 +5006,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-attila",
@@ -4687,7 +5021,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-night-slayer",
@@ -4701,7 +5036,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-xns",
@@ -4715,7 +5051,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-fresskowy",
@@ -4729,7 +5066,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-13",
@@ -4743,7 +5081,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-myrtus",
@@ -4757,7 +5096,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-pasameelcelo",
@@ -4771,7 +5111,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-ivama",
@@ -4785,7 +5126,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-midnight",
@@ -4799,7 +5141,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-adrianlaneitor",
@@ -4813,7 +5156,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-xixauxas",
@@ -4827,7 +5171,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-papiteero",
@@ -4841,7 +5186,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-lurox",
@@ -4855,7 +5201,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-mercy9",
@@ -4869,7 +5216,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-lure",
@@ -4883,7 +5231,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-batuu",
@@ -4897,7 +5246,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-bobsik",
@@ -4911,7 +5261,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-clicker",
@@ -4925,7 +5276,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-mentos",
@@ -4939,7 +5291,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-marcv1",
@@ -4953,7 +5306,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-deleted",
@@ -4967,7 +5321,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-niqkl",
@@ -4981,7 +5336,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-pegaso",
@@ -4995,7 +5351,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-hydra",
@@ -5009,7 +5366,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kaii",
@@ -5023,7 +5381,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-timr",
@@ -5037,7 +5396,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kozi",
@@ -5051,7 +5411,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-bluerzor",
@@ -5065,7 +5426,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-escik",
@@ -5079,7 +5441,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-andariel",
@@ -5093,7 +5456,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-ilevi",
@@ -5107,7 +5471,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-selenex",
@@ -5121,7 +5486,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-koldo",
@@ -5135,7 +5501,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-macaquinho",
@@ -5149,7 +5516,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-legolas",
@@ -5163,7 +5531,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-oscure",
@@ -5177,7 +5546,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "legacy-uzi",
@@ -5191,7 +5561,8 @@
     "border": "/assets/border-legacy.png",
     "background": "/assets/background-legacy.png",
     "rarity": "legacy",
-    "fade": "/assets/fade-legacy.png"
+    "fade": "/assets/fade-legacy.png",
+    "marketable": true
   },
   {
     "id": "legacy-mata",
@@ -5205,7 +5576,8 @@
     "border": "/assets/border-legacy.png",
     "background": "/assets/background-legacy.png",
     "rarity": "legacy",
-    "fade": "/assets/fade-legacy.png"
+    "fade": "/assets/fade-legacy.png",
+    "marketable": true
   },
   {
     "id": "legacy-marin",
@@ -5219,7 +5591,8 @@
     "border": "/assets/border-legacy.png",
     "background": "/assets/background-legacy.png",
     "rarity": "legacy",
-    "fade": "/assets/fade-legacy.png"
+    "fade": "/assets/fade-legacy.png",
+    "marketable": true
   },
   {
     "id": "legacy-bengi",
@@ -5233,7 +5606,8 @@
     "border": "/assets/border-legacy.png",
     "background": "/assets/background-legacy.png",
     "rarity": "legacy",
-    "fade": "/assets/fade-legacy.png"
+    "fade": "/assets/fade-legacy.png",
+    "marketable": true
   },
   {
     "id": "legacy-xpeke",
@@ -5247,7 +5621,8 @@
     "border": "/assets/border-legacy.png",
     "background": "/assets/background-legacy.png",
     "rarity": "legacy",
-    "fade": "/assets/fade-legacy.png"
+    "fade": "/assets/fade-legacy.png",
+    "marketable": true
   },
   {
     "id": "b-xkenzuke",
@@ -5261,7 +5636,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-carlsen",
@@ -5275,7 +5651,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-thayger",
@@ -5289,7 +5666,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-omon",
@@ -5303,7 +5681,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-harpoon",
@@ -5317,7 +5696,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-zoelys",
@@ -5331,7 +5711,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-badlulu",
@@ -5345,7 +5726,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kaboom",
@@ -5359,7 +5741,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-dajor",
@@ -5373,7 +5756,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-soldier",
@@ -5387,7 +5771,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-whiteinn",
@@ -5401,7 +5786,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-ragner",
@@ -5415,7 +5801,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-shift",
@@ -5429,7 +5816,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kofte",
@@ -5443,7 +5831,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-3xa",
@@ -5457,7 +5846,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-mersa",
@@ -5471,7 +5861,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-tao",
@@ -5485,7 +5876,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-yukino",
@@ -5499,7 +5891,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kamiloo",
@@ -5513,7 +5906,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-looki",
@@ -5527,7 +5921,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-prime",
@@ -5541,7 +5936,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-yeti",
@@ -5555,7 +5951,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-spooky",
@@ -5569,7 +5966,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-nafkelah",
@@ -5583,7 +5981,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-deadly",
@@ -5597,7 +5996,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-steeeelback",
@@ -5611,7 +6011,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-kryze",
@@ -5625,7 +6026,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-zicssi",
@@ -5639,7 +6041,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-jool",
@@ -5653,7 +6056,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-aetinoth",
@@ -5667,7 +6071,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-piero",
@@ -5681,7 +6086,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-spooder",
@@ -5695,7 +6101,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-stefan",
@@ -5709,7 +6116,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-toffe",
@@ -5723,7 +6131,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-axelent",
@@ -5737,7 +6146,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-thomas",
@@ -5751,7 +6161,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-potent",
@@ -5765,7 +6176,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-dawciu",
@@ -5779,7 +6191,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-czajek",
@@ -5793,7 +6206,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-yakkey",
@@ -5807,7 +6221,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-dekap",
@@ -5821,7 +6236,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-adam",
@@ -5835,7 +6251,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-manaty",
@@ -5849,7 +6266,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-saken",
@@ -5863,7 +6281,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-jezu",
@@ -5877,7 +6296,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "b-riippp",
@@ -5891,7 +6311,8 @@
     "border": "/assets/border.png",
     "background": "/assets/background.png",
     "rarity": "base",
-    "fade": "/assets/fade.png"
+    "fade": "/assets/fade.png",
+    "marketable": true
   },
   {
     "id": "spotlight-elyoya",
@@ -5905,7 +6326,8 @@
     "border": "/assets/border-spotlight.png",
     "background": "/assets/background-spotlight.png",
     "rarity": "spotlight",
-    "fade": "/assets/fade-spotlight.png"
+    "fade": "/assets/fade-spotlight.png",
+    "marketable": false
   },
   {
     "id": "spotlight-showmaker",
@@ -5919,7 +6341,8 @@
     "border": "/assets/border-spotlight.png",
     "background": "/assets/background-spotlight.png",
     "rarity": "spotlight",
-    "fade": "/assets/fade-spotlight.png"
+    "fade": "/assets/fade-spotlight.png",
+    "marketable": false
   },
   {
     "id": "spotlight-inspired",
@@ -5933,7 +6356,8 @@
     "border": "/assets/border-spotlight.png",
     "background": "/assets/background-spotlight.png",
     "rarity": "spotlight",
-    "fade": "/assets/fade-spotlight.png"
+    "fade": "/assets/fade-spotlight.png",
+    "marketable": false
   },
   {
     "id": "spotlight-theshy",
@@ -5947,7 +6371,8 @@
     "border": "/assets/border-spotlight.png",
     "background": "/assets/background-spotlight.png",
     "rarity": "spotlight",
-    "fade": "/assets/fade-spotlight.png"
+    "fade": "/assets/fade-spotlight.png",
+    "marketable": false
   },
   {
     "id": "spotlight-doggo",
@@ -5961,7 +6386,8 @@
     "border": "/assets/border-spotlight.png",
     "background": "/assets/background-spotlight.png",
     "rarity": "spotlight",
-    "fade": "/assets/fade-spotlight.png"
+    "fade": "/assets/fade-spotlight.png",
+    "marketable": false
   },
   {
     "id": "pentakill-bdd",
@@ -5975,7 +6401,8 @@
     "border": "/assets/border-pentakill.png",
     "background": "/assets/background-pentakill.png",
     "rarity": "pen",
-    "fade": "/assets/fade-pentakill.png"
+    "fade": "/assets/fade-pentakill.png",
+    "marketable": true
   },
   {
     "id": "pentakill-escik",
@@ -5989,6 +6416,7 @@
     "border": "/assets/border-pentakill.png",
     "background": "/assets/background-pentakill.png",
     "rarity": "pentakill",
-    "fade": "/assets/fade-pentakill.png"
+    "fade": "/assets/fade-pentakill.png",
+    "marketable": true
   }
 ]
