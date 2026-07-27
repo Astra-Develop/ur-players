@@ -6400,7 +6400,7 @@
     "league": "lck",
     "border": "/assets/border-pentakill.png",
     "background": "/assets/background-pentakill.png",
-    "rarity": "pen",
+    "rarity": "pentakill",
     "fade": "/assets/fade-pentakill.png",
     "marketable": true
   },
