@@ -1,0 +1,1271 @@
+[
+  {
+    "name": "Canna",
+    "nationality": "kr",
+    "league": "LEC",
+    "team": "Karmine Corp",
+    "role": "Top",
+    "overall": 87,
+    "rarity": "base"
+  },
+  {
+    "name": "Yike",
+    "nationality": "se",
+    "league": "LEC",
+    "team": "Karmine Corp",
+    "role": "Jungle",
+    "overall": 86,
+    "rarity": "base"
+  },
+  {
+    "name": "kyeahoo",
+    "nationality": "kr",
+    "league": "LEC",
+    "team": "Karmine Corp",
+    "role": "Mid",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Caliste",
+    "nationality": "fr",
+    "league": "LEC",
+    "team": "Karmine Corp",
+    "role": "ADC",
+    "overall": 86,
+    "rarity": "base"
+  },
+  {
+    "name": "Busio",
+    "nationality": "us",
+    "league": "LEC",
+    "team": "Karmine Corp",
+    "role": "Support",
+    "overall": 85,
+    "rarity": "base"
+  },
+  {
+    "name": "BrokenBlade",
+    "nationality": "de",
+    "league": "LEC",
+    "team": "G2 Esports",
+    "role": "Top",
+    "overall": 87,
+    "rarity": "base"
+  },
+  {
+    "name": "SkewMond",
+    "nationality": "fr",
+    "league": "LEC",
+    "team": "G2 Esports",
+    "role": "Jungle",
+    "overall": 86,
+    "rarity": "base"
+  },
+  {
+    "name": "Caps",
+    "nationality": "dk",
+    "league": "LEC",
+    "team": "G2 Esports",
+    "role": "Mid",
+    "overall": 89,
+    "rarity": "base"
+  },
+  {
+    "name": "Hans Sama",
+    "nationality": "fr",
+    "league": "LEC",
+    "team": "G2 Esports",
+    "role": "ADC",
+    "overall": 87,
+    "rarity": "base"
+  },
+  {
+    "name": "Labrov",
+    "nationality": "gr",
+    "league": "LEC",
+    "team": "G2 Esports",
+    "role": "Support",
+    "overall": 87,
+    "rarity": "base"
+  },
+  {
+    "name": "Naak Nako",
+    "nationality": "tr",
+    "league": "LEC",
+    "team": "Team Vitality",
+    "role": "Top",
+    "overall": 85,
+    "rarity": "base"
+  },
+  {
+    "name": "Lyncas",
+    "nationality": "lt",
+    "league": "LEC",
+    "team": "Team Vitality",
+    "role": "Jungle",
+    "overall": 81,
+    "rarity": "base"
+  },
+  {
+    "name": "FIESTA",
+    "nationality": "kr",
+    "league": "LEC",
+    "team": "Team Vitality",
+    "role": "Mid",
+    "overall": 80,
+    "rarity": "base"
+  },
+  {
+    "name": "Carzzy",
+    "nationality": "cz",
+    "league": "LEC",
+    "team": "Team Vitality",
+    "role": "ADC",
+    "overall": 85,
+    "rarity": "base"
+  },
+  {
+    "name": "Fleshy",
+    "nationality": "tr",
+    "league": "LEC",
+    "team": "Team Vitality",
+    "role": "Support",
+    "overall": 79,
+    "rarity": "base"
+  },
+  {
+    "name": "Oscarinin",
+    "nationality": "es",
+    "league": "LEC",
+    "team": "GIANTX",
+    "role": "Top",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "ISMA",
+    "nationality": "fr",
+    "league": "LEC",
+    "team": "GIANTX",
+    "role": "Jungle",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Jackies",
+    "nationality": "cz",
+    "league": "LEC",
+    "team": "GIANTX",
+    "role": "Mid",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Flakked",
+    "nationality": "es",
+    "league": "LEC",
+    "team": "GIANTX",
+    "role": "ADC",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Jun",
+    "nationality": "kr",
+    "league": "LEC",
+    "team": "GIANTX",
+    "role": "Support",
+    "overall": 85,
+    "rarity": "base"
+  },
+  {
+    "name": "Maynter",
+    "nationality": "ua",
+    "league": "LEC",
+    "team": "Natus Vincere",
+    "role": "Top",
+    "overall": 78,
+    "rarity": "base"
+  },
+  {
+    "name": "Rhilech",
+    "nationality": "tr",
+    "league": "LEC",
+    "team": "Natus Vincere",
+    "role": "Jungle",
+    "overall": 78,
+    "rarity": "base"
+  },
+  {
+    "name": "Poby",
+    "nationality": "kr",
+    "league": "LEC",
+    "team": "Natus Vincere",
+    "role": "Mid",
+    "overall": 81,
+    "rarity": "base"
+  },
+  {
+    "name": "SamD",
+    "nationality": "kr",
+    "league": "LEC",
+    "team": "Natus Vincere",
+    "role": "ADC",
+    "overall": 80,
+    "rarity": "base"
+  },
+  {
+    "name": "Parus",
+    "nationality": "tr",
+    "league": "LEC",
+    "team": "Natus Vincere",
+    "role": "Support",
+    "overall": 79,
+    "rarity": "base"
+  },
+  {
+    "name": "Wunder",
+    "nationality": "dk",
+    "league": "LEC",
+    "team": "SK Gaming",
+    "role": "Top",
+    "overall": 82,
+    "rarity": "base"
+  },
+  {
+    "name": "Skeanz",
+    "nationality": "fr",
+    "league": "LEC",
+    "team": "SK Gaming",
+    "role": "Jungle",
+    "overall": 79,
+    "rarity": "base"
+  },
+  {
+    "name": "SlowQ",
+    "nationality": "kr",
+    "league": "LEC",
+    "team": "SK Gaming",
+    "role": "Mid",
+    "overall": 80,
+    "rarity": "base"
+  },
+  {
+    "name": "Jopa",
+    "nationality": "hr",
+    "league": "LEC",
+    "team": "SK Gaming",
+    "role": "ADC",
+    "overall": 79,
+    "rarity": "base"
+  },
+  {
+    "name": "Mikyx",
+    "nationality": "si",
+    "league": "LEC",
+    "team": "SK Gaming",
+    "role": "Support",
+    "overall": 83,
+    "rarity": "base"
+  },
+  {
+    "name": "Myrwn",
+    "nationality": "es",
+    "league": "LEC",
+    "team": "Movistar KOI",
+    "role": "Top",
+    "overall": 83,
+    "rarity": "base"
+  },
+  {
+    "name": "Elyoya",
+    "nationality": "es",
+    "league": "LEC",
+    "team": "Movistar KOI",
+    "role": "Jungle",
+    "overall": 87,
+    "rarity": "base"
+  },
+  {
+    "name": "Jojopyun",
+    "nationality": "ca",
+    "league": "LEC",
+    "team": "Movistar KOI",
+    "role": "Mid",
+    "overall": 87,
+    "rarity": "base"
+  },
+  {
+    "name": "Supa",
+    "nationality": "es",
+    "league": "LEC",
+    "team": "Movistar KOI",
+    "role": "ADC",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Alvaro",
+    "nationality": "es",
+    "league": "LEC",
+    "team": "Movistar KOI",
+    "role": "Support",
+    "overall": 85,
+    "rarity": "base"
+  },
+  {
+    "name": "Tracyn",
+    "nationality": "pl",
+    "league": "LEC",
+    "team": "Team Heretics",
+    "role": "Top",
+    "overall": 78,
+    "rarity": "base"
+  },
+  {
+    "name": "Daglas",
+    "nationality": "pl",
+    "league": "LEC",
+    "team": "Team Heretics",
+    "role": "Jungle",
+    "overall": 80,
+    "rarity": "base"
+  },
+  {
+    "name": "Serin",
+    "nationality": "tr",
+    "league": "LEC",
+    "team": "Team Heretics",
+    "role": "Mid",
+    "overall": 81,
+    "rarity": "base"
+  },
+  {
+    "name": "Hype",
+    "nationality": "kr",
+    "league": "LEC",
+    "team": "Team Heretics",
+    "role": "ADC",
+    "overall": 80,
+    "rarity": "base"
+  },
+  {
+    "name": "Way",
+    "nationality": "kr",
+    "league": "LEC",
+    "team": "Team Heretics",
+    "role": "Support",
+    "overall": 79,
+    "rarity": "base"
+  },
+  {
+    "name": "Soboro",
+    "nationality": "kr",
+    "league": "LEC",
+    "team": "Fnatic",
+    "role": "Top",
+    "overall": 82,
+    "rarity": "base"
+  },
+  {
+    "name": "Razork",
+    "nationality": "es",
+    "league": "LEC",
+    "team": "Fnatic",
+    "role": "Jungle",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Vladi",
+    "nationality": "gr",
+    "league": "LEC",
+    "team": "Fnatic",
+    "role": "Mid",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Upset",
+    "nationality": "de",
+    "league": "LEC",
+    "team": "Fnatic",
+    "role": "ADC",
+    "overall": 83,
+    "rarity": "base"
+  },
+  {
+    "name": "Lospa",
+    "nationality": "kr",
+    "league": "LEC",
+    "team": "Fnatic",
+    "role": "Support",
+    "overall": 79,
+    "rarity": "base"
+  },
+  {
+    "name": "Rooster",
+    "nationality": "kr",
+    "league": "LEC",
+    "team": "Shifters",
+    "role": "Top",
+    "overall": 83,
+    "rarity": "base"
+  },
+  {
+    "name": "Sheo",
+    "nationality": "fr",
+    "league": "LEC",
+    "team": "Shifters",
+    "role": "Jungle",
+    "overall": 83,
+    "rarity": "base"
+  },
+  {
+    "name": "nuc",
+    "nationality": "fr",
+    "league": "LEC",
+    "team": "Shifters",
+    "role": "Mid",
+    "overall": 83,
+    "rarity": "base"
+  },
+  {
+    "name": "Paduck",
+    "nationality": "kr",
+    "league": "LEC",
+    "team": "Shifters",
+    "role": "ADC",
+    "overall": 79,
+    "rarity": "base"
+  },
+  {
+    "name": "Stend",
+    "nationality": "fr",
+    "league": "LEC",
+    "team": "Shifters",
+    "role": "Support",
+    "overall": 80,
+    "rarity": "base"
+  },
+  {
+    "name": "Kiin",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Gen.G",
+    "role": "Top",
+    "overall": 90,
+    "rarity": "base"
+  },
+  {
+    "name": "Canyon",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Gen.G",
+    "role": "Jungle",
+    "overall": 91,
+    "rarity": "base"
+  },
+  {
+    "name": "Chovy",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Gen.G",
+    "role": "Mid",
+    "overall": 92,
+    "rarity": "base"
+  },
+  {
+    "name": "Ruler",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Gen.G",
+    "role": "ADC",
+    "overall": 91,
+    "rarity": "base"
+  },
+  {
+    "name": "Duro",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Gen.G",
+    "role": "Support",
+    "overall": 86,
+    "rarity": "base"
+  },
+  {
+    "name": "Doran",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "T1",
+    "role": "Top",
+    "overall": 87,
+    "rarity": "base"
+  },
+  {
+    "name": "Oner",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "T1",
+    "role": "Jungle",
+    "overall": 90,
+    "rarity": "base"
+  },
+  {
+    "name": "Faker",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "T1",
+    "role": "Mid",
+    "overall": 90,
+    "rarity": "base"
+  },
+  {
+    "name": "Peyz",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "T1",
+    "role": "ADC",
+    "overall": 92,
+    "rarity": "base"
+  },
+  {
+    "name": "Keria",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "T1",
+    "role": "Support",
+    "overall": 92,
+    "rarity": "base"
+  },
+  {
+    "name": "Zeus",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Hanwha Life Esports",
+    "role": "Top",
+    "overall": 91,
+    "rarity": "base"
+  },
+  {
+    "name": "Kanavi",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Hanwha Life Esports",
+    "role": "Jungle",
+    "overall": 90,
+    "rarity": "base"
+  },
+  {
+    "name": "Zeka",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Hanwha Life Esports",
+    "role": "Mid",
+    "overall": 90,
+    "rarity": "base"
+  },
+  {
+    "name": "Gumayusi",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Hanwha Life Esports",
+    "role": "ADC",
+    "overall": 91,
+    "rarity": "base"
+  },
+  {
+    "name": "Delight",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Hanwha Life Esports",
+    "role": "Support",
+    "overall": 89,
+    "rarity": "base"
+  },
+  {
+    "name": "Siwoo",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Dplus KIA",
+    "role": "Top",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Lucid",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Dplus KIA",
+    "role": "Jungle",
+    "overall": 87,
+    "rarity": "base"
+  },
+  {
+    "name": "ShowMaker",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Dplus KIA",
+    "role": "Mid",
+    "overall": 88,
+    "rarity": "base"
+  },
+  {
+    "name": "Smash",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Dplus KIA",
+    "role": "ADC",
+    "overall": 85,
+    "rarity": "base"
+  },
+  {
+    "name": "Career",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Dplus KIA",
+    "role": "Support",
+    "overall": 82,
+    "rarity": "base"
+  },
+  {
+    "name": "PerfecT",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "KT Rolster",
+    "role": "Top",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Cuzz",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "KT Rolster",
+    "role": "Jungle",
+    "overall": 88,
+    "rarity": "base"
+  },
+  {
+    "name": "Bdd",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "KT Rolster",
+    "role": "Mid",
+    "overall": 90,
+    "rarity": "base"
+  },
+  {
+    "name": "Jiwoo",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "KT Rolster",
+    "role": "ADC",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Effort",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "KT Rolster",
+    "role": "Support",
+    "overall": 82,
+    "rarity": "base"
+  },
+  {
+    "name": "Kingen",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Nongshim RedForce",
+    "role": "Top",
+    "overall": 86,
+    "rarity": "base"
+  },
+  {
+    "name": "Sponge",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Nongshim RedForce",
+    "role": "Jungle",
+    "overall": 82,
+    "rarity": "base"
+  },
+  {
+    "name": "Scout",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Nongshim RedForce",
+    "role": "Mid",
+    "overall": 88,
+    "rarity": "base"
+  },
+  {
+    "name": "Diable",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Nongshim RedForce",
+    "role": "ADC",
+    "overall": 83,
+    "rarity": "base"
+  },
+  {
+    "name": "Lehends",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Nongshim RedForce",
+    "role": "Support",
+    "overall": 87,
+    "rarity": "base"
+  },
+  {
+    "name": "Clear",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "BNK FEARX",
+    "role": "Top",
+    "overall": 83,
+    "rarity": "base"
+  },
+  {
+    "name": "Raptor",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "BNK FEARX",
+    "role": "Jungle",
+    "overall": 83,
+    "rarity": "base"
+  },
+  {
+    "name": "VicLa",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "BNK FEARX",
+    "role": "Mid",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Taeyoon",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "BNK FEARX",
+    "role": "ADC",
+    "overall": 82,
+    "rarity": "base"
+  },
+  {
+    "name": "Kellin",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "BNK FEARX",
+    "role": "Support",
+    "overall": 85,
+    "rarity": "base"
+  },
+  {
+    "name": "Frog",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Kiwoom DRX",
+    "role": "Top",
+    "overall": 78,
+    "rarity": "base"
+  },
+  {
+    "name": "Willer",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Kiwoom DRX",
+    "role": "Jungle",
+    "overall": 81,
+    "rarity": "base"
+  },
+  {
+    "name": "Ucal",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Kiwoom DRX",
+    "role": "Mid",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Aiming",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Kiwoom DRX",
+    "role": "ADC",
+    "overall": 87,
+    "rarity": "base"
+  },
+  {
+    "name": "Andil",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Kiwoom DRX",
+    "role": "Support",
+    "overall": 80,
+    "rarity": "base"
+  },
+  {
+    "name": "DuDu",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "DN SOOPers",
+    "role": "Top",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Sharvel",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "DN SOOPers",
+    "role": "Jungle",
+    "overall": 78,
+    "rarity": "base"
+  },
+  {
+    "name": "Clozer",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "DN SOOPers",
+    "role": "Mid",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "deokdam",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "DN SOOPers",
+    "role": "ADC",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Peter",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "DN SOOPers",
+    "role": "Support",
+    "overall": 81,
+    "rarity": "base"
+  },
+  {
+    "name": "Casting",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "HANJIN BRION",
+    "role": "Top",
+    "overall": 78,
+    "rarity": "base"
+  },
+  {
+    "name": "GIDEON",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "HANJIN BRION",
+    "role": "Jungle",
+    "overall": 80,
+    "rarity": "base"
+  },
+  {
+    "name": "Roamer",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "HANJIN BRION",
+    "role": "Mid",
+    "overall": 78,
+    "rarity": "base"
+  },
+  {
+    "name": "Teddy",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "HANJIN BRION",
+    "role": "ADC",
+    "overall": 82,
+    "rarity": "base"
+  },
+  {
+    "name": "Namgung",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "HANJIN BRION",
+    "role": "Support",
+    "overall": 78,
+    "rarity": "base"
+  },
+  {
+    "name": "Dhokla",
+    "nationality": "us",
+    "league": "LCS",
+    "team": "LYON",
+    "role": "Top",
+    "overall": 82,
+    "rarity": "base"
+  },
+  {
+    "name": "Inspired",
+    "nationality": "pl",
+    "league": "LCS",
+    "team": "LYON",
+    "role": "Jungle",
+    "overall": 89,
+    "rarity": "base"
+  },
+  {
+    "name": "Armao",
+    "nationality": "us",
+    "league": "LCS",
+    "team": "LYON",
+    "role": "Jungle",
+    "overall": 80,
+    "rarity": "base"
+  },
+  {
+    "name": "Saint",
+    "nationality": "kr",
+    "league": "LCS",
+    "team": "LYON",
+    "role": "Mid",
+    "overall": 83,
+    "rarity": "base"
+  },
+  {
+    "name": "Berserker",
+    "nationality": "kr",
+    "league": "LCS",
+    "team": "LYON",
+    "role": "ADC",
+    "overall": 88,
+    "rarity": "base"
+  },
+  {
+    "name": "Isles",
+    "nationality": "au",
+    "league": "LCS",
+    "team": "LYON",
+    "role": "Support",
+    "overall": 82,
+    "rarity": "base"
+  },
+  {
+    "name": "Morgan",
+    "nationality": "kr",
+    "league": "LCS",
+    "team": "Team Liquid",
+    "role": "Top",
+    "overall": 83,
+    "rarity": "base"
+  },
+  {
+    "name": "Josedeodo",
+    "nationality": "ar",
+    "league": "LCS",
+    "team": "Team Liquid",
+    "role": "Jungle",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Quid",
+    "nationality": "kr",
+    "league": "LCS",
+    "team": "Team Liquid",
+    "role": "Mid",
+    "overall": 86,
+    "rarity": "base"
+  },
+  {
+    "name": "Yeon",
+    "nationality": "us",
+    "league": "LCS",
+    "team": "Team Liquid",
+    "role": "ADC",
+    "overall": 87,
+    "rarity": "base"
+  },
+  {
+    "name": "CoreJJ",
+    "nationality": "kr",
+    "league": "LCS",
+    "team": "Team Liquid",
+    "role": "Support",
+    "overall": 86,
+    "rarity": "base"
+  },
+  {
+    "name": "Thanatos",
+    "nationality": "kr",
+    "league": "LCS",
+    "team": "Cloud9",
+    "role": "Top",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Blaber",
+    "nationality": "us",
+    "league": "LCS",
+    "team": "Cloud9",
+    "role": "Jungle",
+    "overall": 85,
+    "rarity": "base"
+  },
+  {
+    "name": "Loki",
+    "nationality": "kr",
+    "league": "LCS",
+    "team": "Cloud9",
+    "role": "Mid",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Tactical",
+    "nationality": "us",
+    "league": "LCS",
+    "team": "Cloud9",
+    "role": "ADC",
+    "overall": 83,
+    "rarity": "base"
+  },
+  {
+    "name": "Vulcan",
+    "nationality": "ca",
+    "league": "LCS",
+    "team": "Cloud9",
+    "role": "Support",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Fudge",
+    "nationality": "au",
+    "league": "LCS",
+    "team": "Shopify Rebellion",
+    "role": "Top",
+    "overall": 83,
+    "rarity": "base"
+  },
+  {
+    "name": "Contractz",
+    "nationality": "us",
+    "league": "LCS",
+    "team": "Shopify Rebellion",
+    "role": "Jungle",
+    "overall": 83,
+    "rarity": "base"
+  },
+  {
+    "name": "Zinie",
+    "nationality": "kr",
+    "league": "LCS",
+    "team": "Shopify Rebellion",
+    "role": "Mid",
+    "overall": 84,
+    "rarity": "base"
+  },
+  {
+    "name": "Bvoy",
+    "nationality": "kr",
+    "league": "LCS",
+    "team": "Shopify Rebellion",
+    "role": "ADC",
+    "overall": 83,
+    "rarity": "base"
+  },
+  {
+    "name": "Zeyzal",
+    "nationality": "us",
+    "league": "LCS",
+    "team": "Shopify Rebellion",
+    "role": "Support",
+    "overall": 82,
+    "rarity": "base"
+  },
+  {
+    "name": "GaKGoS",
+    "nationality": "tr",
+    "league": "LCS",
+    "team": "FlyQuest",
+    "role": "Top",
+    "overall": 81,
+    "rarity": "base"
+  },
+  {
+    "name": "Gryffinn",
+    "nationality": "us",
+    "league": "LCS",
+    "team": "FlyQuest",
+    "role": "Jungle",
+    "overall": 82,
+    "rarity": "base"
+  },
+  {
+    "name": "Quad",
+    "nationality": "kr",
+    "league": "LCS",
+    "team": "FlyQuest",
+    "role": "Mid",
+    "overall": 85,
+    "rarity": "base"
+  },
+  {
+    "name": "Massu",
+    "nationality": "ca",
+    "league": "LCS",
+    "team": "FlyQuest",
+    "role": "ADC",
+    "overall": 86,
+    "rarity": "base"
+  },
+  {
+    "name": "Cryogen",
+    "nationality": "vn",
+    "league": "LCS",
+    "team": "FlyQuest",
+    "role": "Support",
+    "overall": 79,
+    "rarity": "base"
+  },
+  {
+    "name": "Impact",
+    "nationality": "kr",
+    "league": "LCS",
+    "team": "Sentinels",
+    "role": "Top",
+    "overall": 85,
+    "rarity": "base"
+  },
+  {
+    "name": "HamBak",
+    "nationality": "kr",
+    "league": "LCS",
+    "team": "Sentinels",
+    "role": "Jungle",
+    "overall": 83,
+    "rarity": "base"
+  },
+  {
+    "name": "DARKWINGS",
+    "nationality": "us",
+    "league": "LCS",
+    "team": "Sentinels",
+    "role": "Mid",
+    "overall": 81,
+    "rarity": "base"
+  },
+  {
+    "name": "Rahel",
+    "nationality": "kr",
+    "league": "LCS",
+    "team": "Sentinels",
+    "role": "ADC",
+    "overall": 83,
+    "rarity": "base"
+  },
+  {
+    "name": "Huhi",
+    "nationality": "us",
+    "league": "LCS",
+    "team": "Sentinels",
+    "role": "Support",
+    "overall": 82,
+    "rarity": "base"
+  },
+  {
+    "name": "Denathor",
+    "nationality": "us",
+    "league": "LCS",
+    "team": "Dignitas",
+    "role": "Top",
+    "overall": 78,
+    "rarity": "base"
+  },
+  {
+    "name": "Dardoch",
+    "nationality": "us",
+    "league": "LCS",
+    "team": "Dignitas",
+    "role": "Jungle",
+    "overall": 80,
+    "rarity": "base"
+  },
+  {
+    "name": "Palafox",
+    "nationality": "us",
+    "league": "LCS",
+    "team": "Dignitas",
+    "role": "Mid",
+    "overall": 81,
+    "rarity": "base"
+  },
+  {
+    "name": "FBI",
+    "nationality": "au",
+    "league": "LCS",
+    "team": "Dignitas",
+    "role": "ADC",
+    "overall": 82,
+    "rarity": "base"
+  },
+  {
+    "name": "IgNar",
+    "nationality": "kr",
+    "league": "LCS",
+    "team": "Dignitas",
+    "role": "Support",
+    "overall": 82,
+    "rarity": "base"
+  },
+  {
+    "name": "Srtty",
+    "nationality": "au",
+    "league": "LCS",
+    "team": "Disguised",
+    "role": "Top",
+    "overall": 80,
+    "rarity": "base"
+  },
+  {
+    "name": "KryRa",
+    "nationality": "ca",
+    "league": "LCS",
+    "team": "Disguised",
+    "role": "Jungle",
+    "overall": 79,
+    "rarity": "base"
+  },
+  {
+    "name": "Callme",
+    "nationality": "kr",
+    "league": "LCS",
+    "team": "Disguised",
+    "role": "Mid",
+    "overall": 81,
+    "rarity": "base"
+  },
+  {
+    "name": "sajed",
+    "nationality": "us",
+    "league": "LCS",
+    "team": "Disguised",
+    "role": "ADC",
+    "overall": 79,
+    "rarity": "base"
+  },
+  {
+    "name": "Lyonz",
+    "nationality": "ar",
+    "league": "LCS",
+    "team": "Disguised",
+    "role": "Support",
+    "overall": 79,
+    "rarity": "base"
+  }
+]
