@@ -6,7 +6,8 @@
     "team": "Karmine Corp",
     "role": "Top",
     "overall": 87,
-    "rarity": "base"
+    "rarity": "base",
+    "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/KC_Canna_2026_Split_2.png/revision/latest?cb=20260721165929"
   },
   {
     "name": "Yike",
@@ -15,7 +16,8 @@
     "team": "Karmine Corp",
     "role": "Jungle",
     "overall": 86,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "kyeahoo",
@@ -24,7 +26,8 @@
     "team": "Karmine Corp",
     "role": "Mid",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Caliste",
@@ -33,7 +36,8 @@
     "team": "Karmine Corp",
     "role": "ADC",
     "overall": 86,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Busio",
@@ -42,7 +46,8 @@
     "team": "Karmine Corp",
     "role": "Support",
     "overall": 85,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "BrokenBlade",
@@ -51,7 +56,8 @@
     "team": "G2 Esports",
     "role": "Top",
     "overall": 87,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "SkewMond",
@@ -60,7 +66,8 @@
     "team": "G2 Esports",
     "role": "Jungle",
     "overall": 86,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Caps",
@@ -69,7 +76,8 @@
     "team": "G2 Esports",
     "role": "Mid",
     "overall": 89,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Hans Sama",
@@ -78,7 +86,8 @@
     "team": "G2 Esports",
     "role": "ADC",
     "overall": 87,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Labrov",
@@ -87,7 +96,8 @@
     "team": "G2 Esports",
     "role": "Support",
     "overall": 87,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Naak Nako",
@@ -96,7 +106,8 @@
     "team": "Team Vitality",
     "role": "Top",
     "overall": 85,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Lyncas",
@@ -105,7 +116,8 @@
     "team": "Team Vitality",
     "role": "Jungle",
     "overall": 81,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "FIESTA",
@@ -114,7 +126,8 @@
     "team": "Team Vitality",
     "role": "Mid",
     "overall": 80,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Carzzy",
@@ -123,7 +136,8 @@
     "team": "Team Vitality",
     "role": "ADC",
     "overall": 85,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Fleshy",
@@ -132,7 +146,8 @@
     "team": "Team Vitality",
     "role": "Support",
     "overall": 79,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Oscarinin",
@@ -141,7 +156,8 @@
     "team": "GIANTX",
     "role": "Top",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "ISMA",
@@ -150,7 +166,8 @@
     "team": "GIANTX",
     "role": "Jungle",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Jackies",
@@ -159,7 +176,8 @@
     "team": "GIANTX",
     "role": "Mid",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Flakked",
@@ -168,7 +186,8 @@
     "team": "GIANTX",
     "role": "ADC",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Jun",
@@ -177,7 +196,8 @@
     "team": "GIANTX",
     "role": "Support",
     "overall": 85,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Maynter",
@@ -186,7 +206,8 @@
     "team": "Natus Vincere",
     "role": "Top",
     "overall": 78,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Rhilech",
@@ -195,7 +216,8 @@
     "team": "Natus Vincere",
     "role": "Jungle",
     "overall": 78,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Poby",
@@ -204,7 +226,8 @@
     "team": "Natus Vincere",
     "role": "Mid",
     "overall": 81,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "SamD",
@@ -213,7 +236,8 @@
     "team": "Natus Vincere",
     "role": "ADC",
     "overall": 80,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Parus",
@@ -222,7 +246,8 @@
     "team": "Natus Vincere",
     "role": "Support",
     "overall": 79,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Wunder",
@@ -231,7 +256,8 @@
     "team": "SK Gaming",
     "role": "Top",
     "overall": 82,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Skeanz",
@@ -240,7 +266,8 @@
     "team": "SK Gaming",
     "role": "Jungle",
     "overall": 79,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "SlowQ",
@@ -249,7 +276,8 @@
     "team": "SK Gaming",
     "role": "Mid",
     "overall": 80,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Jopa",
@@ -258,7 +286,8 @@
     "team": "SK Gaming",
     "role": "ADC",
     "overall": 79,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Mikyx",
@@ -267,7 +296,8 @@
     "team": "SK Gaming",
     "role": "Support",
     "overall": 83,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Myrwn",
@@ -276,7 +306,8 @@
     "team": "Movistar KOI",
     "role": "Top",
     "overall": 83,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Elyoya",
@@ -285,7 +316,8 @@
     "team": "Movistar KOI",
     "role": "Jungle",
     "overall": 87,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Jojopyun",
@@ -294,7 +326,8 @@
     "team": "Movistar KOI",
     "role": "Mid",
     "overall": 87,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Supa",
@@ -303,7 +336,8 @@
     "team": "Movistar KOI",
     "role": "ADC",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Alvaro",
@@ -312,7 +346,8 @@
     "team": "Movistar KOI",
     "role": "Support",
     "overall": 85,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Tracyn",
@@ -321,7 +356,8 @@
     "team": "Team Heretics",
     "role": "Top",
     "overall": 78,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Daglas",
@@ -330,7 +366,8 @@
     "team": "Team Heretics",
     "role": "Jungle",
     "overall": 80,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Serin",
@@ -339,7 +376,8 @@
     "team": "Team Heretics",
     "role": "Mid",
     "overall": 81,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Hype",
@@ -348,7 +386,8 @@
     "team": "Team Heretics",
     "role": "ADC",
     "overall": 80,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Way",
@@ -357,7 +396,8 @@
     "team": "Team Heretics",
     "role": "Support",
     "overall": 79,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Soboro",
@@ -366,7 +406,8 @@
     "team": "Fnatic",
     "role": "Top",
     "overall": 82,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Razork",
@@ -375,7 +416,8 @@
     "team": "Fnatic",
     "role": "Jungle",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Vladi",
@@ -384,7 +426,8 @@
     "team": "Fnatic",
     "role": "Mid",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Upset",
@@ -393,7 +436,8 @@
     "team": "Fnatic",
     "role": "ADC",
     "overall": 83,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Lospa",
@@ -402,7 +446,8 @@
     "team": "Fnatic",
     "role": "Support",
     "overall": 79,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Rooster",
@@ -411,7 +456,8 @@
     "team": "Shifters",
     "role": "Top",
     "overall": 83,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Sheo",
@@ -420,7 +466,8 @@
     "team": "Shifters",
     "role": "Jungle",
     "overall": 83,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "nuc",
@@ -429,7 +476,8 @@
     "team": "Shifters",
     "role": "Mid",
     "overall": 83,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Paduck",
@@ -438,7 +486,8 @@
     "team": "Shifters",
     "role": "ADC",
     "overall": 79,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Stend",
@@ -447,7 +496,8 @@
     "team": "Shifters",
     "role": "Support",
     "overall": 80,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Kiin",
@@ -456,7 +506,8 @@
     "team": "Gen.G",
     "role": "Top",
     "overall": 90,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Canyon",
@@ -465,7 +516,8 @@
     "team": "Gen.G",
     "role": "Jungle",
     "overall": 91,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Chovy",
@@ -474,7 +526,8 @@
     "team": "Gen.G",
     "role": "Mid",
     "overall": 92,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Ruler",
@@ -483,7 +536,8 @@
     "team": "Gen.G",
     "role": "ADC",
     "overall": 91,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Duro",
@@ -492,7 +546,8 @@
     "team": "Gen.G",
     "role": "Support",
     "overall": 86,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Doran",
@@ -501,7 +556,8 @@
     "team": "T1",
     "role": "Top",
     "overall": 87,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Oner",
@@ -510,7 +566,8 @@
     "team": "T1",
     "role": "Jungle",
     "overall": 90,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Faker",
@@ -519,7 +576,8 @@
     "team": "T1",
     "role": "Mid",
     "overall": 90,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Peyz",
@@ -528,7 +586,8 @@
     "team": "T1",
     "role": "ADC",
     "overall": 92,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Keria",
@@ -537,7 +596,8 @@
     "team": "T1",
     "role": "Support",
     "overall": 92,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Zeus",
@@ -546,7 +606,8 @@
     "team": "Hanwha Life Esports",
     "role": "Top",
     "overall": 91,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Kanavi",
@@ -555,7 +616,8 @@
     "team": "Hanwha Life Esports",
     "role": "Jungle",
     "overall": 90,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Zeka",
@@ -564,7 +626,8 @@
     "team": "Hanwha Life Esports",
     "role": "Mid",
     "overall": 90,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Gumayusi",
@@ -573,7 +636,8 @@
     "team": "Hanwha Life Esports",
     "role": "ADC",
     "overall": 91,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Delight",
@@ -582,7 +646,8 @@
     "team": "Hanwha Life Esports",
     "role": "Support",
     "overall": 89,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Siwoo",
@@ -591,7 +656,8 @@
     "team": "Dplus KIA",
     "role": "Top",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Lucid",
@@ -600,7 +666,8 @@
     "team": "Dplus KIA",
     "role": "Jungle",
     "overall": 87,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "ShowMaker",
@@ -609,7 +676,8 @@
     "team": "Dplus KIA",
     "role": "Mid",
     "overall": 88,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Smash",
@@ -618,7 +686,8 @@
     "team": "Dplus KIA",
     "role": "ADC",
     "overall": 85,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Career",
@@ -627,7 +696,8 @@
     "team": "Dplus KIA",
     "role": "Support",
     "overall": 82,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "PerfecT",
@@ -636,7 +706,8 @@
     "team": "KT Rolster",
     "role": "Top",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Cuzz",
@@ -645,7 +716,8 @@
     "team": "KT Rolster",
     "role": "Jungle",
     "overall": 88,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Bdd",
@@ -654,7 +726,8 @@
     "team": "KT Rolster",
     "role": "Mid",
     "overall": 90,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Jiwoo",
@@ -663,7 +736,8 @@
     "team": "KT Rolster",
     "role": "ADC",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Effort",
@@ -672,7 +746,8 @@
     "team": "KT Rolster",
     "role": "Support",
     "overall": 82,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Kingen",
@@ -681,7 +756,8 @@
     "team": "Nongshim RedForce",
     "role": "Top",
     "overall": 86,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Sponge",
@@ -690,7 +766,8 @@
     "team": "Nongshim RedForce",
     "role": "Jungle",
     "overall": 82,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Scout",
@@ -699,7 +776,8 @@
     "team": "Nongshim RedForce",
     "role": "Mid",
     "overall": 88,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Diable",
@@ -708,7 +786,8 @@
     "team": "Nongshim RedForce",
     "role": "ADC",
     "overall": 83,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Lehends",
@@ -717,7 +796,8 @@
     "team": "Nongshim RedForce",
     "role": "Support",
     "overall": 87,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Clear",
@@ -726,7 +806,8 @@
     "team": "BNK FEARX",
     "role": "Top",
     "overall": 83,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Raptor",
@@ -735,7 +816,8 @@
     "team": "BNK FEARX",
     "role": "Jungle",
     "overall": 83,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "VicLa",
@@ -744,7 +826,8 @@
     "team": "BNK FEARX",
     "role": "Mid",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Taeyoon",
@@ -753,7 +836,8 @@
     "team": "BNK FEARX",
     "role": "ADC",
     "overall": 82,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Kellin",
@@ -762,7 +846,8 @@
     "team": "BNK FEARX",
     "role": "Support",
     "overall": 85,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Frog",
@@ -771,7 +856,8 @@
     "team": "Kiwoom DRX",
     "role": "Top",
     "overall": 78,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Willer",
@@ -780,7 +866,8 @@
     "team": "Kiwoom DRX",
     "role": "Jungle",
     "overall": 81,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Ucal",
@@ -789,7 +876,8 @@
     "team": "Kiwoom DRX",
     "role": "Mid",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Aiming",
@@ -798,7 +886,8 @@
     "team": "Kiwoom DRX",
     "role": "ADC",
     "overall": 87,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Andil",
@@ -807,7 +896,8 @@
     "team": "Kiwoom DRX",
     "role": "Support",
     "overall": 80,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "DuDu",
@@ -816,7 +906,8 @@
     "team": "DN SOOPers",
     "role": "Top",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Sharvel",
@@ -825,7 +916,8 @@
     "team": "DN SOOPers",
     "role": "Jungle",
     "overall": 78,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Clozer",
@@ -834,7 +926,8 @@
     "team": "DN SOOPers",
     "role": "Mid",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "deokdam",
@@ -843,7 +936,8 @@
     "team": "DN SOOPers",
     "role": "ADC",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Peter",
@@ -852,7 +946,8 @@
     "team": "DN SOOPers",
     "role": "Support",
     "overall": 81,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Casting",
@@ -861,7 +956,8 @@
     "team": "HANJIN BRION",
     "role": "Top",
     "overall": 78,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "GIDEON",
@@ -870,7 +966,8 @@
     "team": "HANJIN BRION",
     "role": "Jungle",
     "overall": 80,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Roamer",
@@ -879,7 +976,8 @@
     "team": "HANJIN BRION",
     "role": "Mid",
     "overall": 78,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Teddy",
@@ -888,7 +986,8 @@
     "team": "HANJIN BRION",
     "role": "ADC",
     "overall": 82,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Namgung",
@@ -897,7 +996,8 @@
     "team": "HANJIN BRION",
     "role": "Support",
     "overall": 78,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Dhokla",
@@ -906,7 +1006,8 @@
     "team": "LYON",
     "role": "Top",
     "overall": 82,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Inspired",
@@ -915,7 +1016,8 @@
     "team": "LYON",
     "role": "Jungle",
     "overall": 89,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Armao",
@@ -924,7 +1026,8 @@
     "team": "LYON",
     "role": "Jungle",
     "overall": 80,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Saint",
@@ -933,7 +1036,8 @@
     "team": "LYON",
     "role": "Mid",
     "overall": 83,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Berserker",
@@ -942,7 +1046,8 @@
     "team": "LYON",
     "role": "ADC",
     "overall": 88,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Isles",
@@ -951,7 +1056,8 @@
     "team": "LYON",
     "role": "Support",
     "overall": 82,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Morgan",
@@ -960,7 +1066,8 @@
     "team": "Team Liquid",
     "role": "Top",
     "overall": 83,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Josedeodo",
@@ -969,7 +1076,8 @@
     "team": "Team Liquid",
     "role": "Jungle",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Quid",
@@ -978,7 +1086,8 @@
     "team": "Team Liquid",
     "role": "Mid",
     "overall": 86,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Yeon",
@@ -987,7 +1096,8 @@
     "team": "Team Liquid",
     "role": "ADC",
     "overall": 87,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "CoreJJ",
@@ -996,7 +1106,8 @@
     "team": "Team Liquid",
     "role": "Support",
     "overall": 86,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Thanatos",
@@ -1005,7 +1116,8 @@
     "team": "Cloud9",
     "role": "Top",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Blaber",
@@ -1014,7 +1126,8 @@
     "team": "Cloud9",
     "role": "Jungle",
     "overall": 85,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Loki",
@@ -1023,7 +1136,8 @@
     "team": "Cloud9",
     "role": "Mid",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Tactical",
@@ -1032,7 +1146,8 @@
     "team": "Cloud9",
     "role": "ADC",
     "overall": 83,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Vulcan",
@@ -1041,7 +1156,8 @@
     "team": "Cloud9",
     "role": "Support",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Fudge",
@@ -1050,7 +1166,8 @@
     "team": "Shopify Rebellion",
     "role": "Top",
     "overall": 83,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Contractz",
@@ -1059,7 +1176,8 @@
     "team": "Shopify Rebellion",
     "role": "Jungle",
     "overall": 83,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Zinie",
@@ -1068,7 +1186,8 @@
     "team": "Shopify Rebellion",
     "role": "Mid",
     "overall": 84,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Bvoy",
@@ -1077,7 +1196,8 @@
     "team": "Shopify Rebellion",
     "role": "ADC",
     "overall": 83,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Zeyzal",
@@ -1086,7 +1206,8 @@
     "team": "Shopify Rebellion",
     "role": "Support",
     "overall": 82,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "GaKGoS",
@@ -1095,7 +1216,8 @@
     "team": "FlyQuest",
     "role": "Top",
     "overall": 81,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Gryffinn",
@@ -1104,7 +1226,8 @@
     "team": "FlyQuest",
     "role": "Jungle",
     "overall": 82,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Quad",
@@ -1113,7 +1236,8 @@
     "team": "FlyQuest",
     "role": "Mid",
     "overall": 85,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Massu",
@@ -1122,7 +1246,8 @@
     "team": "FlyQuest",
     "role": "ADC",
     "overall": 86,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Cryogen",
@@ -1131,7 +1256,8 @@
     "team": "FlyQuest",
     "role": "Support",
     "overall": 79,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Impact",
@@ -1140,7 +1266,8 @@
     "team": "Sentinels",
     "role": "Top",
     "overall": 85,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "HamBak",
@@ -1149,7 +1276,8 @@
     "team": "Sentinels",
     "role": "Jungle",
     "overall": 83,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "DARKWINGS",
@@ -1158,7 +1286,8 @@
     "team": "Sentinels",
     "role": "Mid",
     "overall": 81,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Rahel",
@@ -1167,7 +1296,8 @@
     "team": "Sentinels",
     "role": "ADC",
     "overall": 83,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Huhi",
@@ -1176,7 +1306,8 @@
     "team": "Sentinels",
     "role": "Support",
     "overall": 82,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Denathor",
@@ -1185,7 +1316,8 @@
     "team": "Dignitas",
     "role": "Top",
     "overall": 78,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Dardoch",
@@ -1194,7 +1326,8 @@
     "team": "Dignitas",
     "role": "Jungle",
     "overall": 80,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Palafox",
@@ -1203,7 +1336,8 @@
     "team": "Dignitas",
     "role": "Mid",
     "overall": 81,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "FBI",
@@ -1212,7 +1346,8 @@
     "team": "Dignitas",
     "role": "ADC",
     "overall": 82,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "IgNar",
@@ -1221,7 +1356,8 @@
     "team": "Dignitas",
     "role": "Support",
     "overall": 82,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Srtty",
@@ -1230,7 +1366,8 @@
     "team": "Disguised",
     "role": "Top",
     "overall": 80,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "KryRa",
@@ -1239,7 +1376,8 @@
     "team": "Disguised",
     "role": "Jungle",
     "overall": 79,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Callme",
@@ -1248,7 +1386,8 @@
     "team": "Disguised",
     "role": "Mid",
     "overall": 81,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "sajed",
@@ -1257,7 +1396,8 @@
     "team": "Disguised",
     "role": "ADC",
     "overall": 79,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   },
   {
     "name": "Lyonz",
@@ -1266,7 +1406,8 @@
     "team": "Disguised",
     "role": "Support",
     "overall": 79,
-    "rarity": "base"
+    "rarity": "base",
+    "image": ""
   }
 
 
@@ -1279,6 +1420,7 @@
     "team": "Movistar KOI",
     "role": "ADC",
     "overall": 85,
-    "rarity": "pentakill"
+    "rarity": "pentakill",
+    "image": ""
   }
 ]
