@@ -1268,4 +1268,17 @@
     "overall": 79,
     "rarity": "base"
   }
+
+
+
+  ,
+  {
+    "name": "Supa",
+    "nationality": "es",
+    "league": "LEC",
+    "team": "Movistar KOI",
+    "role": "ADC",
+    "overall": 85,
+    "rarity": "pentakill"
+  }
 ]
