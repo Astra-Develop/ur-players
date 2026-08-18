@@ -335,7 +335,7 @@
     "league": "LEC",
     "team": "Movistar KOI",
     "role": "ADC",
-    "overall": 85,
+    "overall": 84,
     "rarity": "base",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/aa/MKOI_Supa_2026_Split_2.png/revision/latest?cb=20260721170424"
   },
@@ -1418,5 +1418,15 @@
     "overall": 85,
     "rarity": "pentakill",
     "image": "https://i.imgur.com/nK6PwGS.png"
+  },
+  {
+    "name": "Caliste",
+    "nationality": "fr",
+    "league": "LEC",
+    "team": "Karmine Corp",
+    "role": "ADC",
+    "overall": 86,
+    "rarity": "pentakill",
+    "image": "https://i.imgur.com/dP0bZh4.png"
   }
 ]
