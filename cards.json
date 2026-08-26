@@ -1681,5 +1681,60 @@
     "rarity": "legacy",
     "id": "legacy-mata",
     "image": ""
+  },
+  {
+    "name": "Elyoya",
+    "nationality": "es",
+    "league": "LEC",
+    "team": "Movistar KOI",
+    "role": "JGL",
+    "overall": 89,
+    "rarity": "spotlight",
+    "id": "spotlight-elyoya",
+    "image": ""
+  },
+  {
+    "name": "ShowMaker",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Dplus KIA",
+    "role": "MID",
+    "overall": 90,
+    "rarity": "spotlight",
+    "id": "spotlight-showmaker",
+    "image": ""
+  },
+  {
+    "name": "Inspired",
+    "nationality": "pl",
+    "league": "LCS",
+    "team": "LYON",
+    "role": "JGL",
+    "overall": 89,
+    "rarity": "spotlight",
+    "id": "spotlight-inspired",
+    "image": ""
+  },
+  {
+    "name": "TheShy",
+    "nationality": "kr",
+    "league": "LPL",
+    "team": "Invictus Gaming",
+    "role": "TOP",
+    "overall": 90,
+    "rarity": "spotlight",
+    "id": "spotlight-theshy",
+    "image": ""
+  },
+  {
+    "name": "Doggo",
+    "nationality": "tw",
+    "league": "LCP",
+    "team": "CTBC Flying Oyster",
+    "role": "ADC",
+    "overall": 87,
+    "rarity": "spotlight",
+    "id": "spotlight-doggo",
+    "image": ""
   }
 ]
