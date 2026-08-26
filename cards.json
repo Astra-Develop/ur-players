@@ -7,6 +7,7 @@
     "role": "Top",
     "overall": 88,
     "rarity": "base",
+    "id": "base-canna",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/KC_Canna_2026_Split_2.png/revision/latest?cb=20260721165929"
   },
   {
@@ -17,6 +18,7 @@
     "role": "Jungle",
     "overall": 86,
     "rarity": "base",
+    "id": "base-yike",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/KC_Yike_2026_Split_2.png/revision/latest?cb=20260721165926"
   },
   {
@@ -27,6 +29,7 @@
     "role": "Mid",
     "overall": 85,
     "rarity": "base",
+    "id": "base-kyeahoo",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KC_kyeahoo_2026_Split_2.png/revision/latest?cb=20260721165933"
   },
   {
@@ -37,6 +40,7 @@
     "role": "ADC",
     "overall": 85,
     "rarity": "base",
+    "id": "base-caliste",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/KC_Caliste_2026_Split_2.png/revision/latest?cb=20260721165928"
   },
   {
@@ -47,6 +51,7 @@
     "role": "Support",
     "overall": 86,
     "rarity": "base",
+    "id": "base-busio",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/KC_Busio_2026_Split_2.png/revision/latest?cb=20260721165931"
   },
   {
@@ -57,6 +62,7 @@
     "role": "Top",
     "overall": 87,
     "rarity": "base",
+    "id": "base-brokenblade",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/53/G2_BrokenBlade_2026_Split_1.png/revision/latest?cb=20260117092520"
   },
   {
@@ -67,6 +73,7 @@
     "role": "Jungle",
     "overall": 86,
     "rarity": "base",
+    "id": "base-skewmond",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/00/G2_SkewMond_2026_Split_1.png/revision/latest?cb=20260117092529"
   },
   {
@@ -77,6 +84,7 @@
     "role": "Mid",
     "overall": 89,
     "rarity": "base",
+    "id": "base-caps",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6a/G2_Caps_2026_Split_1.png/revision/latest?cb=20260117092522"
   },
   {
@@ -87,6 +95,7 @@
     "role": "ADC",
     "overall": 87,
     "rarity": "base",
+    "id": "base-hanssama",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d9/G2_Hans_Sama_2026_Split_1.png/revision/latest?cb=20260117092525"
   },
   {
@@ -97,6 +106,7 @@
     "role": "Support",
     "overall": 86,
     "rarity": "base",
+    "id": "base-labrov",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/62/G2_Labrov_2026_Split_1.png/revision/latest?cb=20260117092527"
   },
   {
@@ -107,6 +117,7 @@
     "role": "Top",
     "overall": 82,
     "rarity": "base",
+    "id": "base-naaknako",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/VIT_Naak_Nako_2026_Split_3.png/revision/latest?cb=20260724192355"
   },
   {
@@ -117,6 +128,7 @@
     "role": "Jungle",
     "overall": 83,
     "rarity": "base",
+    "id": "base-lyncas",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/06/VIT_Lyncas_2026_Split_3.png/revision/latest?cb=20260724192348"
   },
   {
@@ -127,6 +139,7 @@
     "role": "Mid",
     "overall": 84,
     "rarity": "base",
+    "id": "base-fiesta",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e8/VIT_FIESTA_2026_Split_3.png/revision/latest?cb=20260724192353"
   },
   {
@@ -137,6 +150,7 @@
     "role": "ADC",
     "overall": 84,
     "rarity": "base",
+    "id": "base-carzzy",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/53/VIT_Carzzy_2026_Split_3.png/revision/latest?cb=20260724192352"
   },
   {
@@ -147,6 +161,7 @@
     "role": "Support",
     "overall": 82,
     "rarity": "base",
+    "id": "base-fleshy",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/79/VIT_Fleshy_2026_Split_3.png/revision/latest?cb=20260724192350"
   },
   {
@@ -157,6 +172,7 @@
     "role": "Top",
     "overall": 83,
     "rarity": "base",
+    "id": "base-oscarinin",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/GX_Oscarinin_2026_Split_3.png/revision/latest?cb=20260724143502"
   },
   {
@@ -167,6 +183,7 @@
     "role": "Jungle",
     "overall": 82,
     "rarity": "base",
+    "id": "base-isma",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/38/GX_ISMA_2026_Split_3.png/revision/latest?cb=20260724143507"
   },
   {
@@ -177,6 +194,7 @@
     "role": "Mid",
     "overall": 83,
     "rarity": "base",
+    "id": "base-jackies",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/GX_Jackies_2026_Split_3.png/revision/latest?cb=20260724144115"
   },
   {
@@ -187,6 +205,7 @@
     "role": "ADC",
     "overall": 83,
     "rarity": "base",
+    "id": "base-flakked",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/GX_Flakked_2026_Split_3.png/revision/latest?cb=20260724143840"
   },
   {
@@ -197,6 +216,7 @@
     "role": "Support",
     "overall": 84,
     "rarity": "base",
+    "id": "base-jun",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ee/GX_Jun_2026_Split_3.png/revision/latest?cb=20260724144051"
   },
   {
@@ -207,6 +227,7 @@
     "role": "Top",
     "overall": 80,
     "rarity": "base",
+    "id": "base-maynter",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/NAVI_Maynter_2026_Split_3.png/revision/latest?cb=20260724154540"
   },
   {
@@ -217,6 +238,7 @@
     "role": "Jungle",
     "overall": 79,
     "rarity": "base",
+    "id": "base-rhilech",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/NAVI_Rhilech_2026_Split_3.png/revision/latest?cb=20260724154537"
   },
   {
@@ -227,6 +249,7 @@
     "role": "Mid",
     "overall": 81,
     "rarity": "base",
+    "id": "base-poby",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/NAVI_Poby_2026_Split_3.png/revision/latest?cb=20260724154539"
   },
   {
@@ -237,6 +260,7 @@
     "role": "ADC",
     "overall": 80,
     "rarity": "base",
+    "id": "base-samd",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/60/NAVI_SamD_2026_Split_3.png/revision/latest?cb=20260724154535"
   },
   {
@@ -247,6 +271,7 @@
     "role": "Support",
     "overall": 81,
     "rarity": "base",
+    "id": "base-parus",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2a/NAVI_Parus_2026_Split_3.png/revision/latest?cb=20260724154533"
   },
   {
@@ -257,6 +282,7 @@
     "role": "Top",
     "overall": 81,
     "rarity": "base",
+    "id": "base-wunder",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/SK_Wunder_2026_Split_3.png/revision/latest?cb=20260724190208"
   },
   {
@@ -267,6 +293,7 @@
     "role": "Jungle",
     "overall": 81,
     "rarity": "base",
+    "id": "base-skeanz",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/27/SK_Skeanz_2026_Split_3.png/revision/latest?cb=20260724190211"
   },
   {
@@ -277,6 +304,7 @@
     "role": "Mid",
     "overall": 80,
     "rarity": "base",
+    "id": "base-slowq",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/SK_SlowQ_2026_Split_3.png/revision/latest?cb=20260724190210"
   },
   {
@@ -287,6 +315,7 @@
     "role": "ADC",
     "overall": 81,
     "rarity": "base",
+    "id": "base-jopa",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f1/SK_Jopa_2026_Split_3.png/revision/latest?cb=20260724190206"
   },
   {
@@ -297,6 +326,7 @@
     "role": "Support",
     "overall": 83,
     "rarity": "base",
+    "id": "base-mikyx",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2c/SK_Mikyx_2026_Split_3.png/revision/latest?cb=20260724190212"
   },
   {
@@ -307,6 +337,7 @@
     "role": "Top",
     "overall": 83,
     "rarity": "base",
+    "id": "base-myrwn",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4b/MKOI_Myrwn_2026_Split_1.png/revision/latest?cb=20260117101837"
   },
   {
@@ -317,6 +348,7 @@
     "role": "Jungle",
     "overall": 87,
     "rarity": "base",
+    "id": "base-elyoya",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f9/MKOI_Elyoya_2026_Split_2.png/revision/latest?cb=20260721170427"
   },
   {
@@ -327,6 +359,7 @@
     "role": "Mid",
     "overall": 87,
     "rarity": "base",
+    "id": "base-jojopyun",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/MKOI_Jojopyun_2026_Split_2.png/revision/latest?cb=20260721170426"
   },
   {
@@ -337,6 +370,7 @@
     "role": "ADC",
     "overall": 84,
     "rarity": "base",
+    "id": "base-supa",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/aa/MKOI_Supa_2026_Split_2.png/revision/latest?cb=20260721170424"
   },
   {
@@ -347,6 +381,7 @@
     "role": "Support",
     "overall": 85,
     "rarity": "base",
+    "id": "base-alvaro",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/MKOI_Alvaro_2026_Split_1.png/revision/latest?cb=20260117101830"
   },
   {
@@ -357,6 +392,7 @@
     "role": "Top",
     "overall": 79,
     "rarity": "base",
+    "id": "base-tracyn",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/TH_Tracyn_2026_Split_2.png/revision/latest?cb=20260415182238"
   },
   {
@@ -367,6 +403,7 @@
     "role": "Jungle",
     "overall": 82,
     "rarity": "base",
+    "id": "base-daglas",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/43/TH_Daglas_2026_Split_2.png/revision/latest?cb=20260426085145"
   },
   {
@@ -377,6 +414,7 @@
     "role": "Mid",
     "overall": 80,
     "rarity": "base",
+    "id": "base-serin",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/64/TH_Serin_2026_Split_2.png/revision/latest?cb=20260415182236"
   },
   {
@@ -387,6 +425,7 @@
     "role": "ADC",
     "overall": 82,
     "rarity": "base",
+    "id": "base-hype",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a6/BRO_Hype_2025_Split_1.png/revision/latest?cb=20250228174236"
   },
   {
@@ -397,6 +436,7 @@
     "role": "Support",
     "overall": 80,
     "rarity": "base",
+    "id": "base-way",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4b/TH_Way_2026_Split_1.png/revision/latest?cb=20260404150317"
   },
   {
@@ -407,6 +447,7 @@
     "role": "Top",
     "overall": 83,
     "rarity": "base",
+    "id": "base-soboro",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/13/FNC_Soboro_2026_Split_3.png/revision/latest?cb=20260724141646"
   },
   {
@@ -417,6 +458,7 @@
     "role": "Jungle",
     "overall": 84,
     "rarity": "base",
+    "id": "base-razork",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/FNC_Razork_2026_Split_3.png/revision/latest?cb=20260724141645"
   },
   {
@@ -427,6 +469,7 @@
     "role": "Mid",
     "overall": 85,
     "rarity": "base",
+    "id": "base-vladi",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/FNC_Vladi_2026_Split_3.png/revision/latest?cb=20260724141639"
   },
   {
@@ -437,6 +480,7 @@
     "role": "ADC",
     "overall": 83,
     "rarity": "base",
+    "id": "base-upset",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9b/FNC_Upset_2026_Split_3.png/revision/latest?cb=20260724141643"
   },
   {
@@ -447,6 +491,7 @@
     "role": "Support",
     "overall": 80,
     "rarity": "base",
+    "id": "base-lospa",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/94/FNC_Lospa_2026_Split_3.png/revision/latest?cb=20260724141641"
   },
   {
@@ -457,6 +502,7 @@
     "role": "Top",
     "overall": 79,
     "rarity": "base",
+    "id": "base-rooster",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/05/SHFT_Rooster_2026_Split_3.png/revision/latest?cb=20260724185846"
   },
   {
@@ -467,6 +513,7 @@
     "role": "Jungle",
     "overall": 84,
     "rarity": "base",
+    "id": "base-sheo",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/76/SHFT_Sheo_2026_Split_3.png/revision/latest?cb=20260724185852"
   },
   {
@@ -477,6 +524,7 @@
     "role": "Mid",
     "overall": 82,
     "rarity": "base",
+    "id": "base-nuc",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/SHFT_nuc_2026_Split_3.png/revision/latest?cb=20260724185844"
   },
   {
@@ -487,6 +535,7 @@
     "role": "ADC",
     "overall": 81,
     "rarity": "base",
+    "id": "base-paduck",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/SHFT_Paduck_2026_Split_3.png/revision/latest?cb=20260724185858"
   },
   {
@@ -497,6 +546,7 @@
     "role": "Support",
     "overall": 82,
     "rarity": "base",
+    "id": "base-stend",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4d/SHFT_Stend_2026_Split_3.png/revision/latest?cb=20260724185848"
   },
   {
@@ -507,6 +557,7 @@
     "role": "Top",
     "overall": 89,
     "rarity": "base",
+    "id": "base-kiin",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/65/GEN_Kiin_2026_Split_1.png/revision/latest?cb=20260122171304"
   },
   {
@@ -517,6 +568,7 @@
     "role": "Jungle",
     "overall": 91,
     "rarity": "base",
+    "id": "base-canyon",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/GEN_Canyon_2026_Split_1.png/revision/latest?cb=20260122171322"
   },
   {
@@ -527,6 +579,7 @@
     "role": "Mid",
     "overall": 91,
     "rarity": "base",
+    "id": "base-chovy",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/GEN_Chovy_2026_Split_1.png/revision/latest?cb=20260122171212"
   },
   {
@@ -537,6 +590,7 @@
     "role": "ADC",
     "overall": 91,
     "rarity": "base",
+    "id": "base-ruler",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/GEN_Ruler_2026_Split_1.png/revision/latest?cb=20260122171312"
   },
   {
@@ -547,6 +601,7 @@
     "role": "Support",
     "overall": 89,
     "rarity": "base",
+    "id": "base-duro",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/GEN_Duro_2026_Split_1.png/revision/latest?cb=20260122171225"
   },
   {
@@ -557,6 +612,7 @@
     "role": "Top",
     "overall": 87,
     "rarity": "base",
+    "id": "base-doran",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/de/T1_Doran_2026_LCK_Cup.png/revision/latest?cb=20260122163256"
   },
   {
@@ -567,6 +623,7 @@
     "role": "Jungle",
     "overall": 90,
     "rarity": "base",
+    "id": "base-oner",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/T1_Oner_2026_LCK_Cup.png/revision/latest?cb=20260122163304"
   },
   {
@@ -577,6 +634,7 @@
     "role": "Mid",
     "overall": 90,
     "rarity": "base",
+    "id": "base-faker",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5a/T1_Faker_2026_LCK_Cup.png/revision/latest?cb=20260122163312"
   },
   {
@@ -587,6 +645,7 @@
     "role": "ADC",
     "overall": 91,
     "rarity": "base",
+    "id": "base-peyz",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/T1_Peyz_2026_LCK_Cup.png/revision/latest?cb=20260122163320"
   },
   {
@@ -597,6 +656,7 @@
     "role": "Support",
     "overall": 91,
     "rarity": "base",
+    "id": "base-keria",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/da/T1_Keria_2026_LCK_Cup.png/revision/latest?cb=20260122163329"
   },
   {
@@ -607,6 +667,7 @@
     "role": "Top",
     "overall": 90,
     "rarity": "base",
+    "id": "base-zeus",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/HLE_Zeus_2026_Split_1.png/revision/latest?cb=20260122172844"
   },
   {
@@ -617,6 +678,7 @@
     "role": "Jungle",
     "overall": 90,
     "rarity": "base",
+    "id": "base-kanavi",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/14/HLE_Kanavi_2026_Split_1.png/revision/latest?cb=20260122172841"
   },
   {
@@ -627,6 +689,7 @@
     "role": "Mid",
     "overall": 90,
     "rarity": "base",
+    "id": "base-zeka",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/36/HLE_Zeka_2026_Split_1.png/revision/latest?cb=20260122172843"
   },
   {
@@ -637,6 +700,7 @@
     "role": "ADC",
     "overall": 90,
     "rarity": "base",
+    "id": "base-gumayusi",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/HLE_Gumayusi_2026_Split_1.png/revision/latest?cb=20260122172840"
   },
   {
@@ -647,6 +711,7 @@
     "role": "Support",
     "overall": 88,
     "rarity": "base",
+    "id": "base-delight",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7b/HLE_Delight_2026_Split_1.png/revision/latest?cb=20260122172846"
   },
   {
@@ -657,6 +722,7 @@
     "role": "Top",
     "overall": 83,
     "rarity": "base",
+    "id": "base-siwoo",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3e/DK_Siwoo_2026_Split_1.png/revision/latest?cb=20260122171048"
   },
   {
@@ -667,6 +733,7 @@
     "role": "Jungle",
     "overall": 87,
     "rarity": "base",
+    "id": "base-lucid",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d4/DK_Lucid_2026_Split_1.png/revision/latest?cb=20260122171034"
   },
   {
@@ -677,6 +744,7 @@
     "role": "Mid",
     "overall": 88,
     "rarity": "base",
+    "id": "base-showmaker",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e7/DK_ShowMaker_2026_Split_1.png/revision/latest?cb=20260122171041"
   },
   {
@@ -687,6 +755,7 @@
     "role": "ADC",
     "overall": 85,
     "rarity": "base",
+    "id": "base-smash",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/77/DK_Smash_2026_Split_1.png/revision/latest?cb=20260122171056"
   },
   {
@@ -697,6 +766,7 @@
     "role": "Support",
     "overall": 82,
     "rarity": "base",
+    "id": "base-career",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/DK_Career_2026_Split_1.png/revision/latest?cb=20260122171027"
   },
   {
@@ -707,6 +777,7 @@
     "role": "Top",
     "overall": 85,
     "rarity": "base",
+    "id": "base-perfect",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/93/KT_PerfecT_2026_Split_1.png/revision/latest?cb=20260124034520"
   },
   {
@@ -717,6 +788,7 @@
     "role": "Jungle",
     "overall": 85,
     "rarity": "base",
+    "id": "base-cuzz",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/KT_Cuzz_2026_Split_1.png/revision/latest?cb=20260124034517"
   },
   {
@@ -727,6 +799,7 @@
     "role": "Mid",
     "overall": 88,
     "rarity": "base",
+    "id": "base-bdd",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/KT_Bdd_2026_Split_1.png/revision/latest?cb=20260124034525"
   },
   {
@@ -737,6 +810,7 @@
     "role": "ADC",
     "overall": 81,
     "rarity": "base",
+    "id": "base-fenrir",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/dd/KT.C_FenRir_2026_Split_1.png/revision/latest?cb=20260124034513"
   },
   {
@@ -747,6 +821,7 @@
     "role": "Support",
     "overall": 83,
     "rarity": "base",
+    "id": "base-effort",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/89/KT.C_Effort_2026_Split_1.png/revision/latest?cb=20260124034511"
   },
   {
@@ -757,6 +832,7 @@
     "role": "Top",
     "overall": 85,
     "rarity": "base",
+    "id": "base-kingen",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b1/NS_Kingen_2026_Split_1.png/revision/latest?cb=20260124035654"
   },
   {
@@ -767,6 +843,7 @@
     "role": "Jungle",
     "overall": 82,
     "rarity": "base",
+    "id": "base-sponge",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/NS_Sponge_2026_Split_1.png/revision/latest?cb=20260124035659"
   },
   {
@@ -777,6 +854,7 @@
     "role": "Mid",
     "overall": 88,
     "rarity": "base",
+    "id": "base-scout",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8c/NS_Scout_2026_Split_1.png/revision/latest?cb=20260124035655"
   },
   {
@@ -787,6 +865,7 @@
     "role": "ADC",
     "overall": 86,
     "rarity": "base",
+    "id": "base-diable",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/59/NS_Diable_2026_Split_2.png/revision/latest?cb=20260516162804"
   },
   {
@@ -797,6 +876,7 @@
     "role": "Support",
     "overall": 87,
     "rarity": "base",
+    "id": "base-lehends",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/da/NS_Lehends_2026_Split_1.png/revision/latest?cb=20260124035701"
   },
   {
@@ -807,6 +887,7 @@
     "role": "Top",
     "overall": 83,
     "rarity": "base",
+    "id": "base-clear",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/BFX_Clear_2026_Split_1.png/revision/latest?cb=20260122165648"
   },
   {
@@ -817,6 +898,7 @@
     "role": "Jungle",
     "overall": 83,
     "rarity": "base",
+    "id": "base-raptor",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/BFX_Raptor_2026_Split_1.png/revision/latest?cb=20260122165753"
   },
   {
@@ -827,6 +909,7 @@
     "role": "Mid",
     "overall": 83,
     "rarity": "base",
+    "id": "base-vicla",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3f/BFX_VicLa_2026_Split_1.png/revision/latest?cb=20260122165802"
   },
   {
@@ -837,6 +920,7 @@
     "role": "ADC",
     "overall": 81,
     "rarity": "base",
+    "id": "base-taeyoon",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/BFX_Taeyoon_2026_Split_2.png/revision/latest?cb=20260516162323"
   },
   {
@@ -847,6 +931,7 @@
     "role": "Support",
     "overall": 83,
     "rarity": "base",
+    "id": "base-kellin",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/BFX_Kellin_2026_Split_1.png/revision/latest?cb=20260122165740"
   },
   {
@@ -857,6 +942,7 @@
     "role": "Top",
     "overall": 78,
     "rarity": "base",
+    "id": "base-frog",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/DRX.C_Frog_2026_Split_1.png/revision/latest?cb=20260122165604"
   },
   {
@@ -867,6 +953,7 @@
     "role": "Jungle",
     "overall": 82,
     "rarity": "base",
+    "id": "base-willer",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e4/DRX_Willer_2026_Split_2.png/revision/latest?cb=20260804171603"
   },
   {
@@ -877,6 +964,7 @@
     "role": "Mid",
     "overall": 84,
     "rarity": "base",
+    "id": "base-ucal",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9b/DRX_Ucal_2026_Split_2.png/revision/latest?cb=20260804171604"
   },
   {
@@ -887,6 +975,7 @@
     "role": "ADC",
     "overall": 88,
     "rarity": "base",
+    "id": "base-aiming",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/99/KT_Aiming_2026_Split_1.png/revision/latest?cb=20260124034522"
   },
   {
@@ -897,6 +986,7 @@
     "role": "Support",
     "overall": 82,
     "rarity": "base",
+    "id": "base-andil",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/DRX_Andil_2026_Split_1.png/revision/latest?cb=20260122171346"
   },
   {
@@ -907,6 +997,7 @@
     "role": "Top",
     "overall": 83,
     "rarity": "base",
+    "id": "base-dudu",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/DNS_DuDu_2026_Split_1.png/revision/latest?cb=20260122170807"
   },
   {
@@ -917,6 +1008,7 @@
     "role": "Jungle",
     "overall": 78,
     "rarity": "base",
+    "id": "base-sharvel",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ea/DK.C_Sharvel_2026_Split_1.png/revision/latest?cb=20260122151753"
   },
   {
@@ -927,6 +1019,7 @@
     "role": "Mid",
     "overall": 86,
     "rarity": "base",
+    "id": "base-clozer",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c7/DNS_Clozer_2026_Split_1.png/revision/latest?cb=20260122170743"
   },
   {
@@ -937,6 +1030,7 @@
     "role": "ADC",
     "overall": 83,
     "rarity": "base",
+    "id": "base-deokdam",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/DNS_deokdam_2026_Split_1.png/revision/latest?cb=20260122170750"
   },
   {
@@ -947,6 +1041,7 @@
     "role": "Support",
     "overall": 81,
     "rarity": "base",
+    "id": "base-peter",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/DNS_Peter_2026_Split_1.png/revision/latest?cb=20260122170826"
   },
   {
@@ -957,6 +1052,7 @@
     "role": "Top",
     "overall": 80,
     "rarity": "base",
+    "id": "base-casting",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/BRO_Casting_2026_Split_1.png/revision/latest?cb=20260122170242"
   },
   {
@@ -967,6 +1063,7 @@
     "role": "Jungle",
     "overall": 81,
     "rarity": "base",
+    "id": "base-gideon",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/BRO_GIDEON_2026_Split_1.png/revision/latest?cb=20260122170300"
   },
   {
@@ -977,6 +1074,7 @@
     "role": "Mid",
     "overall": 80,
     "rarity": "base",
+    "id": "base-roamer",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/BRO_Roamer_2026_Split_1.png/revision/latest?cb=20260122170322"
   },
   {
@@ -987,6 +1085,7 @@
     "role": "ADC",
     "overall": 82,
     "rarity": "base",
+    "id": "base-teddy",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/BRO_Teddy_2026_Split_1.png/revision/latest?cb=20260122170332"
   },
   {
@@ -997,6 +1096,7 @@
     "role": "Support",
     "overall": 80,
     "rarity": "base",
+    "id": "base-namgung",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/BRO_Namgung_2026_Split_1.png/revision/latest?cb=20260122170309"
   },
   {
@@ -1007,6 +1107,7 @@
     "role": "Top",
     "overall": 83,
     "rarity": "base",
+    "id": "base-dhokla",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/LYON_Dhokla_2026_Split_1.png/revision/latest?cb=20260124041832"
   },
   {
@@ -1017,6 +1118,7 @@
     "role": "Jungle",
     "overall": 87,
     "rarity": "base",
+    "id": "base-inspired",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/LYON_Inspired_2026_Split_1.png/revision/latest?cb=20260124041829"
   },
   {
@@ -1027,6 +1129,7 @@
     "role": "Jungle",
     "overall": 80,
     "rarity": "base",
+    "id": "base-armao",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/EG_Armao_2023_Split_2.png/revision/latest?cb=20230624095509"
   },
   {
@@ -1037,6 +1140,7 @@
     "role": "Mid",
     "overall": 83,
     "rarity": "base",
+    "id": "base-saint",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7b/LYON_Saint_2026_Split_1.png/revision/latest?cb=20260124041831"
   },
   {
@@ -1047,6 +1151,7 @@
     "role": "ADC",
     "overall": 86,
     "rarity": "base",
+    "id": "base-berserker",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/LYON_Berserker_2026_Split_1.png/revision/latest?cb=20260131091823"
   },
   {
@@ -1057,6 +1162,7 @@
     "role": "Support",
     "overall": 83,
     "rarity": "base",
+    "id": "base-isles",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ce/LYON_Isles_2026_Split_1.png/revision/latest?cb=20260124041834"
   },
   {
@@ -1067,6 +1173,7 @@
     "role": "Top",
     "overall": 83,
     "rarity": "base",
+    "id": "base-morgan",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/TL_Morgan_2026_Split_1.png/revision/latest?cb=20260131091809"
   },
   {
@@ -1077,6 +1184,7 @@
     "role": "Jungle",
     "overall": 82,
     "rarity": "base",
+    "id": "base-josedeodo",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/TL_Josedeodo_2026_Split_1.png/revision/latest?cb=20260124041857"
   },
   {
@@ -1087,6 +1195,7 @@
     "role": "Mid",
     "overall": 84,
     "rarity": "base",
+    "id": "base-quid",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/TL_Quid_2026_Split_1.png/revision/latest?cb=20260124041855"
   },
   {
@@ -1097,6 +1206,7 @@
     "role": "ADC",
     "overall": 84,
     "rarity": "base",
+    "id": "base-yeon",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/TL_Yeon_2026_Split_1.png/revision/latest?cb=20260124041900"
   },
   {
@@ -1107,6 +1217,7 @@
     "role": "Support",
     "overall": 83,
     "rarity": "base",
+    "id": "base-corejj",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/TL_CoreJJ_2026_Split_1.png/revision/latest?cb=20260124041859"
   },
   {
@@ -1117,6 +1228,7 @@
     "role": "Top",
     "overall": 83,
     "rarity": "base",
+    "id": "base-thanatos",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/65/C9_Thanatos_2026_Split_1.png/revision/latest?cb=20260124041902"
   },
   {
@@ -1127,6 +1239,7 @@
     "role": "Jungle",
     "overall": 82,
     "rarity": "base",
+    "id": "base-blaber",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/C9_Blaber_2026_Split_1.png/revision/latest?cb=20260124041907"
   },
   {
@@ -1137,6 +1250,7 @@
     "role": "Mid",
     "overall": 83,
     "rarity": "base",
+    "id": "base-loki",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/C9_Loki_2025_Split_1.png/revision/latest?cb=20250121144457"
   },
   {
@@ -1147,6 +1261,7 @@
     "role": "ADC",
     "overall": 82,
     "rarity": "base",
+    "id": "base-tactical",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c7/IMT_Tactical_2023_Split_1.png/revision/latest?cb=20230127165439"
   },
   {
@@ -1157,6 +1272,7 @@
     "role": "Support",
     "overall": 82,
     "rarity": "base",
+    "id": "base-vulcan",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/C9_Vulcan_2026_Split_1.png/revision/latest?cb=20260124041905"
   },
   {
@@ -1167,6 +1283,7 @@
     "role": "Top",
     "overall": 82,
     "rarity": "base",
+    "id": "base-fudge",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8b/SR_Fudge_2026_Split_1.png/revision/latest?cb=20260124041846"
   },
   {
@@ -1177,6 +1294,7 @@
     "role": "Jungle",
     "overall": 82,
     "rarity": "base",
+    "id": "base-contractz",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/SR_Contractz_2026_Split_1.png/revision/latest?cb=20260124041841"
   },
   {
@@ -1187,6 +1305,7 @@
     "role": "Mid",
     "overall": 82,
     "rarity": "base",
+    "id": "base-zinie",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/SR_Zinie_2026_Split_1.png/revision/latest?cb=20260131091810"
   },
   {
@@ -1197,6 +1316,7 @@
     "role": "ADC",
     "overall": 81,
     "rarity": "base",
+    "id": "base-bvoy",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/27/SR_Bvoy_2026_Split_1.png/revision/latest?cb=20260124041844"
   },
   {
@@ -1207,6 +1327,7 @@
     "role": "Support",
     "overall": 81,
     "rarity": "base",
+    "id": "base-zeyzal",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/SR_Zeyzal_2024_Split_1.png/revision/latest?cb=20240204150935"
   },
   {
@@ -1217,6 +1338,7 @@
     "role": "Top",
     "overall": 80,
     "rarity": "base",
+    "id": "base-gakgos",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f9/FLY_Gakgos_2026_Split_1.png/revision/latest?cb=20260124041052"
   },
   {
@@ -1227,6 +1349,7 @@
     "role": "Jungle",
     "overall": 81,
     "rarity": "base",
+    "id": "base-gryffinn",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/FLY_Gryffinn_2026_Split_1.png/revision/latest?cb=20260124041056"
   },
   {
@@ -1237,6 +1360,7 @@
     "role": "Mid",
     "overall": 84,
     "rarity": "base",
+    "id": "base-quad",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/FLY_Quad_2026_Split_1.png/revision/latest?cb=20260124041100"
   },
   {
@@ -1247,6 +1371,7 @@
     "role": "ADC",
     "overall": 85,
     "rarity": "base",
+    "id": "base-massu",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FLY_Massu_2026_Split_1.png/revision/latest?cb=20260124041058"
   },
   {
@@ -1257,6 +1382,7 @@
     "role": "Support",
     "overall": 80,
     "rarity": "base",
+    "id": "base-cryogen",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/FLY_Cryogen_2026_Split_1.png/revision/latest?cb=20260124041054"
   },
   {
@@ -1267,6 +1393,7 @@
     "role": "Top",
     "overall": 84,
     "rarity": "base",
+    "id": "base-impact",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/38/SEN_Impact_2026_Split_1.png/revision/latest?cb=20260124041849"
   },
   {
@@ -1277,6 +1404,7 @@
     "role": "Jungle",
     "overall": 80,
     "rarity": "base",
+    "id": "base-hambak",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/36/SEN_HamBak_2026_Split_1.png/revision/latest?cb=20260131091812"
   },
   {
@@ -1287,6 +1415,7 @@
     "role": "Mid",
     "overall": 80,
     "rarity": "base",
+    "id": "base-darkwings",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/SEN_DARKWINGS_2026_Split_1.png/revision/latest?cb=20260124041851"
   },
   {
@@ -1297,6 +1426,7 @@
     "role": "ADC",
     "overall": 81,
     "rarity": "base",
+    "id": "base-rahel",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/SEN_Rahel_2026_Split_1.png/revision/latest?cb=20260131091807"
   },
   {
@@ -1307,6 +1437,7 @@
     "role": "Support",
     "overall": 81,
     "rarity": "base",
+    "id": "base-huhi",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/SEN_huhi_2026_Split_1.png/revision/latest?cb=20260124041847"
   },
   {
@@ -1317,6 +1448,7 @@
     "role": "Top",
     "overall": 78,
     "rarity": "base",
+    "id": "base-denathor",
     "image": "https://i.imgur.com/uSbReFC.png"
   },
   {
@@ -1327,6 +1459,7 @@
     "role": "Jungle",
     "overall": 80,
     "rarity": "base",
+    "id": "base-dardoch",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2a/IMT.A_Dardoch_2022_Split_2.png/revision/latest?cb=20221202172300"
   },
   {
@@ -1337,6 +1470,7 @@
     "role": "Mid",
     "overall": 82,
     "rarity": "base",
+    "id": "base-palafox",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/DIG_Palafox_2026_Split_1.png/revision/latest?cb=20260124041839"
   },
   {
@@ -1347,6 +1481,7 @@
     "role": "ADC",
     "overall": 81,
     "rarity": "base",
+    "id": "base-fbi",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e7/100T_FBI_2025_Split_3.png/revision/latest?cb=20250810164514"
   },
   {
@@ -1357,6 +1492,7 @@
     "role": "Support",
     "overall": 81,
     "rarity": "base",
+    "id": "base-ignar",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9c/GX_IgNar_2024_Split_1.png/revision/latest?cb=20240112204902"
   },
   {
@@ -1367,6 +1503,7 @@
     "role": "Top",
     "overall": 80,
     "rarity": "base",
+    "id": "base-srtty",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/91/DIG_Srtty_2025_Split_1.png/revision/latest?cb=20250221144311"
   },
   {
@@ -1377,6 +1514,7 @@
     "role": "Jungle",
     "overall": 79,
     "rarity": "base",
+    "id": "base-kryra",
     "image": "https://i.imgur.com/h2ykmAg.png"
   },
   {
@@ -1387,6 +1525,7 @@
     "role": "Mid",
     "overall": 79,
     "rarity": "base",
+    "id": "base-callme",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/DSG_Callme_2026_Split_1.png/revision/latest?cb=20260131091817"
   },
   {
@@ -1397,6 +1536,7 @@
     "role": "ADC",
     "overall": 79,
     "rarity": "base",
+    "id": "base-sajed",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2e/DSG_sajed_2026_Split_1.png/revision/latest?cb=20260124041852"
   },
   {
@@ -1407,6 +1547,7 @@
     "role": "Support",
     "overall": 81,
     "rarity": "base",
+    "id": "base-lyonz",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/DSG_Lyonz_2026_Split_1.png/revision/latest?cb=20260124041854"
   },
   {
@@ -1417,6 +1558,7 @@
     "role": "ADC",
     "overall": 85,
     "rarity": "pentakill",
+    "id": "pentakill-supa",
     "image": "https://i.imgur.com/nK6PwGS.png"
   },
   {
@@ -1427,6 +1569,7 @@
     "role": "ADC",
     "overall": 86,
     "rarity": "pentakill",
+    "id": "pentakill-caliste",
     "image": "https://i.imgur.com/dP0bZh4.png"
   }
 ]

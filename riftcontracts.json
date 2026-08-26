@@ -1,0 +1,70 @@
+[
+  {
+    "id": "rift-pack-repeatable",
+    "name": "Rift Foundations",
+    "description": "Submit a basic five-player roster.",
+    "requirements": {
+      "min_team_overall": 70,
+      "min_chemistry": 0,
+      "min_pentakill": 0
+    },
+    "reward": {
+      "type": "pack",
+      "id": "rift-pack"
+    },
+    "repeatable": true,
+    "sort_order": 10,
+    "active": true
+  },
+  {
+    "id": "pro-pack-repeatable",
+    "name": "Pro Circuit",
+    "description": "Build a stronger roster with some chemistry.",
+    "requirements": {
+      "min_team_overall": 75,
+      "min_chemistry": 3,
+      "min_pentakill": 0
+    },
+    "reward": {
+      "type": "pack",
+      "id": "pro-pack"
+    },
+    "repeatable": true,
+    "sort_order": 20,
+    "active": true
+  },
+  {
+    "id": "ultimate-pack-repeatable",
+    "name": "Ultimate Challenge",
+    "description": "Submit an elite and well-linked roster.",
+    "requirements": {
+      "min_team_overall": 80,
+      "min_chemistry": 6,
+      "min_pentakill": 0
+    },
+    "reward": {
+      "type": "pack",
+      "id": "ultimate-pack"
+    },
+    "repeatable": true,
+    "sort_order": 30,
+    "active": true
+  },
+  {
+    "id": "pentakill-caliste",
+    "name": "Pentakill: Caliste",
+    "description": "Complete the contract to earn Pentakill Caliste.",
+    "requirements": {
+      "min_team_overall": 82,
+      "min_chemistry": 6,
+      "min_pentakill": 1
+    },
+    "reward": {
+      "type": "player",
+      "id": "pentakill-caliste"
+    },
+    "repeatable": false,
+    "sort_order": 40,
+    "active": true
+  }
+]
