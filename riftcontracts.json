@@ -51,8 +51,8 @@
     "active": true
   },
   {
-    "id": "pentakill-calis",
-    "name": "Pentakill: Caliste",
+    "id": "pentakill-caliste",
+    "name": "Pentakill: Calis",
     "description": "Complete the contract to earn Pentakill Caliste.",
     "requirements": {
       "min_team_overall": 82,
