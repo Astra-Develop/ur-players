@@ -4,7 +4,7 @@
     "name": "Rift Foundations",
     "description": "Submit a basic five-player roster.",
     "requirements": {
-      "min_team_overall": 70,
+      "min_team_overall": 80,
       "min_chemistry": 0,
       "min_pentakill": 0
     },
@@ -21,8 +21,8 @@
     "name": "Pro Circuit",
     "description": "Build a stronger roster with some chemistry.",
     "requirements": {
-      "min_team_overall": 75,
-      "min_chemistry": 3,
+      "min_team_overall": 82,
+      "min_chemistry": 0,
       "min_pentakill": 0
     },
     "reward": {
@@ -38,8 +38,8 @@
     "name": "Ultimate Challenge",
     "description": "Submit an elite and well-linked roster.",
     "requirements": {
-      "min_team_overall": 80,
-      "min_chemistry": 6,
+      "min_team_overall": 84,
+      "min_chemistry": 0,
       "min_pentakill": 0
     },
     "reward": {
@@ -52,10 +52,10 @@
   },
   {
     "id": "pentakill-caliste",
-    "name": "Pentakill: Calis",
+    "name": "Pentakill: Caliste",
     "description": "Complete the contract to earn Pentakill Caliste.",
     "requirements": {
-      "min_team_overall": 82,
+      "min_team_overall": 85,
       "min_chemistry": 6,
       "min_pentakill": 1
     },
