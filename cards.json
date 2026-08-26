@@ -1571,5 +1571,115 @@
     "rarity": "pentakill",
     "id": "pentakill-caliste",
     "image": "https://i.imgur.com/dP0bZh4.png"
+  },
+  {
+    "name": "MaRin",
+    "nationality": "kr",
+    "league": "Legacy",
+    "team": "Legacy",
+    "role": "TOP",
+    "overall": 94,
+    "rarity": "legacy",
+    "id": "legacy-marin",
+    "image": ""
+  },
+  {
+    "name": "Smeb",
+    "nationality": "kr",
+    "league": "Legacy",
+    "team": "Legacy",
+    "role": "TOP",
+    "overall": 93,
+    "rarity": "legacy",
+    "id": "legacy-smeb",
+    "image": ""
+  },
+  {
+    "name": "Bengi",
+    "nationality": "kr",
+    "league": "Legacy",
+    "team": "Legacy",
+    "role": "JGL",
+    "overall": 94,
+    "rarity": "legacy",
+    "id": "legacy-bengi",
+    "image": ""
+  },
+  {
+    "name": "Ambition",
+    "nationality": "kr",
+    "league": "Legacy",
+    "team": "Legacy",
+    "role": "JGL",
+    "overall": 93,
+    "rarity": "legacy",
+    "id": "legacy-ambition",
+    "image": ""
+  },
+  {
+    "name": "xPeke",
+    "nationality": "es",
+    "league": "Legacy",
+    "team": "Legacy",
+    "role": "MID",
+    "overall": 92,
+    "rarity": "legacy",
+    "id": "legacy-xpeke",
+    "image": ""
+  },
+  {
+    "name": "PawN",
+    "nationality": "kr",
+    "league": "Legacy",
+    "team": "Legacy",
+    "role": "MID",
+    "overall": 93,
+    "rarity": "legacy",
+    "id": "legacy-pawn",
+    "image": ""
+  },
+  {
+    "name": "Uzi",
+    "nationality": "cn",
+    "league": "Legacy",
+    "team": "Legacy",
+    "role": "ADC",
+    "overall": 93,
+    "rarity": "legacy",
+    "id": "legacy-uzi",
+    "image": ""
+  },
+  {
+    "name": "WeiXiao",
+    "nationality": "cn",
+    "league": "Legacy",
+    "team": "Legacy",
+    "role": "ADC",
+    "overall": 93,
+    "rarity": "legacy",
+    "id": "legacy-weixiao",
+    "image": ""
+  },
+  {
+    "name": "MadLife",
+    "nationality": "kr",
+    "league": "Legacy",
+    "team": "Legacy",
+    "role": "SUP",
+    "overall": 94,
+    "rarity": "legacy",
+    "id": "legacy-madlife",
+    "image": ""
+  },
+  {
+    "name": "Mata",
+    "nationality": "kr",
+    "league": "Legacy",
+    "team": "Legacy",
+    "role": "SUP",
+    "overall": 95,
+    "rarity": "legacy",
+    "id": "legacy-mata",
+    "image": ""
   }
 ]
