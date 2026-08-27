@@ -1581,7 +1581,7 @@
     "overall": 94,
     "rarity": "legacy",
     "id": "legacy-marin",
-    "image": ""
+    "image": "https://i.imgur.com/wA1nZZd.png"
   },
   {
     "name": "Smeb",
@@ -1603,7 +1603,7 @@
     "overall": 94,
     "rarity": "legacy",
     "id": "legacy-bengi",
-    "image": ""
+    "image": "https://i.imgur.com/xn4kQY3.png"
   },
   {
     "name": "Ambition",
@@ -1625,7 +1625,7 @@
     "overall": 92,
     "rarity": "legacy",
     "id": "legacy-xpeke",
-    "image": ""
+    "image": "https://i.imgur.com/neXdRBl.png"
   },
   {
     "name": "PawN",
@@ -1644,10 +1644,10 @@
     "league": "Legacy",
     "team": "Legacy",
     "role": "ADC",
-    "overall": 93,
+    "overall": 94,
     "rarity": "legacy",
     "id": "legacy-uzi",
-    "image": ""
+    "image": "https://i.imgur.com/AA5ZzjF.png"
   },
   {
     "name": "WeiXiao",
@@ -1680,7 +1680,7 @@
     "overall": 95,
     "rarity": "legacy",
     "id": "legacy-mata",
-    "image": ""
+    "image": "https://i.imgur.com/oJ1qnta.png"
   },
   {
     "name": "Elyoya",
