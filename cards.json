@@ -1857,7 +1857,7 @@
     "rarity": "spotlight",
     "marketeable": false,
     "id": "spotlight-showmaker",
-    "image": "https://i.imgur.com/zHdXP7y.png"
+    "image": "https://i.imgur.com/BE7ehAC.png"
   },
   {
     "name": "Inspired",
@@ -1956,123 +1956,27 @@
     "image": "https://i.imgur.com/nCcT14T.png"
   },
   {
-    "name": "Kiin",
-    "nationality": "kr",
-    "league": "LCK",
-    "team": "Gen.G",
-    "role": "Top",
-    "overall": 93,
-    "rarity": "all-pro",
-    "marketeable": true,
-    "id": "all-pro-kiin",
-    "image": "https://i.imgur.com/AJEPPgn.png"
-  },
-  {
-    "name": "Lucid",
+    "name": "Smash",
     "nationality": "kr",
     "league": "LCK",
     "team": "Dplus KIA",
-    "role": "Jungle",
+    "role": "ADC",
     "overall": 92,
-    "rarity": "all-pro",
+    "rarity": "rookie-of-the-year",
     "marketeable": true,
-    "id": "all-pro-lucid",
-    "image": "https://i.imgur.com/QWPFlAV.png "
+    "id": "rookie-of-the-year-smash",
+    "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/77/DK_Smash_2026_Split_1.png/revision/latest?cb=20260122171056"
   },
   {
-    "name": "Zeka",
-    "nationality": "kr",
-    "league": "LCK",
-    "team": "Hanwha Life Esports",
-    "role": "Mid",
-    "overall": 93,
-    "rarity": "all-pro",
-    "marketeable": true,
-    "id": "all-pro-zeka",
-    "image": "https://i.imgur.com/Vw1Qewn.png"
-  },
-  {
-    "name": "Ruler",
+    "name": "Chovy",
     "nationality": "kr",
     "league": "LCK",
     "team": "Gen.G",
-    "role": "ADC",
-    "overall": 93,
-    "rarity": "all-pro",
-    "marketeable": true,
-    "id": "all-pro-ruler",
-    "image": "https://i.imgur.com/EUj7W7I.png"
-  },
-  {
-    "name": "Delight",
-    "nationality": "kr",
-    "league": "LCK",
-    "team": "Hanwha Life Esports",
-    "role": "Support",
-    "overall": 91,
-    "rarity": "all-pro",
-    "marketeable": true,
-    "id": "all-pro-delight",
-    "image": "https://i.imgur.com/m77zfdj.png"
-  },
-  {
-    "name": "Siwoo",
-    "nationality": "kr",
-    "league": "LCK",
-    "team": "Dplus KIA",
-    "role": "Top",
-    "overall": 91,
-    "rarity": "all-pro",
-    "marketeable": true,
-    "id": "all-pro-siwoo",
-    "image": "https://i.imgur.com/g8OWJ9K.png"
-  },
-  {
-    "name": "Canyon",
-    "nationality": "kr",
-    "league": "LCK",
-    "team": "Gen.G",
-    "role": "Jungle",
-    "overall": 93,
-    "rarity": "all-pro",
-    "marketeable": true,
-    "id": "all-pro-canyon",
-    "image": "https://i.imgur.com/CvpEyY9.png"
-  },
-  {
-    "name": "ShowMaker",
-    "nationality": "kr",
-    "league": "LCK",
-    "team": "Dplus KIA",
     "role": "Mid",
-    "overall": 93,
-    "rarity": "all-pro",
+    "overall": 98,
+    "rarity": "mvp",
     "marketeable": true,
-    "id": "all-pro-showmaker",
-    "image": "https://i.imgur.com/BE7ehAC.png"
-  },
-  {
-    "name": "Gumayusi",
-    "nationality": "kr",
-    "league": "LCK",
-    "team": "Hanwha Life Esports",
-    "role": "ADC",
-    "overall": 93,
-    "rarity": "all-pro",
-    "marketeable": true,
-    "id": "all-pro-gumayusi",
-    "image": "https://i.imgur.com/Vr6hxPr.png"
-  },
-  {
-    "name": "Career",
-    "nationality": "kr",
-    "league": "LCK",
-    "team": "Dplus KIA",
-    "role": "Support",
-    "overall": 90,
-    "rarity": "all-pro",
-    "marketeable": true,
-    "id": "all-pro-career",
-    "image": "https://i.imgur.com/Pr13Ao1.png"
+    "id": "mvp-chovy",
+    "image": "https://i.imgur.com/1CPGEyf.png"
   }
 ]
