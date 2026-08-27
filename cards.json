@@ -720,7 +720,7 @@
     "league": "LCK",
     "team": "Dplus KIA",
     "role": "Top",
-    "overall": 83,
+    "overall": 85,
     "rarity": "base",
     "id": "base-siwoo",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3e/DK_Siwoo_2026_Split_1.png/revision/latest?cb=20260122171048"
@@ -764,7 +764,7 @@
     "league": "LCK",
     "team": "Dplus KIA",
     "role": "Support",
-    "overall": 82,
+    "overall": 85,
     "rarity": "base",
     "id": "base-career",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/DK_Career_2026_Split_1.png/revision/latest?cb=20260122171027"
@@ -1736,5 +1736,170 @@
     "rarity": "spotlight",
     "id": "spotlight-doggo",
     "image": "https://i.imgur.com/pW3ya15.png"
+  },
+  {
+    "name": "Zeus",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Hanwha Life Esports",
+    "role": "Top",
+    "overall": 95,
+    "rarity": "all-pro",
+    "id": "all-pro-zeus",
+    "image": ""
+  },
+  {
+    "name": "Kanavi",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Hanwha Life Esports",
+    "role": "Jungle",
+    "overall": 95,
+    "rarity": "all-pro",
+    "id": "all-pro-kanavi",
+    "image": ""
+  },
+  {
+    "name": "Chovy",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Gen.G",
+    "role": "Mid",
+    "overall": 96,
+    "rarity": "all-pro",
+    "id": "all-pro-chovy",
+    "image": ""
+  },
+  {
+    "name": "Peyz",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "T1",
+    "role": "ADC",
+    "overall": 95,
+    "rarity": "all-pro",
+    "id": "all-pro-peyz",
+    "image": ""
+  },
+  {
+    "name": "Keria",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "T1",
+    "role": "Support",
+    "overall": 95,
+    "rarity": "all-pro",
+    "id": "all-pro-keria",
+    "image": ""
+  },
+  {
+    "name": "Kiin",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Gen.G",
+    "role": "Top",
+    "overall": 93,
+    "rarity": "all-pro",
+    "id": "all-pro-kiin",
+    "image": ""
+  },
+  {
+    "name": "Lucid",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Dplus KIA",
+    "role": "Jungle",
+    "overall": 92,
+    "rarity": "all-pro",
+    "id": "all-pro-lucid",
+    "image": ""
+  },
+  {
+    "name": "Zeka",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Hanwha Life Esports",
+    "role": "Mid",
+    "overall": 93,
+    "rarity": "all-pro",
+    "id": "all-pro-zeka",
+    "image": ""
+  },
+  {
+    "name": "Ruler",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Gen.G",
+    "role": "ADC",
+    "overall": 93,
+    "rarity": "all-pro",
+    "id": "all-pro-ruler",
+    "image": ""
+  },
+  {
+    "name": "Delight",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Hanwha Life Esports",
+    "role": "Support",
+    "overall": 91,
+    "rarity": "all-pro",
+    "id": "all-pro-delight",
+    "image": ""
+  },
+  {
+    "name": "Siwoo",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Dplus KIA",
+    "role": "Top",
+    "overall": 91,
+    "rarity": "all-pro",
+    "id": "all-pro-siwoo",
+    "image": ""
+  },
+  {
+    "name": "Canyon",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Gen.G",
+    "role": "Jungle",
+    "overall": 93,
+    "rarity": "all-pro",
+    "id": "all-pro-canyon",
+    "image": ""
+  },
+  {
+    "name": "ShowMaker",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Dplus KIA",
+    "role": "Mid",
+    "overall": 93,
+    "rarity": "all-pro",
+    "id": "all-pro-showmaker",
+    "image": ""
+  },
+  {
+    "name": "Gumayusi",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Hanwha Life Esports",
+    "role": "ADC",
+    "overall": 93,
+    "rarity": "all-pro",
+    "id": "all-pro-gumayusi",
+    "image": ""
+  },
+  {
+    "name": "Career",
+    "nationality": "kr",
+    "league": "LCK",
+    "team": "Dplus KIA",
+    "role": "Support",
+    "overall": 90,
+    "rarity": "all-pro",
+    "id": "all-pro-career",
+    "image": ""
   }
 ]
