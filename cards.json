@@ -1691,7 +1691,7 @@
     "overall": 89,
     "rarity": "spotlight",
     "id": "spotlight-elyoya",
-    "image": ""
+    "image": "https://i.imgur.com/fRUgdKq.png"
   },
   {
     "name": "ShowMaker",
@@ -1702,7 +1702,7 @@
     "overall": 90,
     "rarity": "spotlight",
     "id": "spotlight-showmaker",
-    "image": ""
+    "image": "https://i.imgur.com/zHdXP7y.png"
   },
   {
     "name": "Inspired",
@@ -1713,7 +1713,7 @@
     "overall": 89,
     "rarity": "spotlight",
     "id": "spotlight-inspired",
-    "image": ""
+    "image": "https://i.imgur.com/ySxzaAm.png"
   },
   {
     "name": "TheShy",
@@ -1724,7 +1724,7 @@
     "overall": 90,
     "rarity": "spotlight",
     "id": "spotlight-theshy",
-    "image": ""
+    "image": "https://i.imgur.com/IhdpYqj.png"
   },
   {
     "name": "Doggo",
@@ -1735,6 +1735,6 @@
     "overall": 87,
     "rarity": "spotlight",
     "id": "spotlight-doggo",
-    "image": ""
+    "image": "https://i.imgur.com/pW3ya15.png"
   }
 ]
