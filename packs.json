@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "packs": [
+    {
+      "id": "starter-pack",
+      "active": true,
+      "purchasable": false,
+      "sort_order": 0,
+      "price": 0,
+      "card_count": 5,
+      "minimum_overall": 70,
+      "maximum_overall": 99,
+      "guaranteed_min_overall": 70,
+      "guaranteed_roles": [
+        "top",
+        "jungle",
+        "mid",
+        "adc",
+        "support"
+      ],
+      "rarity_chances_per_slot": {
+        "legacy": 0.0,
+        "all-pro": 0.0,
+        "spotlight": 0.0,
+        "pentakill": 0.0
+      },
+      "overall_weight_decay": 0.88,
+      "name": {
+        "en": "STARTER PACK",
+        "es": "SOBRE INICIAL",
+        "fr": "PACK DE DÉPART",
+        "pt": "PACOTE INICIAL",
+        "it": "PACCHETTO INIZIALE",
+        "de": "STARTER-PACK"
+      },
+      "description": {
+        "en": "5 players · One guaranteed for every role",
+        "es": "5 jugadores · Uno garantizado por posición",
+        "fr": "5 joueurs · Un garanti à chaque poste",
+        "pt": "5 jogadores · Um garantido por posição",
+        "it": "5 giocatori · Uno garantito per ruolo",
+        "de": "5 Spieler · Einer pro Position garantiert"
+      }
+    },
+    {
+      "id": "rift-pack",
+      "active": true,
+      "purchasable": true,
+      "sort_order": 10,
+      "price": 5000,
+      "card_count": 5,
+      "minimum_overall": 70,
+      "maximum_overall": 99,
+      "guaranteed_min_overall": 80,
+      "guaranteed_roles": [],
+      "rarity_chances_per_slot": {
+        "legacy": 0.0005,
+        "all-pro": 0.001,
+        "spotlight": 0.005,
+        "pentakill": 0.005
+      },
+      "overall_weight_decay": 0.88,
+      "name": {
+        "en": "RIFT PACK",
+        "es": "SOBRE RIFT",
+        "fr": "PACK DE LA FAILLE",
+        "pt": "PACOTE DO RIFT",
+        "it": "PACCHETTO DELLA LANDA",
+        "de": "RIFT-PACK"
+      },
+      "description": {
+        "en": "5 players · 1 guaranteed 80+",
+        "es": "5 jugadores · 1 garantizado de 80+",
+        "fr": "5 joueurs · 1 joueur 80+ garanti",
+        "pt": "5 jogadores · 1 jogador 80+ garantido",
+        "it": "5 giocatori · 1 giocatore 80+ garantito",
+        "de": "5 Spieler · 1 Spieler mit 80+ garantiert"
+      }
+    },
+    {
+      "id": "pro-pack",
+      "active": true,
+      "purchasable": true,
+      "sort_order": 20,
+      "price": 15000,
+      "card_count": 5,
+      "minimum_overall": 70,
+      "maximum_overall": 99,
+      "guaranteed_min_overall": 82,
+      "guaranteed_roles": [],
+      "rarity_chances_per_slot": {
+        "legacy": 0.0015,
+        "all-pro": 0.003,
+        "spotlight": 0.012,
+        "pentakill": 0.0125
+      },
+      "overall_weight_decay": 0.88,
+      "name": {
+        "en": "PRO PACK",
+        "es": "SOBRE PRO",
+        "fr": "PACK PRO",
+        "pt": "PACOTE PRO",
+        "it": "PACCHETTO PRO",
+        "de": "PRO-PACK"
+      },
+      "description": {
+        "en": "5 players · 1 guaranteed 82+",
+        "es": "5 jugadores · 1 garantizado de 82+",
+        "fr": "5 joueurs · 1 joueur 82+ garanti",
+        "pt": "5 jogadores · 1 jogador 82+ garantido",
+        "it": "5 giocatori · 1 giocatore 82+ garantito",
+        "de": "5 Spieler · 1 Spieler mit 82+ garantiert"
+      }
+    },
+    {
+      "id": "ultimate-pack",
+      "active": true,
+      "purchasable": true,
+      "sort_order": 30,
+      "price": 40000,
+      "card_count": 5,
+      "minimum_overall": 70,
+      "maximum_overall": 99,
+      "guaranteed_min_overall": 85,
+      "guaranteed_roles": [],
+      "rarity_chances_per_slot": {
+        "legacy": 0.004,
+        "all-pro": 0.008,
+        "spotlight": 0.025,
+        "pentakill": 0.03
+      },
+      "overall_weight_decay": 0.88,
+      "name": {
+        "en": "ULTIMATE PACK",
+        "es": "SOBRE ULTIMATE",
+        "fr": "PACK ULTIMATE",
+        "pt": "PACOTE ULTIMATE",
+        "it": "PACCHETTO ULTIMATE",
+        "de": "ULTIMATE-PACK"
+      },
+      "description": {
+        "en": "5 players · 1 guaranteed 85+",
+        "es": "5 jugadores · 1 garantizado de 85+",
+        "fr": "5 joueurs · 1 joueur 85+ garanti",
+        "pt": "5 jogadores · 1 jogador 85+ garantido",
+        "it": "5 giocatori · 1 giocatore 85+ garantito",
+        "de": "5 Spieler · 1 Spieler mit 85+ garantiert"
+      }
+    }
+  ]
+}
