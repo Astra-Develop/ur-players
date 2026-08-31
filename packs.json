@@ -26,12 +26,12 @@
       },
       "overall_weight_decay": 0.88,
       "name": {
-        "en": "STARTER PACKa",
-        "es": "SOBRE INICIALa",
-        "fr": "PACK DE DÉPARTa",
-        "pt": "PACOTE INICIALa",
-        "it": "PACCHETTO INIZIALEa",
-        "de": "STARTER-PACKa"
+        "en": "STARTER PACK",
+        "es": "SOBRE INICIAL",
+        "fr": "PACK DE DÉPART",
+        "pt": "PACOTE INICIAL",
+        "it": "PACCHETTO INIZIALE",
+        "de": "STARTER-PACK"
       },
       "description": {
         "en": "5 players · One guaranteed for every role",
@@ -61,12 +61,12 @@
       },
       "overall_weight_decay": 0.88,
       "name": {
-        "en": "RIFT PACK",
-        "es": "SOBRE RIFT",
-        "fr": "PACK DE LA FAILLE",
-        "pt": "PACOTE DO RIFT",
-        "it": "PACCHETTO DELLA LANDA",
-        "de": "RIFT-PACK"
+        "en": "RIFT PACKa",
+        "es": "SOBRE RIFTa",
+        "fr": "PACK DE LA FAILLEa",
+        "pt": "PACOTE DO RIFTa",
+        "it": "PACCHETTO DELLA LANDAa",
+        "de": "RIFT-PACKa"
       },
       "description": {
         "en": "5 players · 1 guaranteed 80+",
