@@ -61,12 +61,12 @@
       },
       "overall_weight_decay": 0.88,
       "name": {
-        "en": "RIFT PACKa",
-        "es": "SOBRE RIFTa",
-        "fr": "PACK DE LA FAILLEa",
-        "pt": "PACOTE DO RIFTa",
-        "it": "PACCHETTO DELLA LANDAa",
-        "de": "RIFT-PACKa"
+        "en": "RIFT PACK",
+        "es": "SOBRE RIFT",
+        "fr": "PACK DE LA FAILLE",
+        "pt": "PACOTE DO RIFT",
+        "it": "PACCHETTO DELLA LANDA",
+        "de": "RIFT-PACK"
       },
       "description": {
         "en": "5 players · 1 guaranteed 80+",
