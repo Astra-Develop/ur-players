@@ -40,7 +40,9 @@
         "pt": "5 jogadores · Um garantido por posição",
         "it": "5 giocatori · Uno garantito per ruolo",
         "de": "5 Spieler · Einer pro Position garantiert"
-      }
+      },
+      "top_url": "https://i.imgur.com/bmaRWel.png",
+      "bottom_url": "https://i.imgur.com/25Rz6Bb.png"
     },
     {
       "id": "rift-pack",
@@ -75,7 +77,9 @@
         "pt": "5 jogadores · 1 jogador 80+ garantido",
         "it": "5 giocatori · 1 giocatore 80+ garantito",
         "de": "5 Spieler · 1 Spieler mit 80+ garantiert"
-      }
+      },
+      "top_url": "https://i.imgur.com/FYEJKTd.png",
+      "bottom_url": "https://i.imgur.com/F8CWsae.png"
     },
     {
       "id": "pro-pack",
@@ -110,7 +114,9 @@
         "pt": "5 jogadores · 1 jogador 82+ garantido",
         "it": "5 giocatori · 1 giocatore 82+ garantito",
         "de": "5 Spieler · 1 Spieler mit 82+ garantiert"
-      }
+      },
+      "top_url": "https://i.imgur.com/Y6B6iyi.png",
+      "bottom_url": "https://i.imgur.com/Un00YgA.png"
     },
     {
       "id": "ultimate-pack",
@@ -145,7 +151,9 @@
         "pt": "5 jogadores · 1 jogador 85+ garantido",
         "it": "5 giocatori · 1 giocatore 85+ garantito",
         "de": "5 Spieler · 1 Spieler mit 85+ garantiert"
-      }
+      },
+      "top_url": "https://i.imgur.com/oD7GSCg.png",
+      "bottom_url": "https://i.imgur.com/krs436F.png"
     }
   ]
 }
