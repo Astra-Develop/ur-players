@@ -11,18 +11,17 @@
       "minimum_overall": 70,
       "maximum_overall": 99,
       "guaranteed_min_overall": 70,
-      "guaranteed_roles": [
-        "top",
-        "jungle",
-        "mid",
-        "adc",
-        "support"
-      ],
+      "guaranteed_roles": ["top", "jungle", "mid", "adc", "support"],
       "rarity_chances_per_slot": {
         "legacy": 0.0,
         "all-pro": 0.0,
         "spotlight": 0.0,
         "pentakill": 0.0
+      },
+      "overall_chances_per_slot": {
+        "82": 0.02,
+        "84": 0.002,
+        "86": 0.0001
       },
       "overall_weight_decay": 0.88,
       "name": {
@@ -61,6 +60,11 @@
         "spotlight": 0.005,
         "pentakill": 0.005
       },
+      "overall_chances_per_slot": {
+        "82": 0.06,
+        "83": 0.03,
+        "86": 0.002
+      },
       "overall_weight_decay": 0.88,
       "name": {
         "en": "RIFT PACK",
@@ -86,17 +90,22 @@
       "active": true,
       "purchasable": true,
       "sort_order": 20,
-      "price": 15000,
+      "price": 75000,
       "card_count": 5,
       "minimum_overall": 70,
       "maximum_overall": 99,
-      "guaranteed_min_overall": 82,
+      "guaranteed_min_overall": 81,
       "guaranteed_roles": [],
       "rarity_chances_per_slot": {
         "legacy": 0.0015,
         "all-pro": 0.003,
         "spotlight": 0.012,
         "pentakill": 0.0125
+      },
+      "overall_chances_per_slot": {
+        "82": 0.3,
+        "84": 0.08,
+        "86": 0.008
       },
       "overall_weight_decay": 0.88,
       "name": {
@@ -108,12 +117,12 @@
         "de": "PRO-PACK"
       },
       "description": {
-        "en": "5 players · 1 guaranteed 82+",
-        "es": "5 jugadores · 1 garantizado de 82+",
-        "fr": "5 joueurs · 1 joueur 82+ garanti",
-        "pt": "5 jogadores · 1 jogador 82+ garantido",
-        "it": "5 giocatori · 1 giocatore 82+ garantito",
-        "de": "5 Spieler · 1 Spieler mit 82+ garantiert"
+        "en": "5 players · 1 guaranteed 81+",
+        "es": "5 jugadores · 1 garantizado de 81+",
+        "fr": "5 joueurs · 1 joueur 81+ garanti",
+        "pt": "5 jogadores · 1 jogador 81+ garantido",
+        "it": "5 giocatori · 1 giocatore 81+ garantito",
+        "de": "5 Spieler · 1 Spieler mit 81+ garantiert"
       },
       "top_url": "https://i.imgur.com/Y6B6iyi.png",
       "bottom_url": "https://i.imgur.com/Un00YgA.png"
@@ -123,17 +132,23 @@
       "active": true,
       "purchasable": true,
       "sort_order": 30,
-      "price": 40000,
+      "price": 12500,
       "card_count": 5,
       "minimum_overall": 70,
       "maximum_overall": 99,
-      "guaranteed_min_overall": 85,
+      "guaranteed_min_overall": 83,
       "guaranteed_roles": [],
       "rarity_chances_per_slot": {
         "legacy": 0.004,
         "all-pro": 0.008,
         "spotlight": 0.025,
         "pentakill": 0.03
+      },
+      "overall_chances_per_slot": {
+        "83": 0.45,
+        "85": 0.12,
+        "86": 0.015,
+        "88": 0.002
       },
       "overall_weight_decay": 0.88,
       "name": {
@@ -145,12 +160,12 @@
         "de": "ULTIMATE-PACK"
       },
       "description": {
-        "en": "5 players · 1 guaranteed 85+",
-        "es": "5 jugadores · 1 garantizado de 85+",
-        "fr": "5 joueurs · 1 joueur 85+ garanti",
-        "pt": "5 jogadores · 1 jogador 85+ garantido",
-        "it": "5 giocatori · 1 giocatore 85+ garantito",
-        "de": "5 Spieler · 1 Spieler mit 85+ garantiert"
+        "en": "5 players · 1 guaranteed 83+",
+        "es": "5 jugadores · 1 garantizado de 83+",
+        "fr": "5 joueurs · 1 joueur 83+ garanti",
+        "pt": "5 jogadores · 1 jogador 83+ garantido",
+        "it": "5 giocatori · 1 giocatore 83+ garantito",
+        "de": "5 Spieler · 1 Spieler mit 83+ garantiert"
       },
       "top_url": "https://i.imgur.com/oD7GSCg.png",
       "bottom_url": "https://i.imgur.com/krs436F.png"
