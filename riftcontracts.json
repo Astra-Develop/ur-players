@@ -54,21 +54,93 @@
     "expires_at": "2026-09-15T18:00:00Z"
   },
   {
-    "id": "pentakill-caliste",
-    "name": "Pentakill: Caliste",
-    "description": "Complete the contract to earn Pentakill Caliste.",
+    "id": "spotlight-theshy",
+    "name": "Spotlight: TheShy",
+    "description": "Complete the contract to earn Spotlight TheShy.",
     "requirements": {
-      "min_team_overall": 85,
-      "min_chemistry": 6,
-      "min_pentakill": 1
+      "min_team_overall": 87,
+      "min_chemistry": 11,
+      "min_unique_leagues": 2
     },
     "reward": {
       "type": "player",
-      "id": "pentakill-caliste"
+      "id": "spotlight-theshy"
     },
     "repeatable": false,
     "sort_order": 40,
     "active": true,
-    "expires_at": "2026-09-15T18:00:00Z"
+    "expires_at": "2026-10-02T18:00:00Z"
+  },
+  {
+    "id": "spotlight-showmaker",
+    "name": "Spotlight: ShowMaker",
+    "description": "Complete the contract to earn Spotlight ShowMaker.",
+    "requirements": {
+      "min_team_overall": 87,
+      "min_chemistry": 11,
+      "minLeagueCount": { "league": "lck", "count": 2 }
+    },
+    "reward": {
+      "type": "player",
+      "id": "spotlight-showmaker"
+    },
+    "repeatable": false,
+    "sort_order": 50,
+    "active": true,
+    "expires_at": "2026-10-02T18:00:00Z"
+  },
+  {
+    "id": "spotlight-elyoya",
+    "name": "Spotlight: Elyoya",
+    "description": "Complete the contract to earn Spotlight Elyoya.",
+    "requirements": {
+      "min_team_overall": 86,
+      "min_chemistry": 10,
+      "minLeagueCount": { "league": "lec", "count": 2 }
+    },
+    "reward": {
+      "type": "player",
+      "id": "spotlight-elyoya"
+    },
+    "repeatable": false,
+    "sort_order": 60,
+    "active": true,
+    "expires_at": "2026-10-02T18:00:00Z"
+  },
+  {
+    "id": "spotlight-inspired",
+    "name": "Spotlight: Inspired",
+    "description": "Complete the contract to earn Spotlight Inspired.",
+    "requirements": {
+      "min_team_overall": 86,
+      "min_chemistry": 10,
+      "minLeagueCount": { "league": "lcs", "count": 2 }
+    },
+    "reward": {
+      "type": "player",
+      "id": "spotlight-inspired"
+    },
+    "repeatable": false,
+    "sort_order": 70,
+    "active": true,
+    "expires_at": "2026-10-02T18:00:00Z"
+  },
+  {
+    "id": "spotlight-doggo",
+    "name": "Spotlight: Doggo",
+    "description": "Complete the contract to earn Spotlight Doggo.",
+    "requirements": {
+      "min_team_overall": 83,
+      "min_chemistry": 8,
+      "minLeagueCount": { "league": "lcp", "count": 1 }
+    },
+    "reward": {
+      "type": "player",
+      "id": "spotlight-doggo"
+    },
+    "repeatable": false,
+    "sort_order": 80,
+    "active": true,
+    "expires_at": "2026-10-02T18:00:00Z"
   }
 ]
