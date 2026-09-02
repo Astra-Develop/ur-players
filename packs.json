@@ -169,6 +169,178 @@
       },
       "top_url": "https://i.imgur.com/oD7GSCg.png",
       "bottom_url": "https://i.imgur.com/krs436F.png"
+    },
+    {
+      "id": "lck-pack",
+      "active": true,
+      "purchasable": false,
+      "sort_order": 40,
+      "price": 0,
+      "card_count": 5,
+      "league": "lck",
+      "minimum_overall": 70,
+      "maximum_overall": 99,
+      "guaranteed_min_overall": 80,
+      "guaranteed_roles": [],
+      "rarity_chances_per_slot": {
+        "legacy": 0.0005,
+        "all-pro": 0.001,
+        "spotlight": 0.005,
+        "pentakill": 0.005
+      },
+      "overall_chances_per_slot": {
+        "82": 0.06,
+        "83": 0.03,
+        "86": 0.002
+      },
+      "overall_weight_decay": 0.88,
+      "name": {
+        "en": "LCK UPGRADE PACK",
+        "es": "SOBRE DE MEJORA LCK",
+        "fr": "PACK AMELIORATION LCK",
+        "pt": "PACOTE DE MELHORIA LCK",
+        "it": "PACCHETTO MIGLIORAMENTO LCK",
+        "de": "LCK-UPGRADE-PACK"
+      },
+      "description": {
+        "en": "5 LCK players · 1 guaranteed 80+",
+        "es": "5 jugadores de LCK · 1 garantizado de 80+",
+        "fr": "5 joueurs de LCK · 1 joueur 80+ garanti",
+        "pt": "5 jogadores da LCK · 1 jogador 80+ garantido",
+        "it": "5 giocatori LCK · 1 giocatore 80+ garantito",
+        "de": "5 LCK-Spieler · 1 Spieler mit 80+ garantiert"
+      },
+      "top_url": "https://i.imgur.com/FYEJKTd.png",
+      "bottom_url": "https://i.imgur.com/F8CWsae.png"
+    },
+    {
+      "id": "lpl-pack",
+      "active": true,
+      "purchasable": false,
+      "sort_order": 50,
+      "price": 0,
+      "card_count": 5,
+      "league": "lpl",
+      "minimum_overall": 70,
+      "maximum_overall": 99,
+      "guaranteed_min_overall": 80,
+      "guaranteed_roles": [],
+      "rarity_chances_per_slot": {
+        "legacy": 0.0005,
+        "all-pro": 0.001,
+        "spotlight": 0.005,
+        "pentakill": 0.005
+      },
+      "overall_chances_per_slot": {
+        "82": 0.06,
+        "83": 0.03,
+        "86": 0.002
+      },
+      "overall_weight_decay": 0.88,
+      "name": {
+        "en": "LPL UPGRADE PACK",
+        "es": "SOBRE DE MEJORA LPL",
+        "fr": "PACK AMELIORATION LPL",
+        "pt": "PACOTE DE MELHORIA LPL",
+        "it": "PACCHETTO MIGLIORAMENTO LPL",
+        "de": "LPL-UPGRADE-PACK"
+      },
+      "description": {
+        "en": "5 LPL players · 1 guaranteed 80+",
+        "es": "5 jugadores de LPL · 1 garantizado de 80+",
+        "fr": "5 joueurs de LPL · 1 joueur 80+ garanti",
+        "pt": "5 jogadores da LPL · 1 jogador 80+ garantido",
+        "it": "5 giocatori LPL · 1 giocatore 80+ garantito",
+        "de": "5 LPL-Spieler · 1 Spieler mit 80+ garantiert"
+      },
+      "top_url": "https://i.imgur.com/FYEJKTd.png",
+      "bottom_url": "https://i.imgur.com/F8CWsae.png"
+    },
+    {
+      "id": "lec-pack",
+      "active": true,
+      "purchasable": false,
+      "sort_order": 60,
+      "price": 0,
+      "card_count": 5,
+      "league": "lec",
+      "minimum_overall": 70,
+      "maximum_overall": 99,
+      "guaranteed_min_overall": 80,
+      "guaranteed_roles": [],
+      "rarity_chances_per_slot": {
+        "legacy": 0.0005,
+        "all-pro": 0.001,
+        "spotlight": 0.005,
+        "pentakill": 0.005
+      },
+      "overall_chances_per_slot": {
+        "82": 0.06,
+        "83": 0.03,
+        "86": 0.002
+      },
+      "overall_weight_decay": 0.88,
+      "name": {
+        "en": "LEC UPGRADE PACK",
+        "es": "SOBRE DE MEJORA LEC",
+        "fr": "PACK AMELIORATION LEC",
+        "pt": "PACOTE DE MELHORIA LEC",
+        "it": "PACCHETTO MIGLIORAMENTO LEC",
+        "de": "LEC-UPGRADE-PACK"
+      },
+      "description": {
+        "en": "5 LEC players · 1 guaranteed 80+",
+        "es": "5 jugadores de LEC · 1 garantizado de 80+",
+        "fr": "5 joueurs de LEC · 1 joueur 80+ garanti",
+        "pt": "5 jogadores da LEC · 1 jogador 80+ garantido",
+        "it": "5 giocatori LEC · 1 giocatore 80+ garantito",
+        "de": "5 LEC-Spieler · 1 Spieler mit 80+ garantiert"
+      },
+      "top_url": "https://i.imgur.com/FYEJKTd.png",
+      "bottom_url": "https://i.imgur.com/F8CWsae.png"
+    },
+    {
+      "id": "lcs-pack",
+      "active": true,
+      "purchasable": false,
+      "sort_order": 70,
+      "price": 0,
+      "card_count": 5,
+      "league": "lcs",
+      "minimum_overall": 70,
+      "maximum_overall": 99,
+      "guaranteed_min_overall": 80,
+      "guaranteed_roles": [],
+      "rarity_chances_per_slot": {
+        "legacy": 0.0005,
+        "all-pro": 0.001,
+        "spotlight": 0.005,
+        "pentakill": 0.005
+      },
+      "overall_chances_per_slot": {
+        "82": 0.06,
+        "83": 0.03,
+        "86": 0.002
+      },
+      "overall_weight_decay": 0.88,
+      "name": {
+        "en": "LCS UPGRADE PACK",
+        "es": "SOBRE DE MEJORA LCS",
+        "fr": "PACK AMELIORATION LCS",
+        "pt": "PACOTE DE MELHORIA LCS",
+        "it": "PACCHETTO MIGLIORAMENTO LCS",
+        "de": "LCS-UPGRADE-PACK"
+      },
+      "description": {
+        "en": "5 LCS players · 1 guaranteed 80+",
+        "es": "5 jugadores de LCS · 1 garantizado de 80+",
+        "fr": "5 joueurs de LCS · 1 joueur 80+ garanti",
+        "pt": "5 jogadores da LCS · 1 jogador 80+ garantido",
+        "it": "5 giocatori LCS · 1 giocatore 80+ garantito",
+        "de": "5 LCS-Spieler · 1 Spieler mit 80+ garantiert"
+      },
+      "top_url": "https://i.imgur.com/FYEJKTd.png",
+      "bottom_url": "https://i.imgur.com/F8CWsae.png"
     }
   ]
 }
