@@ -4533,7 +4533,7 @@
     "rarity": "base",
     "marketeable": true,
     "id": "base-solid",
-    "image": ""
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DK.C%20Solid%202026%20Split%203.png"
   },
   {
     "name": "Garden",
@@ -4740,7 +4740,7 @@
     "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DNS.C%20Enosh%202026%20Split%201.png"
   },
   {
-    "name": "Peter",
+    "name": "Quantum",
     "nationality": "kr",
     "league": "LCK CL",
     "team": "DN SOOPers Challengers",
@@ -4749,7 +4749,7 @@
     "rarity": "base",
     "marketeable": true,
     "id": "base-peter-lckcl",
-    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DNS%20Peter%202026%20Split%201.png"
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DNS.C%20Quantum%202026%20Split%201.png"
   },
   {
     "name": "Frog",
@@ -4788,7 +4788,7 @@
     "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DRX.C%20AKaJe%202026%20Split%201.png"
   },
   {
-    "name": "Jiwoo",
+    "name": "Vincenzo",
     "nationality": "kr",
     "league": "LCK CL",
     "team": "Kiwoom DRX Challengers",
@@ -4797,7 +4797,7 @@
     "rarity": "base",
     "marketeable": true,
     "id": "base-jiwoo",
-    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DRX.C%20Jiwoo%202026%20Split%201.png"
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DRX%20Vincenzo%202026%20Split%201.png"
   },
   {
     "name": "Minous",
@@ -4824,7 +4824,7 @@
     "image": "https://lol.fandom.com/wiki/Special:Redirect/file/BFX.Y%20Kangin%202026%20Split%201.png"
   },
   {
-    "name": "Zephyr",
+    "name": "Grizzly",
     "nationality": "kr",
     "league": "LCK CL",
     "team": "BNK FEARX Youth",
@@ -4832,20 +4832,20 @@
     "overall": 79,
     "rarity": "base",
     "marketeable": true,
-    "id": "base-zephyr",
-    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/BFX.Y%20Zephyr%202026%20Split%201.png"
+    "id": "base-grizzly",
+    "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/37/UP_Grizzly_2026_Split_1.png/revision/latest/scale-to-width-down/220?cb=20260328182447"
   },
   {
-    "name": "FIESTA",
+    "name": "MG",
     "nationality": "kr",
     "league": "LCK CL",
     "team": "BNK FEARX Youth",
     "role": "Mid",
-    "overall": 81,
+    "overall": 79,
     "rarity": "base",
     "marketeable": true,
-    "id": "base-fiesta-lckcl",
-    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/BFX.Y%20FIESTA%202026%20Split%201.png"
+    "id": "base-mg",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/BFX.Y%20MG%202026%20Split%203.png"
   },
   {
     "name": "Slayer",
@@ -5040,7 +5040,7 @@
     "image": "https://lol.fandom.com/wiki/Special:Redirect/file/GEN.GA%20MUDAI%202026%20Split%201.png"
   },
   {
-    "name": "SIRIUSS",
+    "name": "Lumos",
     "nationality": "kr",
     "league": "LCK CL",
     "team": "Gen.G Global Academy",
@@ -5049,12 +5049,1128 @@
     "rarity": "base",
     "marketeable": true,
     "id": "base-siriuss",
-    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/GEN.GA%20SIRIUSS%202026%20Split%201.png"
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/GEN.GA%20Lumos%202026%20Split%201.png"
+  },
+  {
+    "name": "Szygenda",
+    "nationality": "dk",
+    "league": "NLC",
+    "team": "Bulldog Esports",
+    "role": "Top",
+    "overall": 81,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-szygenda-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/BDG%20Szygenda%202026%20Split%202.png"
   },
 
+  {
+    "name": "KarimKT",
+    "nationality": "fr",
+    "league": "NLC",
+    "team": "Bulldog Esports",
+    "role": "Jungle",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-karimkt-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/BDG%20KarimKT%202026%20Split%202.png"
+  },
 
+  {
+    "name": "Ronaldo",
+    "nationality": "ro",
+    "league": "NLC",
+    "team": "Bulldog Esports",
+    "role": "Mid",
+    "overall": 80,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-ronaldo-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/BDG%20Ronaldo%202026%20Split%202.png"
+  },
 
+  {
+    "name": "reje",
+    "nationality": "dk",
+    "league": "NLC",
+    "team": "Bulldog Esports",
+    "role": "ADC",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-reje-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/BDG%20reje%202026%20Split%202.png"
+  },
 
+  {
+    "name": "kaSing",
+    "nationality": "gb",
+    "league": "NLC",
+    "team": "Bulldog Esports",
+    "role": "Support",
+    "overall": 81,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-kasing-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/BDG%20kaSing%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Bust",
+    "nationality": "fo",
+    "league": "NLC",
+    "team": "DMG Esports",
+    "role": "Top",
+    "overall": 78,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-bust-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DMG%20Bust%202026%20Split%202.png"
+  },
+
+  {
+    "name": "CLEARS",
+    "nationality": "de",
+    "league": "NLC",
+    "team": "DMG Esports",
+    "role": "Jungle",
+    "overall": 78,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-clears-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DMG%20CLEARS%202026%20Split%202.png"
+  },
+
+  {
+    "name": "JayJay",
+    "nationality": "pl",
+    "league": "NLC",
+    "team": "DMG Esports",
+    "role": "Mid",
+    "overall": 78,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-jayjay-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DMG%20JayJay%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Kamito",
+    "nationality": "de",
+    "league": "NLC",
+    "team": "DMG Esports",
+    "role": "ADC",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-kamito-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DMG%20Kamito%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Soul",
+    "nationality": "tr",
+    "league": "NLC",
+    "team": "DMG Esports",
+    "role": "Support",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-soul-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DMG%20Soul%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Nille",
+    "nationality": "fi",
+    "league": "NLC",
+    "team": "Arctic Pandas",
+    "role": "Top",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-nille-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/AP%20Nille%202026%20Split%202.png"
+  },
+
+  {
+    "name": "DIBU",
+    "nationality": "fi",
+    "league": "NLC",
+    "team": "Arctic Pandas",
+    "role": "Jungle",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-dibu-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/AP%20DIBU%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Simpli",
+    "nationality": "fi",
+    "league": "NLC",
+    "team": "Arctic Pandas",
+    "role": "Mid",
+    "overall": 80,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-simpli-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/AP%20Simpli%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Kehvo",
+    "nationality": "fi",
+    "league": "NLC",
+    "team": "Arctic Pandas",
+    "role": "ADC",
+    "overall": 80,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-kehvo-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/AP%20Kehvo%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Boltox",
+    "nationality": "ee",
+    "league": "NLC",
+    "team": "Arctic Pandas",
+    "role": "Support",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-boltox-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/AP%20Boltox%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Virtuso",
+    "nationality": "dk",
+    "league": "NLC",
+    "team": "Deer Gaming",
+    "role": "Top",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-virtuso-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DEER%20Virtuso%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Hankat",
+    "nationality": "dk",
+    "league": "NLC",
+    "team": "Deer Gaming",
+    "role": "Jungle",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-hankat-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DEER%20Hankat%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Scuffed",
+    "nationality": "dk",
+    "league": "NLC",
+    "team": "Deer Gaming",
+    "role": "Mid",
+    "overall": 80,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-scuffed-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DEER%20Scuffed%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Kakarot",
+    "nationality": "tr",
+    "league": "NLC",
+    "team": "Deer Gaming",
+    "role": "ADC",
+    "overall": 80,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-kakarot-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DEER%20Kakarot%202026%20Split%202.png"
+  },
+
+  {
+    "name": "uden",
+    "nationality": "pl",
+    "league": "NLC",
+    "team": "Deer Gaming",
+    "role": "Support",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-uden-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DEER%20uden%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Cha0s",
+    "nationality": "se",
+    "league": "NLC",
+    "team": "Lund Esports Organization",
+    "role": "Top",
+    "overall": 77,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-cha0s-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/LEO%20Cha0s%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Slice",
+    "nationality": "se",
+    "league": "NLC",
+    "team": "Lund Esports Organization",
+    "role": "Jungle",
+    "overall": 77,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-slice-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/LEO%20Slice%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Furby",
+    "nationality": "se",
+    "league": "NLC",
+    "team": "Lund Esports Organization",
+    "role": "Mid",
+    "overall": 78,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-furby-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/LEO%20Furby%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Goldenpenny",
+    "nationality": "se",
+    "league": "NLC",
+    "team": "Lund Esports Organization",
+    "role": "ADC",
+    "overall": 78,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-goldenpenny-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/LEO%20Goldenpenny%202026%20Split%202.png"
+  },
+
+  {
+    "name": "BrotherLuis",
+    "nationality": "de",
+    "league": "NLC",
+    "team": "Lund Esports Organization",
+    "role": "Support",
+    "overall": 77,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-brotherluis-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/LEO%20BrotherLuis%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Mansterninja",
+    "nationality": "se",
+    "league": "NLC",
+    "team": "Lundqvist Lightside",
+    "role": "Top",
+    "overall": 77,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-mansterninja-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/LLS%20Mansterninja%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Spiderlair",
+    "nationality": "se",
+    "league": "NLC",
+    "team": "Lundqvist Lightside",
+    "role": "Jungle",
+    "overall": 77,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-spiderlair-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/LLS%20Spiderlair%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Unicow",
+    "nationality": "se",
+    "league": "NLC",
+    "team": "Lundqvist Lightside",
+    "role": "Mid",
+    "overall": 77,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-unicow-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/LLS%20Unicow%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Bjoernen",
+    "nationality": "dk",
+    "league": "NLC",
+    "team": "Lundqvist Lightside",
+    "role": "ADC",
+    "overall": 77,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-bjoernen-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/LLS%20Bjoernen%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Lyrokun",
+    "nationality": "de",
+    "league": "NLC",
+    "team": "Lundqvist Lightside",
+    "role": "Support",
+    "overall": 77,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-lyrokun-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/LLS%20Lyrokun%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Kaermo",
+    "nationality": "dk",
+    "league": "NLC",
+    "team": "Ruddy Corporation",
+    "role": "Top",
+    "overall": 80,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-kaermo-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/RUD%20Kaermo%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Markus",
+    "nationality": "dk",
+    "league": "NLC",
+    "team": "Ruddy Corporation",
+    "role": "Jungle",
+    "overall": 80,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-markus-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/RUD%20Markus%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Ag0nyPain",
+    "nationality": "dk",
+    "league": "NLC",
+    "team": "Ruddy Corporation",
+    "role": "Mid",
+    "overall": 81,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-ag0nypain-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/RUD%20Ag0nyPain%202026%20Split%202.png"
+  },
+
+  {
+    "name": "MadsF",
+    "nationality": "dk",
+    "league": "NLC",
+    "team": "Ruddy Corporation",
+    "role": "ADC",
+    "overall": 81,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-madsf-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/RUD%20MadsF%202026%20Split%202.png"
+  },
+
+  {
+    "name": "FredSpaghet",
+    "nationality": "dk",
+    "league": "NLC",
+    "team": "Ruddy Corporation",
+    "role": "Support",
+    "overall": 80,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-fredspaghet-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/RUD%20FredSpaghet%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Bobista",
+    "nationality": "cz",
+    "league": "NLC",
+    "team": "Verdant",
+    "role": "Top",
+    "overall": 82,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-bobista-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/VER%20Bobista%202026%20Split%202.png"
+  },
+
+  {
+    "name": "noname",
+    "nationality": "gb",
+    "league": "NLC",
+    "team": "Verdant",
+    "role": "Jungle",
+    "overall": 82,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-noname-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/VER%20noname%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Furuy",
+    "nationality": "nl",
+    "league": "NLC",
+    "team": "Verdant",
+    "role": "Mid",
+    "overall": 82,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-furuy-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/VER%20Furuy%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Mishigu",
+    "nationality": "se",
+    "league": "NLC",
+    "team": "Verdant",
+    "role": "ADC",
+    "overall": 82,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-mishigu-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/VER%20Mishigu%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Guggu",
+    "nationality": "ge",
+    "league": "NLC",
+    "team": "Verdant",
+    "role": "Support",
+    "overall": 81,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-guggu-nlc",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/VER%20Guggu%202026%20Split%202.png"
+  },
+
+  {
+    "name": "Philip",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "Blue Otter",
+    "role": "Top",
+    "overall": 77,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-philip-nacl",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/BLUE%20Philip%202026%20Split%202.png"
+  },
+  {
+    "name": "Munchy",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "Blue Otter",
+    "role": "Jungle",
+    "overall": 76,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-munchy",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/BLUE%20Munchy%202026%20Split%202.png"
+  },
+  {
+    "name": "Young",
+    "nationality": "ca",
+    "league": "NACL",
+    "team": "Blue Otter",
+    "role": "Mid",
+    "overall": 78,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-young-nacl",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/BLUE%20Young%202026%20Split%202.png"
+  },
+  {
+    "name": "Levitate",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "Blue Otter",
+    "role": "ADC",
+    "overall": 77,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-levitate",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/BLUE%20Levitate%202026%20Split%202.png"
+  },
+  {
+    "name": "Minui",
+    "nationality": "ca",
+    "league": "NACL",
+    "team": "Blue Otter",
+    "role": "Support",
+    "overall": 77,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-minui",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/BLUE%20Minui%202026%20Split%202.png"
+  },
+  {
+    "name": "Fiji",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "CCG Esports",
+    "role": "Top",
+    "overall": 78,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-fiji",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CCG%20Fiji%202026%20Split%201.png"
+  },
+  {
+    "name": "Dardoch",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "CCG Esports",
+    "role": "Jungle",
+    "overall": 81,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-dardoch-nacl",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CCG%20Dardoch%202026%20Split%201.png"
+  },
+  {
+    "name": "Leza",
+    "nationality": "mx",
+    "league": "NACL",
+    "team": "CCG Esports",
+    "role": "Mid",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-leza",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CCG%20Leza%202026%20Split%202.png"
+  },
+  {
+    "name": "Spawn",
+    "nationality": "ca",
+    "league": "NACL",
+    "team": "CCG Esports",
+    "role": "ADC",
+    "overall": 78,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-spawn-nacl",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CCG%20Spawn%202026%20Split%202.png"
+  },
+  {
+    "name": "Only35",
+    "nationality": "tr",
+    "league": "NACL",
+    "team": "CCG Esports",
+    "role": "Support",
+    "overall": 78,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-only35",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CCG%20Only35%202026%20Split%201.png"
+  },
+  {
+    "name": "Horder",
+    "nationality": "ca",
+    "league": "NACL",
+    "team": "Cupid Esports",
+    "role": "Top",
+    "overall": 77,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-horder",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CPD%20Horder%202026%20Split%202.png"
+  },
+  {
+    "name": "Music",
+    "nationality": "il",
+    "league": "NACL",
+    "team": "Cupid Esports",
+    "role": "Jungle",
+    "overall": 78,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-music",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CPD%20Music%202026%20Split%202.png"
+  },
+  {
+    "name": "Ablazeolive",
+    "nationality": "ca",
+    "league": "NACL",
+    "team": "Cupid Esports",
+    "role": "Mid",
+    "overall": 80,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-ablazeolive",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CPD%20Ablazeolive%202026%20Split%202.png"
+  },
+  {
+    "name": "Mobility",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "Cupid Esports",
+    "role": "ADC",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-mobility",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CPD%20Mobility%202026%20Split%202.png"
+  },
+  {
+    "name": "Breezy",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "Cupid Esports",
+    "role": "Support",
+    "overall": 80,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-breezy",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CPD%20Breezy%202026%20Split%202.png"
+  },
+  {
+    "name": "Sniper",
+    "nationality": "ca",
+    "league": "NACL",
+    "team": "Conviction",
+    "role": "Top",
+    "overall": 81,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-sniper",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CNV%20Sniper%202026%20Split%201.png"
+  },
+  {
+    "name": "Tomio",
+    "nationality": "ca",
+    "league": "NACL",
+    "team": "Conviction",
+    "role": "Jungle",
+    "overall": 81,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-tomio",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CNV%20Tomio%202026%20Split%201.png"
+  },
+  {
+    "name": "Insanity",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "Conviction",
+    "role": "Mid",
+    "overall": 82,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-insanity",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CNV%20Insanity%202026%20Split%201.png"
+  },
+  {
+    "name": "Cody Sun",
+    "nationality": "ca",
+    "league": "NACL",
+    "team": "Conviction",
+    "role": "ADC",
+    "overall": 81,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-codysun",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CNV%20Cody%20Sun%202026%20Split%202.png"
+  },
+  {
+    "name": "Zyko",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "Conviction",
+    "role": "Support",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-zyko",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CNV%20Zyko%202026%20Split%202.png"
+  },
+  {
+    "name": "Decoy",
+    "nationality": "ca",
+    "league": "NACL",
+    "team": "Dorado Gaming",
+    "role": "Top",
+    "overall": 77,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-decoy",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DOG%20Decoy%202026%20Split%201.png"
+  },
+  {
+    "name": "Lojaz",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "Dorado Gaming",
+    "role": "Jungle",
+    "overall": 77,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-lojaz",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DOG%20Lojaz%202026%20Split%201.png"
+  },
+  {
+    "name": "Aadam",
+    "nationality": "mu",
+    "league": "NACL",
+    "team": "Dorado Gaming",
+    "role": "Mid",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-aadam",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DOG%20aadam%202026%20Split%201.png"
+  },
+  {
+    "name": "Hub",
+    "nationality": "ca",
+    "league": "NACL",
+    "team": "Dorado Gaming",
+    "role": "ADC",
+    "overall": 78,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-hub",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DOG%20Hub%202026%20Split%201.png"
+  },
+  {
+    "name": "InFlame",
+    "nationality": "th",
+    "league": "NACL",
+    "team": "Dorado Gaming",
+    "role": "Support",
+    "overall": 77,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-inflame",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/DOG%20InFlame%202026%20Split%202.png"
+  },
+  {
+    "name": "Crimson",
+    "nationality": "ca",
+    "league": "NACL",
+    "team": "Maryville University",
+    "role": "Top",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-crimson",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/MU%20Crimson%202026%20Split%201.png"
+  },
+  {
+    "name": "Niles",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "Maryville University",
+    "role": "Jungle",
+    "overall": 80,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-niles",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/MU%20Niles%202026%20Split%201.png"
+  },
+  {
+    "name": "AoJune",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "Maryville University",
+    "role": "Mid",
+    "overall": 80,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-aojune",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/MU%20AoJune%202026%20Split%202.png"
+  },
+  {
+    "name": "ScaryJerry",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "Maryville University",
+    "role": "ADC",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-scaryjerry",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/MU%20ScaryJerry%202026%20Split%201.png"
+  },
+  {
+    "name": "Spirax",
+    "nationality": "ca",
+    "league": "NACL",
+    "team": "Maryville University",
+    "role": "Support",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-spirax",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/MU%20Spirax%202026%20Split%201.png"
+  },
+  {
+    "name": "Zamudo",
+    "nationality": "ca",
+    "league": "NACL",
+    "team": "NRG",
+    "role": "Top",
+    "overall": 80,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-zamudo",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/NRG%20Zamudo%202026%20Split%201.png"
+  },
+  {
+    "name": "Kisno",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "NRG",
+    "role": "Jungle",
+    "overall": 81,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-kisno",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/NRG%20Kisno%202026%20Split%201.png"
+  },
+  {
+    "name": "PhyMini",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "NRG",
+    "role": "Mid",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-phymini",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/NRG%20PhyMini%202026%20Split%201.png"
+  },
+  {
+    "name": "Sushee",
+    "nationality": "ca",
+    "league": "NACL",
+    "team": "NRG",
+    "role": "ADC",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-sushee",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/NRG%20Sushee%202026%20Split%201.png"
+  },
+  {
+    "name": "Spica",
+    "nationality": "cn",
+    "league": "NACL",
+    "team": "NRG",
+    "role": "Support",
+    "overall": 82,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-spica-nacl",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/NRG%20Spica%202026%20Split%201.png"
+  },
+  {
+    "name": "Straight",
+    "nationality": "ec",
+    "league": "NACL",
+    "team": "University of Mississippi",
+    "role": "Top",
+    "overall": 77,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-straight",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/MISS%20Straight%202026%20Split%202.png"
+  },
+  {
+    "name": "Griffin",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "University of Mississippi",
+    "role": "Jungle",
+    "overall": 78,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-griffin-nacl",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/MISS%20Griffin%202026%20Split%202.png"
+  },
+  {
+    "name": "Bradley",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "University of Mississippi",
+    "role": "Mid",
+    "overall": 80,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-bradley",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/MISS%20Bradley%202026%20Split%202.png"
+  },
+  {
+    "name": "Array",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "University of Mississippi",
+    "role": "ADC",
+    "overall": 78,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-array",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/MISS%20Array%202026%20Split%202.png"
+  },
+  {
+    "name": "Bounty",
+    "nationality": "br",
+    "league": "NACL",
+    "team": "University of Mississippi",
+    "role": "Support",
+    "overall": 78,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-bounty",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/MISS%20Bounty%202026%20Split%202.png"
+  },
+  {
+    "name": "Berik",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "Winthrop University",
+    "role": "Top",
+    "overall": 78,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-berik",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/WU%20Berik%202026%20Split%202.png"
+  },
+  {
+    "name": "Wilson",
+    "nationality": "ca",
+    "league": "NACL",
+    "team": "Winthrop University",
+    "role": "Jungle",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-wilson",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/WU%20Wilson%202026%20Split%202.png"
+  },
+  {
+    "name": "Samikin",
+    "nationality": "kh",
+    "league": "NACL",
+    "team": "Winthrop University",
+    "role": "Mid",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-samikin",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/WU%20Samikin%202026%20Split%202.png"
+  },
+  {
+    "name": "Tomo",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "Winthrop University",
+    "role": "ADC",
+    "overall": 80,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-tomo",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/WU%20Tomo%202026%20Split%202.png"
+  },
+  {
+    "name": "Kim Down",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "Winthrop University",
+    "role": "Support",
+    "overall": 78,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-kimdown",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/WU%20Kim%20Down%202026%20Split%202.png"
+  },
+  {
+    "name": "JRockets",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "Contingent Esports",
+    "role": "Top",
+    "overall": 77,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-jrockets",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CONT%20JRockets%202026%20Split%202.png"
+  },
+  {
+    "name": "SiddyWiddy",
+    "nationality": "ca",
+    "league": "NACL",
+    "team": "Contingent Esports",
+    "role": "Jungle",
+    "overall": 79,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-siddywiddy",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CONT%20SiddyWiddy%202026%20Split%202.png"
+  },
+  {
+    "name": "Asilah",
+    "nationality": "ca",
+    "league": "NACL",
+    "team": "Contingent Esports",
+    "role": "Mid",
+    "overall": 78,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-asilah",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CONT%20Asilah%202026%20Split%202.png"
+  },
+  {
+    "name": "Daption",
+    "nationality": "ca",
+    "league": "NACL",
+    "team": "Contingent Esports",
+    "role": "ADC",
+    "overall": 78,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-daption",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CONT%20Daption%202026%20Split%202.png"
+  },
+  {
+    "name": "Tubs",
+    "nationality": "us",
+    "league": "NACL",
+    "team": "Contingent Esports",
+    "role": "Support",
+    "overall": 77,
+    "rarity": "base",
+    "marketeable": true,
+    "id": "base-tubs",
+    "image": "https://lol.fandom.com/wiki/Special:Redirect/file/CONT%20Tubs%202026%20Split%202.png"
+  },
   {
     "name": "Taeyoon",
     "nationality": "kr",
@@ -5079,7 +6195,7 @@
     "id": "pentakill-fiesta",
     "image": ""
   },
-    {
+  {
     "name": "Duduhh",
     "nationality": "br",
     "league": "CBLOL",
@@ -5115,8 +6231,6 @@
     "id": "pentakill-doggo",
     "image": ""
   },
-
-
   {
     "name": "MaRin",
     "nationality": "kr",
@@ -5237,8 +6351,6 @@
     "id": "legacy-mata",
     "image": "https://i.imgur.com/oJ1qnta.png"
   },
-
-
   {
     "name": "Elyoya",
     "nationality": "es",
@@ -5299,8 +6411,6 @@
     "id": "spotlight-doggo",
     "image": "https://i.imgur.com/pW3ya15.png"
   },
-
-
   {
     "name": "Zeus",
     "nationality": "kr",
@@ -5361,8 +6471,6 @@
     "id": "all-pro-keria",
     "image": "https://i.imgur.com/nCcT14T.png"
   },
-
-
   {
     "name": "Smash",
     "nationality": "kr",
@@ -5375,8 +6483,6 @@
     "id": "rookie-of-the-year-smash",
     "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/77/DK_Smash_2026_Split_1.png/revision/latest?cb=20260122171056"
   },
-
-
   {
     "name": "Chovy",
     "nationality": "kr",

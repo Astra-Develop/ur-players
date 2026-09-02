@@ -142,5 +142,73 @@
     "sort_order": 80,
     "active": true,
     "expires_at": "2026-10-02T18:00:00Z"
+  },
+  {
+    "id": "lck-upgrade-repeatable",
+    "name": "LCK Upgrade",
+    "description": "Submit a roster to earn an LCK Upgrade pack.",
+    "requirements": {
+      "min_team_overall": 80,
+      "minLeagueCount": { "league": "lck", "count": 3 }
+    },
+    "reward": {
+      "type": "pack",
+      "id": "lck-pack"
+    },
+    "repeatable": true,
+    "sort_order": 90,
+    "active": true,
+    "expires_at": "2026-09-15T18:00:00Z"
+  },
+  {
+    "id": "lpl-upgrade-repeatable",
+    "name": "LPL Upgrade",
+    "description": "Submit a roster to earn an LPL Upgrade pack.",
+    "requirements": {
+      "min_team_overall": 80,
+      "minLeagueCount": { "league": "lpl", "count": 3 }
+    },
+    "reward": {
+      "type": "pack",
+      "id": "lpl-pack"
+    },
+    "repeatable": true,
+    "sort_order": 100,
+    "active": true,
+    "expires_at": "2026-09-15T18:00:00Z"
+  },
+  {
+    "id": "lec-upgrade-repeatable",
+    "name": "LEC Upgrade",
+    "description": "Submit a roster to earn an LEC Upgrade pack.",
+    "requirements": {
+      "min_team_overall": 80,
+      "minLeagueCount": { "league": "lec", "count": 3 }
+    },
+    "reward": {
+      "type": "pack",
+      "id": "lec-pack"
+    },
+    "repeatable": true,
+    "sort_order": 110,
+    "active": true,
+    "expires_at": "2026-09-15T18:00:00Z"
+  },
+  {
+    "id": "lcs-upgrade-repeatable",
+    "name": "LCS Upgrade",
+    "description": "Submit a roster to earn an LCS Upgrade pack.",
+    "requirements": {
+      "min_team_overall": 80,
+      "minLeagueCount": { "league": "lcs", "count": 3 }
+    },
+    "reward": {
+      "type": "pack",
+      "id": "lcs-pack"
+    },
+    "repeatable": true,
+    "sort_order": 120,
+    "active": true,
+    "expires_at": "2026-09-15T18:00:00Z"
   }
 ]
