@@ -1,0 +1,682 @@
+[
+  {
+    "name": "CTBC Flying Oyster",
+    "region": "Asia-Pacific",
+    "tier": 1
+  },
+  {
+    "name": "Deep Cross Gaming",
+    "region": "Asia-Pacific",
+    "tier": 1
+  },
+  {
+    "name": "Detonation FM",
+    "region": "Asia-Pacific",
+    "tier": 1
+  },
+  {
+    "name": "GAM Esports",
+    "region": "Asia-Pacific",
+    "tier": 1
+  },
+  {
+    "name": "Ground Zero",
+    "region": "Asia-Pacific",
+    "tier": 1
+  },
+  {
+    "name": "MVK Esports",
+    "region": "Asia-Pacific",
+    "tier": 1
+  },
+  {
+    "name": "SoftBank HAWKS",
+    "region": "Asia-Pacific",
+    "tier": 1
+  },
+  {
+    "name": "Team Secret Whales",
+    "region": "Asia-Pacific",
+    "tier": 1
+  },
+  {
+    "name": "Fluxo W7M",
+    "region": "Brazil",
+    "tier": 1
+  },
+  {
+    "name": "FURIA",
+    "region": "Brazil",
+    "tier": 1
+  },
+  {
+    "name": "Leviatan",
+    "region": "Brazil",
+    "tier": 1
+  },
+  {
+    "name": "LOS",
+    "region": "Brazil",
+    "tier": 1
+  },
+  {
+    "name": "LOUD",
+    "region": "Brazil",
+    "tier": 1
+  },
+  {
+    "name": "paiN Gaming",
+    "region": "Brazil",
+    "tier": 1
+  },
+  {
+    "name": "RED Canids",
+    "region": "Brazil",
+    "tier": 1
+  },
+  {
+    "name": "Vivo Keyd Stars",
+    "region": "Brazil",
+    "tier": 1
+  },
+  {
+    "name": "Anyone's Legend",
+    "region": "China",
+    "tier": 1
+  },
+  {
+    "name": "Bilibili Gaming",
+    "region": "China",
+    "tier": 1
+  },
+  {
+    "name": "EDward Gaming",
+    "region": "China",
+    "tier": 1
+  },
+  {
+    "name": "Invictus Gaming",
+    "region": "China",
+    "tier": 1
+  },
+  {
+    "name": "JD Gaming",
+    "region": "China",
+    "tier": 1
+  },
+  {
+    "name": "LGD Gaming",
+    "region": "China",
+    "tier": 1
+  },
+  {
+    "name": "LNG Esports",
+    "region": "China",
+    "tier": 1
+  },
+  {
+    "name": "Ninjas in Pyjamas",
+    "region": "China",
+    "tier": 1
+  },
+  {
+    "name": "Team WE",
+    "region": "China",
+    "tier": 1
+  },
+  {
+    "name": "ThunderTalk Gaming",
+    "region": "China",
+    "tier": 1
+  },
+  {
+    "name": "Top Esports",
+    "region": "China",
+    "tier": 1
+  },
+  {
+    "name": "Weibo Gaming",
+    "region": "China",
+    "tier": 1
+  },
+  {
+    "name": "BIG",
+    "region": "DACH",
+    "tier": 2
+  },
+  {
+    "name": "E WIE EINFACH",
+    "region": "DACH",
+    "tier": 2
+  },
+  {
+    "name": "Eintracht Frankfurt",
+    "region": "DACH",
+    "tier": 2
+  },
+  {
+    "name": "Eintracht Spandau",
+    "region": "DACH",
+    "tier": 2
+  },
+  {
+    "name": "G2 NORD",
+    "region": "DACH",
+    "tier": 2
+  },
+  {
+    "name": "Kaufland Hangry Knights",
+    "region": "DACH",
+    "tier": 2
+  },
+  {
+    "name": "ROSSMANN Centaurs",
+    "region": "DACH",
+    "tier": 2
+  },
+  {
+    "name": "TeamOrangeGaming",
+    "region": "DACH",
+    "tier": 2
+  },
+  {
+    "name": "Unicorns of Love SE",
+    "region": "DACH",
+    "tier": 2
+  },
+  {
+    "name": "VfB eSports",
+    "region": "DACH",
+    "tier": 2
+  },
+  {
+    "name": "Fnatic",
+    "region": "Europe",
+    "tier": 1
+  },
+  {
+    "name": "G2 Esports",
+    "region": "Europe",
+    "tier": 1
+  },
+  {
+    "name": "GIANTX",
+    "region": "Europe",
+    "tier": 1
+  },
+  {
+    "name": "Karmine Corp",
+    "region": "Europe",
+    "tier": 1
+  },
+  {
+    "name": "Movistar KOI",
+    "region": "Europe",
+    "tier": 1
+  },
+  {
+    "name": "Natus Vincere",
+    "region": "Europe",
+    "tier": 1
+  },
+  {
+    "name": "Shifters",
+    "region": "Europe",
+    "tier": 1
+  },
+  {
+    "name": "SK Gaming",
+    "region": "Europe",
+    "tier": 1
+  },
+  {
+    "name": "Team Heretics",
+    "region": "Europe",
+    "tier": 1
+  },
+  {
+    "name": "Team Vitality",
+    "region": "Europe",
+    "tier": 1
+  },
+  {
+    "name": "Esprit Shonen",
+    "region": "France",
+    "tier": 2
+  },
+  {
+    "name": "Galions",
+    "region": "France",
+    "tier": 2
+  },
+  {
+    "name": "Ici Japon Corp",
+    "region": "France",
+    "tier": 2
+  },
+  {
+    "name": "Joblife",
+    "region": "France",
+    "tier": 2
+  },
+  {
+    "name": "Karmine Corp Blue",
+    "region": "France",
+    "tier": 2
+  },
+  {
+    "name": "Skillcamp",
+    "region": "France",
+    "tier": 2
+  },
+  {
+    "name": "Solary",
+    "region": "France",
+    "tier": 2
+  },
+  {
+    "name": "TLN Pirates",
+    "region": "France",
+    "tier": 2
+  },
+  {
+    "name": "Vitality Bee",
+    "region": "France",
+    "tier": 2
+  },
+  {
+    "name": "ZYB Esports",
+    "region": "France",
+    "tier": 2
+  },
+  {
+    "name": "BNK FEARX",
+    "region": "Korea",
+    "tier": 1
+  },
+  {
+    "name": "BNK FEARX Youth",
+    "region": "Korea",
+    "tier": 2
+  },
+  {
+    "name": "DN SOOPers",
+    "region": "Korea",
+    "tier": 1
+  },
+  {
+    "name": "DN SOOPers Challengers",
+    "region": "Korea",
+    "tier": 2
+  },
+  {
+    "name": "Dplus KIA",
+    "region": "Korea",
+    "tier": 1
+  },
+  {
+    "name": "Dplus Kia Challengers",
+    "region": "Korea",
+    "tier": 2
+  },
+  {
+    "name": "Gen.G",
+    "region": "Korea",
+    "tier": 1
+  },
+  {
+    "name": "Gen.G Global Academy",
+    "region": "Korea",
+    "tier": 2
+  },
+  {
+    "name": "HANJIN BRION",
+    "region": "Korea",
+    "tier": 1
+  },
+  {
+    "name": "HANJIN BRION Challengers",
+    "region": "Korea",
+    "tier": 2
+  },
+  {
+    "name": "Hanwha Life Esports",
+    "region": "Korea",
+    "tier": 1
+  },
+  {
+    "name": "Hanwha Life Esports Challengers",
+    "region": "Korea",
+    "tier": 2
+  },
+  {
+    "name": "Kiwoom DRX",
+    "region": "Korea",
+    "tier": 1
+  },
+  {
+    "name": "Kiwoom DRX Challengers",
+    "region": "Korea",
+    "tier": 2
+  },
+  {
+    "name": "KT Rolster",
+    "region": "Korea",
+    "tier": 1
+  },
+  {
+    "name": "KT Rolster Challengers",
+    "region": "Korea",
+    "tier": 2
+  },
+  {
+    "name": "Nongshim Esports Academy",
+    "region": "Korea",
+    "tier": 2
+  },
+  {
+    "name": "Nongshim RedForce",
+    "region": "Korea",
+    "tier": 1
+  },
+  {
+    "name": "T1",
+    "region": "Korea",
+    "tier": 1
+  },
+  {
+    "name": "T1 Esports Academy",
+    "region": "Korea",
+    "tier": 2
+  },
+  {
+    "name": "3v Team",
+    "region": "Latin America North",
+    "tier": 2
+  },
+  {
+    "name": "Fuego",
+    "region": "Latin America North",
+    "tier": 2
+  },
+  {
+    "name": "Kits Esports",
+    "region": "Latin America North",
+    "tier": 2
+  },
+  {
+    "name": "LYON Academy",
+    "region": "Latin America North",
+    "tier": 2
+  },
+  {
+    "name": "NCG Esports",
+    "region": "Latin America North",
+    "tier": 2
+  },
+  {
+    "name": "Polar Squad Esports",
+    "region": "Latin America North",
+    "tier": 2
+  },
+  {
+    "name": "SDM Tigres",
+    "region": "Latin America North",
+    "tier": 2
+  },
+  {
+    "name": "Zeu5 Esports",
+    "region": "Latin America North",
+    "tier": 2
+  },
+  {
+    "name": "9z Globant",
+    "region": "Latin America South",
+    "tier": 2
+  },
+  {
+    "name": "Docta Esports",
+    "region": "Latin America South",
+    "tier": 2
+  },
+  {
+    "name": "Golden Lions",
+    "region": "Latin America South",
+    "tier": 2
+  },
+  {
+    "name": "Malvinas Gaming",
+    "region": "Latin America South",
+    "tier": 2
+  },
+  {
+    "name": "Maze Gaming",
+    "region": "Latin America South",
+    "tier": 2
+  },
+  {
+    "name": "Seven Dark",
+    "region": "Latin America South",
+    "tier": 2
+  },
+  {
+    "name": "Volticons",
+    "region": "Latin America South",
+    "tier": 2
+  },
+  {
+    "name": "ZEN Esports",
+    "region": "Latin America South",
+    "tier": 2
+  },
+  {
+    "name": "Blue Otter",
+    "region": "North America",
+    "tier": 2
+  },
+  {
+    "name": "CCG Esports",
+    "region": "North America",
+    "tier": 2
+  },
+  {
+    "name": "Cloud9",
+    "region": "North America",
+    "tier": 1
+  },
+  {
+    "name": "Contingent Esports",
+    "region": "North America",
+    "tier": 2
+  },
+  {
+    "name": "Conviction",
+    "region": "North America",
+    "tier": 2
+  },
+  {
+    "name": "Cupid Esports",
+    "region": "North America",
+    "tier": 2
+  },
+  {
+    "name": "Dignitas",
+    "region": "North America",
+    "tier": 1
+  },
+  {
+    "name": "Disguised",
+    "region": "North America",
+    "tier": 1
+  },
+  {
+    "name": "Dorado Gaming",
+    "region": "North America",
+    "tier": 2
+  },
+  {
+    "name": "FlyQuest",
+    "region": "North America",
+    "tier": 1
+  },
+  {
+    "name": "LYON",
+    "region": "North America",
+    "tier": 1
+  },
+  {
+    "name": "Maryville University",
+    "region": "North America",
+    "tier": 2
+  },
+  {
+    "name": "NRG",
+    "region": "North America",
+    "tier": 2
+  },
+  {
+    "name": "Sentinels",
+    "region": "North America",
+    "tier": 1
+  },
+  {
+    "name": "Shopify Rebellion",
+    "region": "North America",
+    "tier": 1
+  },
+  {
+    "name": "Team Liquid",
+    "region": "North America",
+    "tier": 1
+  },
+  {
+    "name": "University of Mississippi",
+    "region": "North America",
+    "tier": 2
+  },
+  {
+    "name": "Winthrop University",
+    "region": "North America",
+    "tier": 2
+  },
+  {
+    "name": "Arctic Pandas",
+    "region": "Northern Europe",
+    "tier": 2
+  },
+  {
+    "name": "Bulldog Esports",
+    "region": "Northern Europe",
+    "tier": 2
+  },
+  {
+    "name": "Deer Gaming",
+    "region": "Northern Europe",
+    "tier": 2
+  },
+  {
+    "name": "DMG Esports",
+    "region": "Northern Europe",
+    "tier": 2
+  },
+  {
+    "name": "Lund Esports Organization",
+    "region": "Northern Europe",
+    "tier": 2
+  },
+  {
+    "name": "Lundqvist Lightside",
+    "region": "Northern Europe",
+    "tier": 2
+  },
+  {
+    "name": "Ruddy Corporation",
+    "region": "Northern Europe",
+    "tier": 2
+  },
+  {
+    "name": "Verdant",
+    "region": "Northern Europe",
+    "tier": 2
+  },
+  {
+    "name": "Barca eSports",
+    "region": "Spain",
+    "tier": 2
+  },
+  {
+    "name": "Falke Esports",
+    "region": "Spain",
+    "tier": 2
+  },
+  {
+    "name": "GIANTX iTero",
+    "region": "Spain",
+    "tier": 2
+  },
+  {
+    "name": "LUA Gaming",
+    "region": "Spain",
+    "tier": 2
+  },
+  {
+    "name": "Movistar KOI Fenix",
+    "region": "Spain",
+    "tier": 2
+  },
+  {
+    "name": "Team Heretics Academy",
+    "region": "Spain",
+    "tier": 2
+  },
+  {
+    "name": "UB Alma Mater",
+    "region": "Spain",
+    "tier": 2
+  },
+  {
+    "name": "UCAM Esports",
+    "region": "Spain",
+    "tier": 2
+  },
+  {
+    "name": "BoostGate Esports",
+    "region": "Turkey",
+    "tier": 2
+  },
+  {
+    "name": "Bushido Wildcats",
+    "region": "Turkey",
+    "tier": 2
+  },
+  {
+    "name": "Dark Passage",
+    "region": "Turkey",
+    "tier": 2
+  },
+  {
+    "name": "Ozarox Esports",
+    "region": "Turkey",
+    "tier": 2
+  },
+  {
+    "name": "PCIFIC Esports",
+    "region": "Turkey",
+    "tier": 2
+  },
+  {
+    "name": "Shark Attack",
+    "region": "Turkey",
+    "tier": 2
+  },
+  {
+    "name": "SU Esports",
+    "region": "Turkey",
+    "tier": 2
+  },
+  {
+    "name": "Team Phoenix",
+    "region": "Turkey",
+    "tier": 2
+  }
+]
