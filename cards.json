@@ -8221,7 +8221,7 @@
     "rarity": "pentakill",
     "marketeable": true,
     "id": "pentakill-taeyoon",
-    "image": ""
+    "image": "https://i.imgur.com/foKM8Zy.png"
   },
   {
     "name": "FIESTA",
@@ -8233,7 +8233,7 @@
     "rarity": "pentakill",
     "marketeable": true,
     "id": "pentakill-fiesta",
-    "image": ""
+    "image": "https://i.imgur.com/aCNbVAk.png"
   },
   {
     "name": "Duduhh",
@@ -8245,7 +8245,7 @@
     "rarity": "pentakill",
     "marketeable": true,
     "id": "pentakill-duduhh",
-    "image": ""
+    "image": "https://i.imgur.com/8PpReb1.png"
   },
   {
     "name": "Peyz",
@@ -8256,8 +8256,8 @@
     "overall": 92,
     "rarity": "pentakill",
     "marketeable": true,
-    "id": "apentakill-peyz",
-    "image": ""
+    "id": "pentakill-peyz",
+    "image": "https://i.imgur.com/n2pCrbp.png"
   },
   {
     "name": "Doggo",
@@ -8269,7 +8269,19 @@
     "rarity": "pentakill",
     "marketeable": true,
     "id": "pentakill-doggo",
-    "image": ""
+    "image": "https://i.imgur.com/UMyyOpb.png"
+  },
+  {
+    "name": "HARPOON",
+    "nationality": "pl",
+    "league": "LFL",
+    "team": "Galions",
+    "role": "ADC",
+    "overall": 80,
+    "rarity": "pentakill",
+    "marketeable": true,
+    "id": "pentakill-harpoon",
+    "image": "https://i.imgur.com/SPYRmWw.png"
   },
   {
     "name": "MaRin",
@@ -8512,6 +8524,66 @@
     "image": "https://i.imgur.com/nCcT14T.png"
   },
   {
+    "name": "ZUIAN",
+    "nationality": "cn",
+    "league": "LPL",
+    "team": "Top Esports",
+    "role": "Top",
+    "overall": 93,
+    "rarity": "all-pro",
+    "marketeable": true,
+    "id": "all-pro-zuian",
+    "image": "https://i.imgur.com/4OpqvLu.png"
+  },
+  {
+    "name": "Tarzan",
+    "nationality": "kr",
+    "league": "LPL",
+    "team": "Anyone's Legend",
+    "role": "Jungle",
+    "overall": 94,
+    "rarity": "all-pro",
+    "marketeable": true,
+    "id": "all-pro-tarzan",
+    "image": "https://i.imgur.com/knvKrny.png"
+  },
+  {
+    "name": "Knight",
+    "nationality": "cn",
+    "league": "LPL",
+    "team": "Bilibili Gaming",
+    "role": "Mid",
+    "overall": 96,
+    "rarity": "all-pro",
+    "marketeable": true,
+    "id": "all-pro-knight",
+    "image": "https://i.imgur.com/qdk4Ajz.png"
+  },
+  {
+    "name": "Viper",
+    "nationality": "kr",
+    "league": "LPL",
+    "team": "Bilibili Gaming",
+    "role": "ADC",
+    "overall": 95,
+    "rarity": "all-pro",
+    "marketeable": true,
+    "id": "all-pro-viper",
+    "image": "https://i.imgur.com/qF0naFi.png"
+  },
+  {
+    "name": "ON",
+    "nationality": "cn",
+    "league": "LPL",
+    "team": "Bilibili Gaming",
+    "role": "Support",
+    "overall": 94,
+    "rarity": "all-pro",
+    "marketeable": true,
+    "id": "all-pro-on",
+    "image": "https://i.imgur.com/21SMC9l.png"
+  },
+  {
     "name": "Smash",
     "nationality": "kr",
     "league": "LCK",
@@ -8521,7 +8593,19 @@
     "rarity": "rookie-of-the-year",
     "marketeable": true,
     "id": "rookie-of-the-year-smash",
-    "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/77/DK_Smash_2026_Split_1.png/revision/latest?cb=20260122171056"
+    "image": "https://i.imgur.com/H6H2D6T.png"
+  },
+  {
+    "name": "About",
+    "nationality": "kr",
+    "league": "LPL",
+    "team": "Team WE",
+    "role": "ADC",
+    "overall": 91,
+    "rarity": "rookie-of-the-year",
+    "marketeable": true,
+    "id": "rookie-of-the-year-about",
+    "image": "https://i.imgur.com/oTWrOjb.png"
   },
   {
     "name": "Chovy",
@@ -8533,6 +8617,18 @@
     "rarity": "mvp",
     "marketeable": true,
     "id": "mvp-chovy",
-    "image": "https://i.imgur.com/1CPGEyf.png"
+    "image": "https://i.imgur.com/JMoNMf1.png"
+  },
+  {
+    "name": "Knight",
+    "nationality": "cn",
+    "league": "LPL",
+    "team": "Bilibili Gaming",
+    "role": "Mid",
+    "overall": 98,
+    "rarity": "mvp",
+    "marketeable": true,
+    "id": "mvp-knight",
+    "image": "https://i.imgur.com/yP6lAo1.png"
   }
 ]
