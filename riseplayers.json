@@ -1,0 +1,5450 @@
+[
+  {
+    "name": "Canna",
+    "team": "Karmine Corp",
+    "overall": 88,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2000-02-11"
+  },
+  {
+    "name": "Yike",
+    "team": "Karmine Corp",
+    "overall": 86,
+    "nationality": "se",
+    "role": "Jungle",
+    "birthdate": "2000-11-11"
+  },
+  {
+    "name": "kyeahoo",
+    "team": "Karmine Corp",
+    "overall": 85,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2005-08-13"
+  },
+  {
+    "name": "Caliste",
+    "team": "Karmine Corp",
+    "overall": 85,
+    "nationality": "fr",
+    "role": "ADC",
+    "birthdate": "2006-08-28"
+  },
+  {
+    "name": "Busio",
+    "team": "Karmine Corp",
+    "overall": 86,
+    "nationality": "us",
+    "role": "Support",
+    "birthdate": "2003-10-22"
+  },
+  {
+    "name": "BrokenBlade",
+    "team": "G2 Esports",
+    "overall": 87,
+    "nationality": "de",
+    "role": "Top",
+    "birthdate": "2000-01-19"
+  },
+  {
+    "name": "SkewMond",
+    "team": "G2 Esports",
+    "overall": 86,
+    "nationality": "fr",
+    "role": "Jungle",
+    "birthdate": "2004-08-09"
+  },
+  {
+    "name": "Caps",
+    "team": "G2 Esports",
+    "overall": 89,
+    "nationality": "dk",
+    "role": "Mid",
+    "birthdate": "1999-11-17"
+  },
+  {
+    "name": "Hans Sama",
+    "team": "G2 Esports",
+    "overall": 87,
+    "nationality": "fr",
+    "role": "ADC",
+    "birthdate": "1999-09-02"
+  },
+  {
+    "name": "Labrov",
+    "team": "G2 Esports",
+    "overall": 86,
+    "nationality": "gr",
+    "role": "Support",
+    "birthdate": "2002-02-12"
+  },
+  {
+    "name": "Naak Nako",
+    "team": "Team Vitality",
+    "overall": 82,
+    "nationality": "tr",
+    "role": "Top",
+    "birthdate": "2005-03-24"
+  },
+  {
+    "name": "Lyncas",
+    "team": "Team Vitality",
+    "overall": 83,
+    "nationality": "lt",
+    "role": "Jungle",
+    "birthdate": "2003-12-10"
+  },
+  {
+    "name": "FIESTA",
+    "team": "Team Vitality",
+    "overall": 84,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2003-05-04"
+  },
+  {
+    "name": "Carzzy",
+    "team": "Team Vitality",
+    "overall": 84,
+    "nationality": "cz",
+    "role": "ADC",
+    "birthdate": "2002-01-31"
+  },
+  {
+    "name": "Fleshy",
+    "team": "Team Vitality",
+    "overall": 82,
+    "nationality": "tr",
+    "role": "Support",
+    "birthdate": "2000-11-24"
+  },
+  {
+    "name": "Oscarinin",
+    "team": "GIANTX",
+    "overall": 83,
+    "nationality": "es",
+    "role": "Top",
+    "birthdate": "2003-06-11"
+  },
+  {
+    "name": "ISMA",
+    "team": "GIANTX",
+    "overall": 82,
+    "nationality": "fr",
+    "role": "Jungle",
+    "birthdate": "2001-06-20"
+  },
+  {
+    "name": "Jackies",
+    "team": "GIANTX",
+    "overall": 83,
+    "nationality": "cz",
+    "role": "Mid",
+    "birthdate": "2004-10-06"
+  },
+  {
+    "name": "Flakked",
+    "team": "GIANTX",
+    "overall": 83,
+    "nationality": "es",
+    "role": "ADC",
+    "birthdate": "2001-04-25"
+  },
+  {
+    "name": "Jun",
+    "team": "GIANTX",
+    "overall": 84,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2000-08-02"
+  },
+  {
+    "name": "Maynter",
+    "team": "Natus Vincere",
+    "overall": 80,
+    "nationality": "ua",
+    "role": "Top",
+    "birthdate": "2000-12-15"
+  },
+  {
+    "name": "Rhilech",
+    "team": "Natus Vincere",
+    "overall": 79,
+    "nationality": "tr",
+    "role": "Jungle",
+    "birthdate": "2005-10-15"
+  },
+  {
+    "name": "Poby",
+    "team": "Natus Vincere",
+    "overall": 81,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2006-02-07"
+  },
+  {
+    "name": "SamD",
+    "team": "Natus Vincere",
+    "overall": 80,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2001-03-14"
+  },
+  {
+    "name": "Parus",
+    "team": "Natus Vincere",
+    "overall": 81,
+    "nationality": "tr",
+    "role": "Support",
+    "birthdate": "2003-02-22"
+  },
+  {
+    "name": "Wunder",
+    "team": "SK Gaming",
+    "overall": 81,
+    "nationality": "dk",
+    "role": "Top",
+    "birthdate": "1998-11-09"
+  },
+  {
+    "name": "Skeanz",
+    "team": "SK Gaming",
+    "overall": 81,
+    "nationality": "fr",
+    "role": "Jungle",
+    "birthdate": "2000-09-25"
+  },
+  {
+    "name": "SlowQ",
+    "team": "SK Gaming",
+    "overall": 80,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2004-03-20"
+  },
+  {
+    "name": "Jopa",
+    "team": "SK Gaming",
+    "overall": 81,
+    "nationality": "hr",
+    "role": "ADC",
+    "birthdate": "2003-11-03"
+  },
+  {
+    "name": "Mikyx",
+    "team": "SK Gaming",
+    "overall": 83,
+    "nationality": "si",
+    "role": "Support",
+    "birthdate": "1998-11-02"
+  },
+  {
+    "name": "Myrwn",
+    "team": "Movistar KOI",
+    "overall": 83,
+    "nationality": "es",
+    "role": "Top",
+    "birthdate": "2003-06-13"
+  },
+  {
+    "name": "Elyoya",
+    "team": "Movistar KOI",
+    "overall": 87,
+    "nationality": "es",
+    "role": "Jungle",
+    "birthdate": "2000-03-13"
+  },
+  {
+    "name": "Jojopyun",
+    "team": "Movistar KOI",
+    "overall": 87,
+    "nationality": "ca",
+    "role": "Mid",
+    "birthdate": "2004-10-01"
+  },
+  {
+    "name": "Supa",
+    "team": "Movistar KOI",
+    "overall": 84,
+    "nationality": "es",
+    "role": "ADC",
+    "birthdate": "2000-10-23"
+  },
+  {
+    "name": "Alvaro",
+    "team": "Movistar KOI",
+    "overall": 85,
+    "nationality": "es",
+    "role": "Support",
+    "birthdate": "2003-07-15"
+  },
+  {
+    "name": "Tracyn",
+    "team": "Team Heretics",
+    "overall": 79,
+    "nationality": "pl",
+    "role": "Top",
+    "birthdate": "2005-09-16"
+  },
+  {
+    "name": "Daglas",
+    "team": "Team Heretics",
+    "overall": 82,
+    "nationality": "pl",
+    "role": "Jungle",
+    "birthdate": "2005-10-23"
+  },
+  {
+    "name": "Serin",
+    "team": "Team Heretics",
+    "overall": 80,
+    "nationality": "tr",
+    "role": "Mid",
+    "birthdate": "2002-04-10"
+  },
+  {
+    "name": "Hype",
+    "team": "Team Heretics",
+    "overall": 82,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2003-09-09"
+  },
+  {
+    "name": "Way",
+    "team": "Team Heretics",
+    "overall": 80,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2002-06-29"
+  },
+  {
+    "name": "Soboro",
+    "team": "Fnatic",
+    "overall": 83,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2004-01-10"
+  },
+  {
+    "name": "Razork",
+    "team": "Fnatic",
+    "overall": 84,
+    "nationality": "es",
+    "role": "Jungle",
+    "birthdate": "2000-10-07"
+  },
+  {
+    "name": "Vladi",
+    "team": "Fnatic",
+    "overall": 85,
+    "nationality": "gr",
+    "role": "Mid",
+    "birthdate": "2005-08-12"
+  },
+  {
+    "name": "Upset",
+    "team": "Fnatic",
+    "overall": 83,
+    "nationality": "de",
+    "role": "ADC",
+    "birthdate": "1999-12-16"
+  },
+  {
+    "name": "Lospa",
+    "team": "Fnatic",
+    "overall": 80,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2002-09-30"
+  },
+  {
+    "name": "Rooster",
+    "team": "Shifters",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2005-04-28"
+  },
+  {
+    "name": "Sheo",
+    "team": "Shifters",
+    "overall": 84,
+    "nationality": "fr",
+    "role": "Jungle",
+    "birthdate": "2001-07-05"
+  },
+  {
+    "name": "nuc",
+    "team": "Shifters",
+    "overall": 82,
+    "nationality": "fr",
+    "role": "Mid",
+    "birthdate": "2002-10-17"
+  },
+  {
+    "name": "Paduck",
+    "team": "Shifters",
+    "overall": 81,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2005-02-12"
+  },
+  {
+    "name": "Stend",
+    "team": "Shifters",
+    "overall": 82,
+    "nationality": "fr",
+    "role": "Support",
+    "birthdate": "2001-07-13"
+  },
+  {
+    "name": "Kiin",
+    "team": "Gen.G",
+    "overall": 89,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "1999-05-28"
+  },
+  {
+    "name": "Canyon",
+    "team": "Gen.G",
+    "overall": 91,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2001-06-18"
+  },
+  {
+    "name": "Chovy",
+    "team": "Gen.G",
+    "overall": 91,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2001-03-03"
+  },
+  {
+    "name": "Ruler",
+    "team": "Gen.G",
+    "overall": 91,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "1998-12-29"
+  },
+  {
+    "name": "Duro",
+    "team": "Gen.G",
+    "overall": 89,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2002-02-04"
+  },
+  {
+    "name": "Doran",
+    "team": "T1",
+    "overall": 87,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2000-07-22"
+  },
+  {
+    "name": "Oner",
+    "team": "T1",
+    "overall": 90,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2002-12-24"
+  },
+  {
+    "name": "Faker",
+    "team": "T1",
+    "overall": 90,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "1996-05-07"
+  },
+  {
+    "name": "Peyz",
+    "team": "T1",
+    "overall": 91,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2005-12-05"
+  },
+  {
+    "name": "Keria",
+    "team": "T1",
+    "overall": 91,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2002-10-14"
+  },
+  {
+    "name": "Zeus",
+    "team": "Hanwha Life Esports",
+    "overall": 90,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2004-01-31"
+  },
+  {
+    "name": "Kanavi",
+    "team": "Hanwha Life Esports",
+    "overall": 90,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2000-11-02"
+  },
+  {
+    "name": "Zeka",
+    "team": "Hanwha Life Esports",
+    "overall": 90,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2002-11-28"
+  },
+  {
+    "name": "Gumayusi",
+    "team": "Hanwha Life Esports",
+    "overall": 90,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2002-02-06"
+  },
+  {
+    "name": "Delight",
+    "team": "Hanwha Life Esports",
+    "overall": 88,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2002-09-12"
+  },
+  {
+    "name": "Siwoo",
+    "team": "Dplus KIA",
+    "overall": 85,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2007-11-24"
+  },
+  {
+    "name": "Lucid",
+    "team": "Dplus KIA",
+    "overall": 87,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2005-01-28"
+  },
+  {
+    "name": "ShowMaker",
+    "team": "Dplus KIA",
+    "overall": 88,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2000-07-22"
+  },
+  {
+    "name": "Smash",
+    "team": "Dplus KIA",
+    "overall": 85,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2006-07-20"
+  },
+  {
+    "name": "Career",
+    "team": "Dplus KIA",
+    "overall": 85,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2004-08-29"
+  },
+  {
+    "name": "PerfecT",
+    "team": "KT Rolster",
+    "overall": 85,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2004-05-17"
+  },
+  {
+    "name": "Cuzz",
+    "team": "KT Rolster",
+    "overall": 85,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "1999-10-30"
+  },
+  {
+    "name": "Bdd",
+    "team": "KT Rolster",
+    "overall": 88,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "1999-03-01"
+  },
+  {
+    "name": "FenRir",
+    "team": "KT Rolster",
+    "overall": 81,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2006-06-24"
+  },
+  {
+    "name": "Effort",
+    "team": "KT Rolster",
+    "overall": 83,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2000-11-23"
+  },
+  {
+    "name": "Kingen",
+    "team": "Nongshim RedForce",
+    "overall": 85,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2000-03-11"
+  },
+  {
+    "name": "Sponge",
+    "team": "Nongshim RedForce",
+    "overall": 82,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2004-07-25"
+  },
+  {
+    "name": "Scout",
+    "team": "Nongshim RedForce",
+    "overall": 88,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "1998-03-14"
+  },
+  {
+    "name": "Diable",
+    "team": "Nongshim RedForce",
+    "overall": 86,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2007-10-17"
+  },
+  {
+    "name": "Lehends",
+    "team": "Nongshim RedForce",
+    "overall": 87,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "1998-12-24"
+  },
+  {
+    "name": "Clear",
+    "team": "BNK FEARX",
+    "overall": 83,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2002-12-19"
+  },
+  {
+    "name": "Raptor",
+    "team": "BNK FEARX",
+    "overall": 83,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2004-11-15"
+  },
+  {
+    "name": "VicLa",
+    "team": "BNK FEARX",
+    "overall": 83,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2003-11-27"
+  },
+  {
+    "name": "Taeyoon",
+    "team": "BNK FEARX",
+    "overall": 81,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2002-06-02"
+  },
+  {
+    "name": "Kellin",
+    "team": "BNK FEARX",
+    "overall": 83,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2001-02-01"
+  },
+  {
+    "name": "Frog",
+    "team": "Kiwoom DRX",
+    "overall": 78,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2005-06-30"
+  },
+  {
+    "name": "Willer",
+    "team": "Kiwoom DRX",
+    "overall": 82,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2003-04-24"
+  },
+  {
+    "name": "Ucal",
+    "team": "Kiwoom DRX",
+    "overall": 84,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2001-01-30"
+  },
+  {
+    "name": "Aiming",
+    "team": "Kiwoom DRX",
+    "overall": 88,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2000-07-20"
+  },
+  {
+    "name": "Andil",
+    "team": "Kiwoom DRX",
+    "overall": 82,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2002-10-05"
+  },
+  {
+    "name": "DuDu",
+    "team": "DN SOOPers",
+    "overall": 83,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2001-03-08"
+  },
+  {
+    "name": "Sharvel",
+    "team": "DN SOOPers",
+    "overall": 78,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2007-08-26"
+  },
+  {
+    "name": "Clozer",
+    "team": "DN SOOPers",
+    "overall": 86,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2003-07-27"
+  },
+  {
+    "name": "deokdam",
+    "team": "DN SOOPers",
+    "overall": 83,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2000-02-25"
+  },
+  {
+    "name": "Peter",
+    "team": "DN SOOPers",
+    "overall": 81,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2003-04-28"
+  },
+  {
+    "name": "Casting",
+    "team": "HANJIN BRION",
+    "overall": 80,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2003-10-30"
+  },
+  {
+    "name": "GIDEON",
+    "team": "HANJIN BRION",
+    "overall": 81,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2003-08-14"
+  },
+  {
+    "name": "Roamer",
+    "team": "HANJIN BRION",
+    "overall": 80,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2003-08-03"
+  },
+  {
+    "name": "Teddy",
+    "team": "HANJIN BRION",
+    "overall": 82,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "1998-03-15"
+  },
+  {
+    "name": "Namgung",
+    "team": "HANJIN BRION",
+    "overall": 80,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2003-10-04"
+  },
+  {
+    "name": "Dhokla",
+    "team": "LYON",
+    "overall": 83,
+    "nationality": "us",
+    "role": "Top",
+    "birthdate": "1997-07-17"
+  },
+  {
+    "name": "Inspired",
+    "team": "LYON",
+    "overall": 87,
+    "nationality": "pl",
+    "role": "Jungle",
+    "birthdate": "2002-01-24"
+  },
+  {
+    "name": "Armao",
+    "team": "LYON",
+    "overall": 80,
+    "nationality": "us",
+    "role": "Jungle",
+    "birthdate": "1998-09-09"
+  },
+  {
+    "name": "Saint",
+    "team": "LYON",
+    "overall": 83,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2005-01-01"
+  },
+  {
+    "name": "Berserker",
+    "team": "LYON",
+    "overall": 86,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2003-05-25"
+  },
+  {
+    "name": "Isles",
+    "team": "LYON",
+    "overall": 83,
+    "nationality": "au",
+    "role": "Support",
+    "birthdate": "2001-03-07"
+  },
+  {
+    "name": "Morgan",
+    "team": "Team Liquid",
+    "overall": 83,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2001-09-26"
+  },
+  {
+    "name": "Josedeodo",
+    "team": "Team Liquid",
+    "overall": 82,
+    "nationality": "ar",
+    "role": "Jungle",
+    "birthdate": "2000-05-22"
+  },
+  {
+    "name": "Quid",
+    "team": "Team Liquid",
+    "overall": 84,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2004-04-27"
+  },
+  {
+    "name": "Yeon",
+    "team": "Team Liquid",
+    "overall": 84,
+    "nationality": "us",
+    "role": "ADC",
+    "birthdate": "2001-01-07"
+  },
+  {
+    "name": "CoreJJ",
+    "team": "Team Liquid",
+    "overall": 83,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "1994-06-22"
+  },
+  {
+    "name": "Thanatos",
+    "team": "Cloud9",
+    "overall": 83,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2004-05-01"
+  },
+  {
+    "name": "Blaber",
+    "team": "Cloud9",
+    "overall": 82,
+    "nationality": "us",
+    "role": "Jungle",
+    "birthdate": "2000-01-04"
+  },
+  {
+    "name": "Loki",
+    "team": "Cloud9",
+    "overall": 83,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2005-03-26"
+  },
+  {
+    "name": "Tactical",
+    "team": "Cloud9",
+    "overall": 82,
+    "nationality": "us",
+    "role": "ADC",
+    "birthdate": "2000-08-18"
+  },
+  {
+    "name": "Vulcan",
+    "team": "Cloud9",
+    "overall": 82,
+    "nationality": "ca",
+    "role": "Support",
+    "birthdate": "1999-04-20"
+  },
+  {
+    "name": "Fudge",
+    "team": "Shopify Rebellion",
+    "overall": 82,
+    "nationality": "au",
+    "role": "Top",
+    "birthdate": "2002-05-23"
+  },
+  {
+    "name": "Contractz",
+    "team": "Shopify Rebellion",
+    "overall": 82,
+    "nationality": "us",
+    "role": "Jungle",
+    "birthdate": "1999-08-25"
+  },
+  {
+    "name": "Zinie",
+    "team": "Shopify Rebellion",
+    "overall": 82,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2005-08-31"
+  },
+  {
+    "name": "Bvoy",
+    "team": "Shopify Rebellion",
+    "overall": 81,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "1997-12-18"
+  },
+  {
+    "name": "Zeyzal",
+    "team": "Shopify Rebellion",
+    "overall": 81,
+    "nationality": "us",
+    "role": "Support",
+    "birthdate": "1999-07-07"
+  },
+  {
+    "name": "GaKGoS",
+    "team": "FlyQuest",
+    "overall": 80,
+    "nationality": "tr",
+    "role": "Top",
+    "birthdate": "2008-01-04"
+  },
+  {
+    "name": "Gryffinn",
+    "team": "FlyQuest",
+    "overall": 81,
+    "nationality": "us",
+    "role": "Jungle",
+    "birthdate": "2006-09-07"
+  },
+  {
+    "name": "Quad",
+    "team": "FlyQuest",
+    "overall": 84,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2002-08-25"
+  },
+  {
+    "name": "Massu",
+    "team": "FlyQuest",
+    "overall": 85,
+    "nationality": "ca",
+    "role": "ADC",
+    "birthdate": "2004-11-28"
+  },
+  {
+    "name": "Cryogen",
+    "team": "FlyQuest",
+    "overall": 80,
+    "nationality": "vn",
+    "role": "Support",
+    "birthdate": "2007-01-20"
+  },
+  {
+    "name": "Impact",
+    "team": "Sentinels",
+    "overall": 84,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "1995-03-07"
+  },
+  {
+    "name": "HamBak",
+    "team": "Sentinels",
+    "overall": 80,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2002-08-28"
+  },
+  {
+    "name": "DARKWINGS",
+    "team": "Sentinels",
+    "overall": 80,
+    "nationality": "us",
+    "role": "Mid",
+    "birthdate": "2000-01-11"
+  },
+  {
+    "name": "Rahel",
+    "team": "Sentinels",
+    "overall": 81,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2004-02-13"
+  },
+  {
+    "name": "Huhi",
+    "team": "Sentinels",
+    "overall": 81,
+    "nationality": "us",
+    "role": "Support",
+    "birthdate": "1995-04-03"
+  },
+  {
+    "name": "Denathor",
+    "team": "Dignitas",
+    "overall": 78,
+    "nationality": "us",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "Dardoch",
+    "team": "Dignitas",
+    "overall": 80,
+    "nationality": "us",
+    "role": "Jungle",
+    "birthdate": "1998-04-10"
+  },
+  {
+    "name": "Palafox",
+    "team": "Dignitas",
+    "overall": 82,
+    "nationality": "us",
+    "role": "Mid",
+    "birthdate": "1999-07-08"
+  },
+  {
+    "name": "FBI",
+    "team": "Dignitas",
+    "overall": 81,
+    "nationality": "au",
+    "role": "ADC",
+    "birthdate": "1999-02-11"
+  },
+  {
+    "name": "IgNar",
+    "team": "Dignitas",
+    "overall": 81,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "1996-11-20"
+  },
+  {
+    "name": "Srtty",
+    "team": "Disguised",
+    "overall": 80,
+    "nationality": "au",
+    "role": "Top",
+    "birthdate": "2002-01-12"
+  },
+  {
+    "name": "KryRa",
+    "team": "Disguised",
+    "overall": 79,
+    "nationality": "ca",
+    "role": "Jungle",
+    "birthdate": "2005-08-14"
+  },
+  {
+    "name": "Callme",
+    "team": "Disguised",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2003-05-30"
+  },
+  {
+    "name": "sajed",
+    "team": "Disguised",
+    "overall": 79,
+    "nationality": "us",
+    "role": "ADC",
+    "birthdate": "2004-04-10"
+  },
+  {
+    "name": "Lyonz",
+    "team": "Disguised",
+    "overall": 81,
+    "nationality": "ar",
+    "role": "Support",
+    "birthdate": "2001-11-29"
+  },
+  {
+    "name": "Rest",
+    "team": "CTBC Flying Oyster",
+    "overall": 82,
+    "nationality": "tw",
+    "role": "Top",
+    "birthdate": "1998-12-11"
+  },
+  {
+    "name": "Shad0w",
+    "team": "CTBC Flying Oyster",
+    "overall": 82,
+    "nationality": "it",
+    "role": "Jungle",
+    "birthdate": "2001-02-25"
+  },
+  {
+    "name": "Pout",
+    "team": "CTBC Flying Oyster",
+    "overall": 81,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2003-10-03"
+  },
+  {
+    "name": "Doggo",
+    "team": "CTBC Flying Oyster",
+    "overall": 84,
+    "nationality": "tw",
+    "role": "ADC",
+    "birthdate": "2003-01-14"
+  },
+  {
+    "name": "Kino",
+    "team": "CTBC Flying Oyster",
+    "overall": 83,
+    "nationality": "tw",
+    "role": "Support",
+    "birthdate": "1998-04-12"
+  },
+  {
+    "name": "Flauren",
+    "team": "Deep Cross Gaming",
+    "overall": 79,
+    "nationality": "vn",
+    "role": "Top",
+    "birthdate": "2006-10-30"
+  },
+  {
+    "name": "Pop9",
+    "team": "Deep Cross Gaming",
+    "overall": 78,
+    "nationality": "tw",
+    "role": "Jungle",
+    "birthdate": "2003-03-24"
+  },
+  {
+    "name": "HongSuo",
+    "team": "Deep Cross Gaming",
+    "overall": 79,
+    "nationality": "tw",
+    "role": "Mid",
+    "birthdate": "2003-03-18"
+  },
+  {
+    "name": "Feng",
+    "team": "Deep Cross Gaming",
+    "overall": 79,
+    "nationality": "tw",
+    "role": "ADC",
+    "birthdate": "2003-08-13"
+  },
+  {
+    "name": "ShiauC",
+    "team": "Deep Cross Gaming",
+    "overall": 80,
+    "nationality": "tw",
+    "role": "Support",
+    "birthdate": "1999-07-12"
+  },
+  {
+    "name": "Momo",
+    "team": "Detonation FM",
+    "overall": 79,
+    "nationality": "jp",
+    "role": "Top",
+    "birthdate": "2004-02-26"
+  },
+  {
+    "name": "Citrus",
+    "team": "Detonation FM",
+    "overall": 78,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2001-04-14"
+  },
+  {
+    "name": "Fisher",
+    "team": "Detonation FM",
+    "overall": 80,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2004-07-05"
+  },
+  {
+    "name": "Kakkun",
+    "team": "Detonation FM",
+    "overall": 79,
+    "nationality": "jp",
+    "role": "ADC",
+    "birthdate": "2002-02-05"
+  },
+  {
+    "name": "Woody",
+    "team": "Detonation FM",
+    "overall": 80,
+    "nationality": "tw",
+    "role": "Support",
+    "birthdate": "1998-04-11"
+  },
+  {
+    "name": "Kiaya",
+    "team": "GAM Esports",
+    "overall": 84,
+    "nationality": "vn",
+    "role": "Top",
+    "birthdate": "2001-05-17"
+  },
+  {
+    "name": "Draktharr",
+    "team": "GAM Esports",
+    "overall": 81,
+    "nationality": "vn",
+    "role": "Jungle",
+    "birthdate": "2003-03-10"
+  },
+  {
+    "name": "Gloryy",
+    "team": "GAM Esports",
+    "overall": 81,
+    "nationality": "vn",
+    "role": "Mid",
+    "birthdate": "2002-01-12"
+  },
+  {
+    "name": "Artemis",
+    "team": "GAM Esports",
+    "overall": 82,
+    "nationality": "vn",
+    "role": "ADC",
+    "birthdate": "2001-02-24"
+  },
+  {
+    "name": "taki",
+    "team": "GAM Esports",
+    "overall": 82,
+    "nationality": "vn",
+    "role": "Support",
+    "birthdate": "2003-06-30"
+  },
+  {
+    "name": "1Jiang",
+    "team": "Ground Zero",
+    "overall": 78,
+    "nationality": "tw",
+    "role": "Top",
+    "birthdate": "2003-10-22"
+  },
+  {
+    "name": "Husha",
+    "team": "Ground Zero",
+    "overall": 78,
+    "nationality": "tw",
+    "role": "Jungle",
+    "birthdate": "2001-04-04"
+  },
+  {
+    "name": "Uniboy",
+    "team": "Ground Zero",
+    "overall": 81,
+    "nationality": "tw",
+    "role": "Mid",
+    "birthdate": "2001-03-03"
+  },
+  {
+    "name": "Betty",
+    "team": "Ground Zero",
+    "overall": 82,
+    "nationality": "tw",
+    "role": "ADC",
+    "birthdate": "2000-01-16"
+  },
+  {
+    "name": "Kaiwing",
+    "team": "Ground Zero",
+    "overall": 81,
+    "nationality": "hk",
+    "role": "Support",
+    "birthdate": "1996-10-27"
+  },
+  {
+    "name": "Kratos",
+    "team": "MVK Esports",
+    "overall": 78,
+    "nationality": "vn",
+    "role": "Top",
+    "birthdate": "2005-04-22"
+  },
+  {
+    "name": "Gury",
+    "team": "MVK Esports",
+    "overall": 80,
+    "nationality": "vn",
+    "role": "Jungle",
+    "birthdate": "2003-10-28"
+  },
+  {
+    "name": "Chika",
+    "team": "MVK Esports",
+    "overall": 79,
+    "nationality": "vn",
+    "role": "Mid",
+    "birthdate": "2006-01-26"
+  },
+  {
+    "name": "harky",
+    "team": "MVK Esports",
+    "overall": 78,
+    "nationality": "vn",
+    "role": "ADC",
+    "birthdate": "2005-08-21"
+  },
+  {
+    "name": "SiuLoong",
+    "team": "MVK Esports",
+    "overall": 79,
+    "nationality": "vn",
+    "role": "Support",
+    "birthdate": "2005-09-15"
+  },
+  {
+    "name": "Evi",
+    "team": "SoftBank HAWKS",
+    "overall": 81,
+    "nationality": "jp",
+    "role": "Top",
+    "birthdate": "1995-11-15"
+  },
+  {
+    "name": "Van1",
+    "team": "SoftBank HAWKS",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2003-11-21"
+  },
+  {
+    "name": "Aria",
+    "team": "SoftBank HAWKS",
+    "overall": 81,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2000-10-14"
+  },
+  {
+    "name": "Marble",
+    "team": "SoftBank HAWKS",
+    "overall": 79,
+    "nationality": "jp",
+    "role": "ADC",
+    "birthdate": "2002-08-28"
+  },
+  {
+    "name": "Vsta",
+    "team": "SoftBank HAWKS",
+    "overall": 81,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2000-10-03"
+  },
+  {
+    "name": "Pun",
+    "team": "Team Secret Whales",
+    "overall": 82,
+    "nationality": "vn",
+    "role": "Top",
+    "birthdate": "2002-07-29"
+  },
+  {
+    "name": "Hizto",
+    "team": "Team Secret Whales",
+    "overall": 82,
+    "nationality": "vn",
+    "role": "Jungle",
+    "birthdate": "2007-09-15"
+  },
+  {
+    "name": "Dire",
+    "team": "Team Secret Whales",
+    "overall": 82,
+    "nationality": "vn",
+    "role": "Mid",
+    "birthdate": "2006-11-22"
+  },
+  {
+    "name": "Eddie",
+    "team": "Team Secret Whales",
+    "overall": 81,
+    "nationality": "vn",
+    "role": "ADC",
+    "birthdate": "2003-06-17"
+  },
+  {
+    "name": "Bie",
+    "team": "Team Secret Whales",
+    "overall": 82,
+    "nationality": "vn",
+    "role": "Support",
+    "birthdate": "1999-12-09"
+  },
+  {
+    "name": "Zothve",
+    "team": "Fluxo W7M",
+    "overall": 78,
+    "nationality": "cl",
+    "role": "Top",
+    "birthdate": "2003-02-18"
+  },
+  {
+    "name": "Peach",
+    "team": "Fluxo W7M",
+    "overall": 80,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2000-03-28"
+  },
+  {
+    "name": "Cody",
+    "team": "Fluxo W7M",
+    "overall": 79,
+    "nationality": "cl",
+    "role": "Mid",
+    "birthdate": "2001-10-23"
+  },
+  {
+    "name": "BAO",
+    "team": "Fluxo W7M",
+    "overall": 80,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2001-09-20"
+  },
+  {
+    "name": "Momochi",
+    "team": "Fluxo W7M",
+    "overall": 79,
+    "nationality": "br",
+    "role": "Support",
+    "birthdate": "2004-09-01"
+  },
+  {
+    "name": "Guigo",
+    "team": "FURIA",
+    "overall": 82,
+    "nationality": "br",
+    "role": "Top",
+    "birthdate": "2002-01-28"
+  },
+  {
+    "name": "Tatu",
+    "team": "FURIA",
+    "overall": 82,
+    "nationality": "br",
+    "role": "Jungle",
+    "birthdate": "2006-06-13"
+  },
+  {
+    "name": "Tutsz",
+    "team": "FURIA",
+    "overall": 82,
+    "nationality": "br",
+    "role": "Mid",
+    "birthdate": "2002-12-16"
+  },
+  {
+    "name": "Ayu",
+    "team": "FURIA",
+    "overall": 82,
+    "nationality": "br",
+    "role": "ADC",
+    "birthdate": "2005-10-06"
+  },
+  {
+    "name": "JoJo",
+    "team": "FURIA",
+    "overall": 81,
+    "nationality": "br",
+    "role": "Support",
+    "birthdate": "1998-11-11"
+  },
+  {
+    "name": "Devost",
+    "team": "Leviatan",
+    "overall": 77,
+    "nationality": "co",
+    "role": "Top",
+    "birthdate": "2008-01-24"
+  },
+  {
+    "name": "Booki",
+    "team": "Leviatan",
+    "overall": 78,
+    "nationality": "pe",
+    "role": "Jungle",
+    "birthdate": "2007-03-27"
+  },
+  {
+    "name": "Enga",
+    "team": "Leviatan",
+    "overall": 77,
+    "nationality": "ar",
+    "role": "Mid",
+    "birthdate": "2000-01-24"
+  },
+  {
+    "name": "Strensh",
+    "team": "Leviatan",
+    "overall": 78,
+    "nationality": "cl",
+    "role": "ADC",
+    "birthdate": "2004-07-21"
+  },
+  {
+    "name": "Shiku",
+    "team": "Leviatan",
+    "overall": 77,
+    "nationality": "pe",
+    "role": "Support",
+    "birthdate": "2004-04-28"
+  },
+  {
+    "name": "Xyno",
+    "team": "LOUD",
+    "overall": 79,
+    "nationality": "br",
+    "role": "Top",
+    "birthdate": "2007-03-04"
+  },
+  {
+    "name": "Sinatra",
+    "team": "LOUD",
+    "overall": 79,
+    "nationality": "br",
+    "role": "Jungle",
+    "birthdate": "2007-05-06"
+  },
+  {
+    "name": "Kaze",
+    "team": "LOUD",
+    "overall": 80,
+    "nationality": "ar",
+    "role": "Mid",
+    "birthdate": "2006-01-11"
+  },
+  {
+    "name": "Rabelo",
+    "team": "LOUD",
+    "overall": 80,
+    "nationality": "br",
+    "role": "ADC",
+    "birthdate": "2004-08-21"
+  },
+  {
+    "name": "uZent",
+    "team": "LOUD",
+    "overall": 79,
+    "nationality": "br",
+    "role": "Support",
+    "birthdate": "2005-04-21"
+  },
+  {
+    "name": "Boal",
+    "team": "paiN Gaming",
+    "overall": 80,
+    "nationality": "br",
+    "role": "Top",
+    "birthdate": "2002-12-04"
+  },
+  {
+    "name": "CarioK",
+    "team": "paiN Gaming",
+    "overall": 81,
+    "nationality": "br",
+    "role": "Jungle",
+    "birthdate": "2000-01-31"
+  },
+  {
+    "name": "Namiru",
+    "team": "paiN Gaming",
+    "overall": 79,
+    "nationality": "br",
+    "role": "Mid",
+    "birthdate": "2007-02-06"
+  },
+  {
+    "name": "Hena",
+    "team": "paiN Gaming",
+    "overall": 81,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "1999-10-08"
+  },
+  {
+    "name": "Ceos",
+    "team": "paiN Gaming",
+    "overall": 80,
+    "nationality": "br",
+    "role": "Support",
+    "birthdate": "1998-08-08"
+  },
+  {
+    "name": "zynts",
+    "team": "RED Canids",
+    "overall": 79,
+    "nationality": "br",
+    "role": "Top",
+    "birthdate": "2006-12-08"
+  },
+  {
+    "name": "STEPZ",
+    "team": "RED Canids",
+    "overall": 80,
+    "nationality": "ve",
+    "role": "Jungle",
+    "birthdate": "2006-07-01"
+  },
+  {
+    "name": "Fuuu",
+    "team": "RED Canids",
+    "overall": 80,
+    "nationality": "br",
+    "role": "Mid",
+    "birthdate": "2003-07-31"
+  },
+  {
+    "name": "Morttheus",
+    "team": "RED Canids",
+    "overall": 80,
+    "nationality": "br",
+    "role": "ADC",
+    "birthdate": "2002-06-18"
+  },
+  {
+    "name": "Manel",
+    "team": "RED Canids",
+    "overall": 79,
+    "nationality": "br",
+    "role": "Support",
+    "birthdate": "2006-09-02"
+  },
+  {
+    "name": "zekas",
+    "team": "Vivo Keyd Stars",
+    "overall": 78,
+    "nationality": "br",
+    "role": "Top",
+    "birthdate": "2002-06-11"
+  },
+  {
+    "name": "Disamis",
+    "team": "Vivo Keyd Stars",
+    "overall": 79,
+    "nationality": "br",
+    "role": "Jungle",
+    "birthdate": "2003-08-03"
+  },
+  {
+    "name": "Mireu",
+    "team": "Vivo Keyd Stars",
+    "overall": 81,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2001-09-20"
+  },
+  {
+    "name": "Jeskla",
+    "team": "Vivo Keyd Stars",
+    "overall": 81,
+    "nationality": "se",
+    "role": "ADC",
+    "birthdate": "2000-08-07"
+  },
+  {
+    "name": "scamber",
+    "team": "Vivo Keyd Stars",
+    "overall": 79,
+    "nationality": "br",
+    "role": "Support",
+    "birthdate": "2000-06-27"
+  },
+  {
+    "name": "Zest",
+    "team": "LOS",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2003-11-05"
+  },
+  {
+    "name": "Curse",
+    "team": "LOS",
+    "overall": 80,
+    "nationality": "br",
+    "role": "Jungle",
+    "birthdate": "2005-05-18"
+  },
+  {
+    "name": "Feisty",
+    "team": "LOS",
+    "overall": 80,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2003-12-19"
+  },
+  {
+    "name": "Duduhh",
+    "team": "LOS",
+    "overall": 80,
+    "nationality": "br",
+    "role": "ADC",
+    "birthdate": "2008-04-18"
+  },
+  {
+    "name": "Ackerman",
+    "team": "LOS",
+    "overall": 79,
+    "nationality": "ar",
+    "role": "Support",
+    "birthdate": "2002-11-29"
+  },
+  {
+    "name": "Flandre",
+    "team": "Bilibili Gaming",
+    "overall": 88,
+    "nationality": "cn",
+    "role": "Top",
+    "birthdate": "1998-08-28"
+  },
+  {
+    "name": "Xun",
+    "team": "Bilibili Gaming",
+    "overall": 89,
+    "nationality": "cn",
+    "role": "Jungle",
+    "birthdate": "2002-02-05"
+  },
+  {
+    "name": "Knight",
+    "team": "Bilibili Gaming",
+    "overall": 91,
+    "nationality": "cn",
+    "role": "Mid",
+    "birthdate": "2000-05-22"
+  },
+  {
+    "name": "Viper",
+    "team": "Bilibili Gaming",
+    "overall": 91,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2000-10-19"
+  },
+  {
+    "name": "ON",
+    "team": "Bilibili Gaming",
+    "overall": 89,
+    "nationality": "cn",
+    "role": "Support",
+    "birthdate": "2003-05-12"
+  },
+  {
+    "name": "ZUIAN",
+    "team": "Top Esports",
+    "overall": 84,
+    "nationality": "cn",
+    "role": "Top",
+    "birthdate": "2005-05-23"
+  },
+  {
+    "name": "Tian",
+    "team": "Top Esports",
+    "overall": 89,
+    "nationality": "cn",
+    "role": "Jungle",
+    "birthdate": "2000-07-24"
+  },
+  {
+    "name": "Creme",
+    "team": "Top Esports",
+    "overall": 89,
+    "nationality": "cn",
+    "role": "Mid",
+    "birthdate": "2003-12-14"
+  },
+  {
+    "name": "JackeyLove",
+    "team": "Top Esports",
+    "overall": 90,
+    "nationality": "cn",
+    "role": "ADC",
+    "birthdate": "2000-11-18"
+  },
+  {
+    "name": "Zhuo",
+    "team": "Top Esports",
+    "overall": 83,
+    "nationality": "cn",
+    "role": "Support",
+    "birthdate": "2001-02-13"
+  },
+  {
+    "name": "Cube",
+    "team": "Team WE",
+    "overall": 83,
+    "nationality": "cn",
+    "role": "Top",
+    "birthdate": "2002-07-14"
+  },
+  {
+    "name": "Monki",
+    "team": "Team WE",
+    "overall": 82,
+    "nationality": "cn",
+    "role": "Jungle",
+    "birthdate": "2004-02-16"
+  },
+  {
+    "name": "Karis",
+    "team": "Team WE",
+    "overall": 84,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2003-05-21"
+  },
+  {
+    "name": "About",
+    "team": "Team WE",
+    "overall": 82,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2005-04-17"
+  },
+  {
+    "name": "Erha",
+    "team": "Team WE",
+    "overall": 82,
+    "nationality": "cn",
+    "role": "Support",
+    "birthdate": "2003-09-28"
+  },
+  {
+    "name": "Breathe",
+    "team": "Anyone's Legend",
+    "overall": 88,
+    "nationality": "cn",
+    "role": "Top",
+    "birthdate": "2001-02-19"
+  },
+  {
+    "name": "Tarzan",
+    "team": "Anyone's Legend",
+    "overall": 89,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "1999-08-23"
+  },
+  {
+    "name": "Shanks",
+    "team": "Anyone's Legend",
+    "overall": 90,
+    "nationality": "cn",
+    "role": "Mid",
+    "birthdate": "2001-05-13"
+  },
+  {
+    "name": "Hope",
+    "team": "Anyone's Legend",
+    "overall": 87,
+    "nationality": "cn",
+    "role": "ADC",
+    "birthdate": "2000-09-29"
+  },
+  {
+    "name": "Kael",
+    "team": "Anyone's Legend",
+    "overall": 87,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2004-02-11"
+  },
+  {
+    "name": "Xiaoxu",
+    "team": "JD Gaming",
+    "overall": 84,
+    "nationality": "cn",
+    "role": "Top",
+    "birthdate": "2003-09-11"
+  },
+  {
+    "name": "JunJia",
+    "team": "JD Gaming",
+    "overall": 85,
+    "nationality": "tw",
+    "role": "Jungle",
+    "birthdate": "2002-06-10"
+  },
+  {
+    "name": "HongQ",
+    "team": "JD Gaming",
+    "overall": 85,
+    "nationality": "tw",
+    "role": "Mid",
+    "birthdate": "2007-07-02"
+  },
+  {
+    "name": "GALA",
+    "team": "JD Gaming",
+    "overall": 89,
+    "nationality": "cn",
+    "role": "ADC",
+    "birthdate": "2001-02-14"
+  },
+  {
+    "name": "Vampire",
+    "team": "JD Gaming",
+    "overall": 83,
+    "nationality": "cn",
+    "role": "Support",
+    "birthdate": "2005-08-24"
+  },
+  {
+    "name": "Burdol",
+    "team": "LGD Gaming",
+    "overall": 82,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2003-12-25"
+  },
+  {
+    "name": "Heng",
+    "team": "LGD Gaming",
+    "overall": 82,
+    "nationality": "cn",
+    "role": "Jungle",
+    "birthdate": "2001-07-16"
+  },
+  {
+    "name": "Tangyuan",
+    "team": "LGD Gaming",
+    "overall": 83,
+    "nationality": "cn",
+    "role": "Mid",
+    "birthdate": "2004-01-30"
+  },
+  {
+    "name": "Shaoye",
+    "team": "LGD Gaming",
+    "overall": 81,
+    "nationality": "cn",
+    "role": "ADC",
+    "birthdate": "2001-09-14"
+  },
+  {
+    "name": "Crisp",
+    "team": "LGD Gaming",
+    "overall": 86,
+    "nationality": "cn",
+    "role": "Support",
+    "birthdate": "1998-08-19"
+  },
+  {
+    "name": "Zdz",
+    "team": "EDward Gaming",
+    "overall": 82,
+    "nationality": "cn",
+    "role": "Top",
+    "birthdate": "2001-12-03"
+  },
+  {
+    "name": "Jiejie",
+    "team": "EDward Gaming",
+    "overall": 89,
+    "nationality": "cn",
+    "role": "Jungle",
+    "birthdate": "2001-10-27"
+  },
+  {
+    "name": "BuLLDoG",
+    "team": "EDward Gaming",
+    "overall": 84,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2005-04-15"
+  },
+  {
+    "name": "Leave",
+    "team": "EDward Gaming",
+    "overall": 82,
+    "nationality": "cn",
+    "role": "ADC",
+    "birthdate": "2002-09-29"
+  },
+  {
+    "name": "Parukia",
+    "team": "EDward Gaming",
+    "overall": 80,
+    "nationality": "cn",
+    "role": "Support",
+    "birthdate": "2006-12-30"
+  },
+  {
+    "name": "Keshi",
+    "team": "ThunderTalk Gaming",
+    "overall": 80,
+    "nationality": "cn",
+    "role": "Top",
+    "birthdate": "2006-03-02"
+  },
+  {
+    "name": "Junhao",
+    "team": "ThunderTalk Gaming",
+    "overall": 81,
+    "nationality": "cn",
+    "role": "Jungle",
+    "birthdate": "2004-05-13"
+  },
+  {
+    "name": "Heru",
+    "team": "ThunderTalk Gaming",
+    "overall": 81,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2006-08-21"
+  },
+  {
+    "name": "Ahn",
+    "team": "ThunderTalk Gaming",
+    "overall": 82,
+    "nationality": "cn",
+    "role": "ADC",
+    "birthdate": "2001-03-15"
+  },
+  {
+    "name": "Feather",
+    "team": "ThunderTalk Gaming",
+    "overall": 81,
+    "nationality": "cn",
+    "role": "Support",
+    "birthdate": "2003-08-01"
+  },
+  {
+    "name": "TheShy",
+    "team": "Invictus Gaming",
+    "overall": 88,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "1999-11-11"
+  },
+  {
+    "name": "Wei",
+    "team": "Invictus Gaming",
+    "overall": 88,
+    "nationality": "cn",
+    "role": "Jungle",
+    "birthdate": "2002-11-09"
+  },
+  {
+    "name": "Rookie",
+    "team": "Invictus Gaming",
+    "overall": 89,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "1997-03-11"
+  },
+  {
+    "name": "Assum",
+    "team": "Invictus Gaming",
+    "overall": 83,
+    "nationality": "cn",
+    "role": "ADC",
+    "birthdate": "2003-11-30"
+  },
+  {
+    "name": "Meiko",
+    "team": "Invictus Gaming",
+    "overall": 89,
+    "nationality": "cn",
+    "role": "Support",
+    "birthdate": "1998-06-06"
+  },
+  {
+    "name": "sheer",
+    "team": "LNG Esports",
+    "overall": 82,
+    "nationality": "cn",
+    "role": "Top",
+    "birthdate": "2005-12-06"
+  },
+  {
+    "name": "Weiwei",
+    "team": "LNG Esports",
+    "overall": 84,
+    "nationality": "cn",
+    "role": "Jungle",
+    "birthdate": "2000-08-14"
+  },
+  {
+    "name": "Nia",
+    "team": "LNG Esports",
+    "overall": 81,
+    "nationality": "cn",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "1xn",
+    "team": "LNG Esports",
+    "overall": 81,
+    "nationality": "hk",
+    "role": "ADC",
+    "birthdate": "2004-05-01"
+  },
+  {
+    "name": "MISSING",
+    "team": "LNG Esports",
+    "overall": 86,
+    "nationality": "cn",
+    "role": "Support",
+    "birthdate": "2001-05-26"
+  },
+  {
+    "name": "HOYA",
+    "team": "Ninjas in Pyjamas",
+    "overall": 83,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2000-08-25"
+  },
+  {
+    "name": "Guwon",
+    "team": "Ninjas in Pyjamas",
+    "overall": 82,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2003-12-19"
+  },
+  {
+    "name": "Care",
+    "team": "Ninjas in Pyjamas",
+    "overall": 85,
+    "nationality": "cn",
+    "role": "Mid",
+    "birthdate": "2004-04-28"
+  },
+  {
+    "name": "Photic",
+    "team": "Ninjas in Pyjamas",
+    "overall": 84,
+    "nationality": "cn",
+    "role": "ADC",
+    "birthdate": "2002-10-11"
+  },
+  {
+    "name": "fengyue",
+    "team": "Ninjas in Pyjamas",
+    "overall": 84,
+    "nationality": "cn",
+    "role": "Support",
+    "birthdate": "2005-11-06"
+  },
+  {
+    "name": "Zika",
+    "team": "Weibo Gaming",
+    "overall": 88,
+    "nationality": "cn",
+    "role": "Top",
+    "birthdate": "2003-07-07"
+  },
+  {
+    "name": "Xiaohao",
+    "team": "Weibo Gaming",
+    "overall": 86,
+    "nationality": "cn",
+    "role": "Jungle",
+    "birthdate": "2002-07-19"
+  },
+  {
+    "name": "Xiaohu",
+    "team": "Weibo Gaming",
+    "overall": 89,
+    "nationality": "cn",
+    "role": "Mid",
+    "birthdate": "1998-01-28"
+  },
+  {
+    "name": "Elk",
+    "team": "Weibo Gaming",
+    "overall": 90,
+    "nationality": "cn",
+    "role": "ADC",
+    "birthdate": "2001-09-29"
+  },
+  {
+    "name": "Jwei",
+    "team": "Weibo Gaming",
+    "overall": 82,
+    "nationality": "cn",
+    "role": "Support",
+    "birthdate": "2003-01-05"
+  },
+  {
+    "name": "Carlsen",
+    "team": "Galions",
+    "overall": 78,
+    "nationality": "dk",
+    "role": "Top",
+    "birthdate": "2005-12-15"
+  },
+  {
+    "name": "Thayger",
+    "team": "Galions",
+    "overall": 78,
+    "nationality": "es",
+    "role": "Jungle",
+    "birthdate": "2002-01-27"
+  },
+  {
+    "name": "OMON",
+    "team": "Galions",
+    "overall": 79,
+    "nationality": "cz",
+    "role": "Mid",
+    "birthdate": "2003-07-02"
+  },
+  {
+    "name": "HARPOON",
+    "team": "Galions",
+    "overall": 79,
+    "nationality": "pl",
+    "role": "ADC",
+    "birthdate": "2005-04-18"
+  },
+  {
+    "name": "Zoelys",
+    "team": "Galions",
+    "overall": 79,
+    "nationality": "fr",
+    "role": "Support",
+    "birthdate": "2003-05-16"
+  },
+  {
+    "name": "Badlulu",
+    "team": "Ici Japon Corp",
+    "overall": 76,
+    "nationality": "fr",
+    "role": "Top",
+    "birthdate": "2002-09-13"
+  },
+  {
+    "name": "Manaty",
+    "team": "Ici Japon Corp",
+    "overall": 77,
+    "nationality": "fr",
+    "role": "Jungle",
+    "birthdate": "2002-01-21"
+  },
+  {
+    "name": "Dajor",
+    "team": "Ici Japon Corp",
+    "overall": 79,
+    "nationality": "gr",
+    "role": "Mid",
+    "birthdate": "2003-04-18"
+  },
+  {
+    "name": "Soldier",
+    "team": "Ici Japon Corp",
+    "overall": 78,
+    "nationality": "fr",
+    "role": "ADC",
+    "birthdate": "2002-11-06"
+  },
+  {
+    "name": "whiteinn",
+    "team": "Ici Japon Corp",
+    "overall": 78,
+    "nationality": "ro",
+    "role": "Support",
+    "birthdate": "2000-10-03"
+  },
+  {
+    "name": "Ragner",
+    "team": "Joblife",
+    "overall": 77,
+    "nationality": "tr",
+    "role": "Top",
+    "birthdate": "2000-12-19"
+  },
+  {
+    "name": "Shift",
+    "team": "Joblife",
+    "overall": 77,
+    "nationality": "pl",
+    "role": "Jungle",
+    "birthdate": "2005-01-20"
+  },
+  {
+    "name": "Kofte",
+    "team": "Joblife",
+    "overall": 78,
+    "nationality": "tr",
+    "role": "Mid",
+    "birthdate": "2001-05-15"
+  },
+  {
+    "name": "KEDUII",
+    "team": "Joblife",
+    "overall": 79,
+    "nationality": "de",
+    "role": "ADC",
+    "birthdate": "2000-10-13"
+  },
+  {
+    "name": "Mersa",
+    "team": "Joblife",
+    "overall": 78,
+    "nationality": "gr",
+    "role": "Support",
+    "birthdate": "2002-08-22"
+  },
+  {
+    "name": "Tao",
+    "team": "Karmine Corp Blue",
+    "overall": 78,
+    "nationality": "it",
+    "role": "Top",
+    "birthdate": "2005-11-17"
+  },
+  {
+    "name": "Yukino",
+    "team": "Karmine Corp Blue",
+    "overall": 79,
+    "nationality": "us",
+    "role": "Jungle",
+    "birthdate": "2006-02-14"
+  },
+  {
+    "name": "Kamiloo",
+    "team": "Karmine Corp Blue",
+    "overall": 79,
+    "nationality": "fr",
+    "role": "Mid",
+    "birthdate": "2005-07-20"
+  },
+  {
+    "name": "Looki",
+    "team": "Karmine Corp Blue",
+    "overall": 79,
+    "nationality": "gr",
+    "role": "ADC",
+    "birthdate": "2006-03-18"
+  },
+  {
+    "name": "Prime",
+    "team": "Karmine Corp Blue",
+    "overall": 78,
+    "nationality": "fr",
+    "role": "Support",
+    "birthdate": "2000-02-24"
+  },
+  {
+    "name": "Yeti",
+    "team": "Skillcamp",
+    "overall": 77,
+    "nationality": "pl",
+    "role": "Top",
+    "birthdate": "2007-03-13"
+  },
+  {
+    "name": "SPOOKY",
+    "team": "Skillcamp",
+    "overall": 77,
+    "nationality": "bg",
+    "role": "Jungle",
+    "birthdate": "1999-08-12"
+  },
+  {
+    "name": "Nafkelah",
+    "team": "Skillcamp",
+    "overall": 78,
+    "nationality": "me",
+    "role": "Mid",
+    "birthdate": "2002-11-13"
+  },
+  {
+    "name": "Exofeng",
+    "team": "Skillcamp",
+    "overall": 79,
+    "nationality": "bg",
+    "role": "ADC",
+    "birthdate": "2007-07-17"
+  },
+  {
+    "name": "Steeelback",
+    "team": "Skillcamp",
+    "overall": 78,
+    "nationality": "fr",
+    "role": "Support",
+    "birthdate": "1996-08-16"
+  },
+  {
+    "name": "Kryze",
+    "team": "Solary",
+    "overall": 78,
+    "nationality": "se",
+    "role": "Top",
+    "birthdate": "1999-07-01"
+  },
+  {
+    "name": "Zicssi",
+    "team": "Solary",
+    "overall": 78,
+    "nationality": "fr",
+    "role": "Jungle",
+    "birthdate": "2002-05-16"
+  },
+  {
+    "name": "Jool",
+    "team": "Solary",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2001-12-30"
+  },
+  {
+    "name": "Aetinoth",
+    "team": "Solary",
+    "overall": 79,
+    "nationality": "tr",
+    "role": "ADC",
+    "birthdate": "2005-10-10"
+  },
+  {
+    "name": "Piero",
+    "team": "Solary",
+    "overall": 78,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2002-07-15"
+  },
+  {
+    "name": "Spooder",
+    "team": "TLN Pirates",
+    "overall": 78,
+    "nationality": "se",
+    "role": "Top",
+    "birthdate": "2002-09-05"
+  },
+  {
+    "name": "Stefan",
+    "team": "TLN Pirates",
+    "overall": 78,
+    "nationality": "sk",
+    "role": "Jungle",
+    "birthdate": "1998-10-15"
+  },
+  {
+    "name": "Toffe",
+    "team": "TLN Pirates",
+    "overall": 79,
+    "nationality": "lt",
+    "role": "Mid",
+    "birthdate": "2005-05-02"
+  },
+  {
+    "name": "Axelent",
+    "team": "TLN Pirates",
+    "overall": 79,
+    "nationality": "mk",
+    "role": "ADC",
+    "birthdate": "2004-05-14"
+  },
+  {
+    "name": "Thomas",
+    "team": "TLN Pirates",
+    "overall": 78,
+    "nationality": "hr",
+    "role": "Support",
+    "birthdate": "2003-06-20"
+  },
+  {
+    "name": "Potent",
+    "team": "Vitality Bee",
+    "overall": 77,
+    "nationality": "fr",
+    "role": "Top",
+    "birthdate": "2002-07-14"
+  },
+  {
+    "name": "Dawciu",
+    "team": "Vitality Bee",
+    "overall": 77,
+    "nationality": "pl",
+    "role": "Jungle",
+    "birthdate": "2008-03-21"
+  },
+  {
+    "name": "Czajek",
+    "team": "Vitality Bee",
+    "overall": 79,
+    "nationality": "pl",
+    "role": "Mid",
+    "birthdate": "2003-09-24"
+  },
+  {
+    "name": "Yakkey",
+    "team": "Vitality Bee",
+    "overall": 79,
+    "nationality": "ro",
+    "role": "ADC",
+    "birthdate": "2005-01-14"
+  },
+  {
+    "name": "Dekap",
+    "team": "Vitality Bee",
+    "overall": 78,
+    "nationality": "jo",
+    "role": "Support",
+    "birthdate": "2000-12-11"
+  },
+  {
+    "name": "Adam",
+    "team": "ZYB Esports",
+    "overall": 77,
+    "nationality": "fr",
+    "role": "Top",
+    "birthdate": "2001-12-30"
+  },
+  {
+    "name": "Kobs",
+    "team": "ZYB Esports",
+    "overall": 76,
+    "nationality": "fr",
+    "role": "Jungle",
+    "birthdate": "2003-10-16"
+  },
+  {
+    "name": "SAKEN",
+    "team": "ZYB Esports",
+    "overall": 78,
+    "nationality": "fr",
+    "role": "Mid",
+    "birthdate": "1998-11-05"
+  },
+  {
+    "name": "Jezu",
+    "team": "ZYB Esports",
+    "overall": 78,
+    "nationality": "fr",
+    "role": "ADC",
+    "birthdate": "2000-07-27"
+  },
+  {
+    "name": "Riippp",
+    "team": "ZYB Esports",
+    "overall": 77,
+    "nationality": "fr",
+    "role": "Support",
+    "birthdate": "1995-09-13"
+  },
+  {
+    "name": "Archfiend",
+    "team": "Esprit Shonen",
+    "overall": 74,
+    "nationality": "bg",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "Lulas",
+    "team": "Esprit Shonen",
+    "overall": 75,
+    "nationality": "pt",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "xKenzuke",
+    "team": "Esprit Shonen",
+    "overall": 77,
+    "nationality": "de",
+    "role": "Mid",
+    "birthdate": "1999-06-17"
+  },
+  {
+    "name": "Yen",
+    "team": "Esprit Shonen",
+    "overall": 75,
+    "nationality": "ch",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Gordinho",
+    "team": "Esprit Shonen",
+    "overall": 75,
+    "nationality": "pt",
+    "role": "Support",
+    "birthdate": "2005-08-24"
+  },
+  {
+    "name": "Night Slayer",
+    "team": "Movistar KOI Fenix",
+    "overall": 79,
+    "nationality": "ua",
+    "role": "Top",
+    "birthdate": "2008-01-18"
+  },
+  {
+    "name": "XNS",
+    "team": "Movistar KOI Fenix",
+    "overall": 79,
+    "nationality": "tr",
+    "role": "Jungle",
+    "birthdate": "2003-09-15"
+  },
+  {
+    "name": "Fresskowy",
+    "team": "Movistar KOI Fenix",
+    "overall": 79,
+    "nationality": "pl",
+    "role": "Mid",
+    "birthdate": "1999-11-26"
+  },
+  {
+    "name": "13",
+    "team": "Movistar KOI Fenix",
+    "overall": 79,
+    "nationality": "fr",
+    "role": "ADC",
+    "birthdate": "2003-06-20"
+  },
+  {
+    "name": "Myrtus",
+    "team": "Movistar KOI Fenix",
+    "overall": 78,
+    "nationality": "fr",
+    "role": "Support",
+    "birthdate": "2005-10-11"
+  },
+  {
+    "name": "Kozi",
+    "team": "UCAM Esports",
+    "overall": 78,
+    "nationality": "pl",
+    "role": "Top",
+    "birthdate": "2005-04-06"
+  },
+  {
+    "name": "Bluerzor",
+    "team": "UCAM Esports",
+    "overall": 79,
+    "nationality": "hu",
+    "role": "Jungle",
+    "birthdate": "1999-05-04"
+  },
+  {
+    "name": "Escik",
+    "team": "UCAM Esports",
+    "overall": 78,
+    "nationality": "pl",
+    "role": "Mid",
+    "birthdate": "2002-04-11"
+  },
+  {
+    "name": "Andariel",
+    "team": "UCAM Esports",
+    "overall": 79,
+    "nationality": "tr",
+    "role": "ADC",
+    "birthdate": "2003-11-14"
+  },
+  {
+    "name": "Ilevi",
+    "team": "UCAM Esports",
+    "overall": 78,
+    "nationality": "al",
+    "role": "Support",
+    "birthdate": "1998-05-16"
+  },
+  {
+    "name": "Papiteero",
+    "team": "Team Heretics Academy",
+    "overall": 79,
+    "nationality": "pt",
+    "role": "Top",
+    "birthdate": "2003-09-20"
+  },
+  {
+    "name": "Lurox",
+    "team": "Team Heretics Academy",
+    "overall": 79,
+    "nationality": "de",
+    "role": "Jungle",
+    "birthdate": "1999-06-07"
+  },
+  {
+    "name": "Mercy9",
+    "team": "Team Heretics Academy",
+    "overall": 79,
+    "nationality": "tr",
+    "role": "Mid",
+    "birthdate": "2005-06-05"
+  },
+  {
+    "name": "Lure",
+    "team": "Team Heretics Academy",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2003-05-16"
+  },
+  {
+    "name": "Batuu",
+    "team": "Team Heretics Academy",
+    "overall": 79,
+    "nationality": "tr",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Selenex",
+    "team": "Barca eSports",
+    "overall": 77,
+    "nationality": "es",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "Koldo",
+    "team": "Barca eSports",
+    "overall": 79,
+    "nationality": "es",
+    "role": "Jungle",
+    "birthdate": "2000-11-07"
+  },
+  {
+    "name": "Macaquinho",
+    "team": "Barca eSports",
+    "overall": 78,
+    "nationality": "es",
+    "role": "Mid",
+    "birthdate": "2003-07-30"
+  },
+  {
+    "name": "Legolas",
+    "team": "Barca eSports",
+    "overall": 79,
+    "nationality": "es",
+    "role": "ADC",
+    "birthdate": "2000-12-20"
+  },
+  {
+    "name": "Oscure",
+    "team": "Barca eSports",
+    "overall": 78,
+    "nationality": "es",
+    "role": "Support",
+    "birthdate": "2000-04-30"
+  },
+  {
+    "name": "Th3Antonio",
+    "team": "GIANTX iTero",
+    "overall": 77,
+    "nationality": "es",
+    "role": "Top",
+    "birthdate": "1999-04-12"
+  },
+  {
+    "name": "Time",
+    "team": "GIANTX iTero",
+    "overall": 77,
+    "nationality": "es",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Dyenn",
+    "team": "GIANTX iTero",
+    "overall": 76,
+    "nationality": "es",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Rayito",
+    "team": "GIANTX iTero",
+    "overall": 77,
+    "nationality": "es",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Attila",
+    "team": "GIANTX iTero",
+    "overall": 78,
+    "nationality": "pt",
+    "role": "Support",
+    "birthdate": "1996-02-26"
+  },
+  {
+    "name": "Niqkl",
+    "team": "LUA Gaming",
+    "overall": 75,
+    "nationality": "at",
+    "role": "Top",
+    "birthdate": "2007-08-08"
+  },
+  {
+    "name": "Pegaso",
+    "team": "LUA Gaming",
+    "overall": 77,
+    "nationality": "es",
+    "role": "Jungle",
+    "birthdate": "2004-12-15"
+  },
+  {
+    "name": "Hydra",
+    "team": "LUA Gaming",
+    "overall": 79,
+    "nationality": "es",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Kaii",
+    "team": "LUA Gaming",
+    "overall": 76,
+    "nationality": "es",
+    "role": "ADC",
+    "birthdate": "2004-07-08"
+  },
+  {
+    "name": "Timr",
+    "team": "LUA Gaming",
+    "overall": 76,
+    "nationality": "cz",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Pasameelcelo",
+    "team": "UB Alma Mater",
+    "overall": 75,
+    "nationality": "ad",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "Ivama",
+    "team": "UB Alma Mater",
+    "overall": 75,
+    "nationality": "es",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Midnight",
+    "team": "UB Alma Mater",
+    "overall": 77,
+    "nationality": "es",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Adrianlaneitor",
+    "team": "UB Alma Mater",
+    "overall": 75,
+    "nationality": "es",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Xixauxas",
+    "team": "UB Alma Mater",
+    "overall": 75,
+    "nationality": "es",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Bobsik",
+    "team": "Falke Esports",
+    "overall": 74,
+    "nationality": "cz",
+    "role": "Top",
+    "birthdate": "2006-06-15"
+  },
+  {
+    "name": "Clicker",
+    "team": "Falke Esports",
+    "overall": 74,
+    "nationality": "es",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Mentos",
+    "team": "Falke Esports",
+    "overall": 75,
+    "nationality": "gr",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Marcv1",
+    "team": "Falke Esports",
+    "overall": 74,
+    "nationality": "es",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Deleted",
+    "team": "Falke Esports",
+    "overall": 74,
+    "nationality": "es",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Haetae",
+    "team": "T1 Esports Academy",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2006-02-11"
+  },
+  {
+    "name": "Painter",
+    "team": "T1 Esports Academy",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2007-09-16"
+  },
+  {
+    "name": "Guti",
+    "team": "T1 Esports Academy",
+    "overall": 80,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2004-04-09"
+  },
+  {
+    "name": "Cypher",
+    "team": "T1 Esports Academy",
+    "overall": 80,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2006-01-20"
+  },
+  {
+    "name": "Cloud",
+    "team": "T1 Esports Academy",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2007-04-25"
+  },
+  {
+    "name": "Jaehyuk",
+    "team": "Dplus Kia Challengers",
+    "overall": 80,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2007-08-28"
+  },
+  {
+    "name": "Solid",
+    "team": "Dplus Kia Challengers",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Garden",
+    "team": "Dplus Kia Challengers",
+    "overall": 80,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "1998-09-25"
+  },
+  {
+    "name": "Wayne",
+    "team": "Dplus Kia Challengers",
+    "overall": 81,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2003-05-27"
+  },
+  {
+    "name": "Loopy",
+    "team": "Dplus Kia Challengers",
+    "overall": 80,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2004-06-09"
+  },
+  {
+    "name": "Janus",
+    "team": "Nongshim Esports Academy",
+    "overall": 77,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2007-01-02"
+  },
+  {
+    "name": "MihawK",
+    "team": "Nongshim Esports Academy",
+    "overall": 78,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2009-11-15"
+  },
+  {
+    "name": "SeTab",
+    "team": "Nongshim Esports Academy",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2004-10-13"
+  },
+  {
+    "name": "Lucy",
+    "team": "Nongshim Esports Academy",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2006-06-20"
+  },
+  {
+    "name": "Pleata",
+    "team": "Nongshim Esports Academy",
+    "overall": 78,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2003-03-28"
+  },
+  {
+    "name": "Sero",
+    "team": "KT Rolster Challengers",
+    "overall": 78,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2005-11-21"
+  },
+  {
+    "name": "Sylvie",
+    "team": "KT Rolster Challengers",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2002-12-04"
+  },
+  {
+    "name": "Hwichan",
+    "team": "KT Rolster Challengers",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2006-01-30"
+  },
+  {
+    "name": "FenRir",
+    "team": "KT Rolster Challengers",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2006-06-24"
+  },
+  {
+    "name": "Pollu",
+    "team": "KT Rolster Challengers",
+    "overall": 78,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2006-01-07"
+  },
+  {
+    "name": "Lancer",
+    "team": "DN SOOPers Challengers",
+    "overall": 76,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2004-08-11"
+  },
+  {
+    "name": "DDoiV",
+    "team": "DN SOOPers Challengers",
+    "overall": 77,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2003-10-21"
+  },
+  {
+    "name": "Flip",
+    "team": "DN SOOPers Challengers",
+    "overall": 77,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2008-05-26"
+  },
+  {
+    "name": "Enosh",
+    "team": "DN SOOPers Challengers",
+    "overall": 77,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2004-10-01"
+  },
+  {
+    "name": "Quantum",
+    "team": "DN SOOPers Challengers",
+    "overall": 78,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2004-08-20"
+  },
+  {
+    "name": "Frog",
+    "team": "Kiwoom DRX Challengers",
+    "overall": 78,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2005-06-30"
+  },
+  {
+    "name": "Winner",
+    "team": "Kiwoom DRX Challengers",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2003-03-27"
+  },
+  {
+    "name": "AKaJe",
+    "team": "Kiwoom DRX Challengers",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2008-05-30"
+  },
+  {
+    "name": "Vincenzo",
+    "team": "Kiwoom DRX Challengers",
+    "overall": 80,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2004-04-03"
+  },
+  {
+    "name": "Minous",
+    "team": "Kiwoom DRX Challengers",
+    "overall": 78,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2004-05-03"
+  },
+  {
+    "name": "Kangin",
+    "team": "BNK FEARX Youth",
+    "overall": 77,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2003-01-14"
+  },
+  {
+    "name": "Grizzly",
+    "team": "BNK FEARX Youth",
+    "overall": 77,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2005-05-25"
+  },
+  {
+    "name": "MG",
+    "team": "BNK FEARX Youth",
+    "overall": 77,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Slayer",
+    "team": "BNK FEARX Youth",
+    "overall": 78,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2003-04-15"
+  },
+  {
+    "name": "Luon",
+    "team": "BNK FEARX Youth",
+    "overall": 77,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2003-01-27"
+  },
+  {
+    "name": "Panther",
+    "team": "Hanwha Life Esports Challengers",
+    "overall": 76,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2008-02-05"
+  },
+  {
+    "name": "Jackal",
+    "team": "Hanwha Life Esports Challengers",
+    "overall": 77,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2007-02-05"
+  },
+  {
+    "name": "Cracker",
+    "team": "Hanwha Life Esports Challengers",
+    "overall": 77,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2004-12-06"
+  },
+  {
+    "name": "Pyeonsik",
+    "team": "Hanwha Life Esports Challengers",
+    "overall": 77,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2006-03-06"
+  },
+  {
+    "name": "Bluffing",
+    "team": "Hanwha Life Esports Challengers",
+    "overall": 76,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2008-12-07"
+  },
+  {
+    "name": "DDahyuk",
+    "team": "HANJIN BRION Challengers",
+    "overall": 76,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2004-09-04"
+  },
+  {
+    "name": "Dinai",
+    "team": "HANJIN BRION Challengers",
+    "overall": 77,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2005-09-22"
+  },
+  {
+    "name": "Tempester",
+    "team": "HANJIN BRION Challengers",
+    "overall": 77,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2005-07-06"
+  },
+  {
+    "name": "OddEye",
+    "team": "HANJIN BRION Challengers",
+    "overall": 77,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2005-01-01"
+  },
+  {
+    "name": "PlanB",
+    "team": "HANJIN BRION Challengers",
+    "overall": 76,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2006-01-19"
+  },
+  {
+    "name": "Ripple",
+    "team": "Gen.G Global Academy",
+    "overall": 75,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2006-10-05"
+  },
+  {
+    "name": "Courage",
+    "team": "Gen.G Global Academy",
+    "overall": 75,
+    "nationality": "kr",
+    "role": "Jungle",
+    "birthdate": "2005-03-09"
+  },
+  {
+    "name": "Kemish",
+    "team": "Gen.G Global Academy",
+    "overall": 76,
+    "nationality": "kr",
+    "role": "Mid",
+    "birthdate": "2005-04-01"
+  },
+  {
+    "name": "MUDAI",
+    "team": "Gen.G Global Academy",
+    "overall": 76,
+    "nationality": "kr",
+    "role": "ADC",
+    "birthdate": "2005-05-21"
+  },
+  {
+    "name": "Lumos",
+    "team": "Gen.G Global Academy",
+    "overall": 75,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2007-04-06"
+  },
+  {
+    "name": "Szygenda",
+    "team": "Bulldog Esports",
+    "overall": 79,
+    "nationality": "dk",
+    "role": "Top",
+    "birthdate": "2001-04-14"
+  },
+  {
+    "name": "KarimKT",
+    "team": "Bulldog Esports",
+    "overall": 77,
+    "nationality": "fr",
+    "role": "Jungle",
+    "birthdate": "1997-03-19"
+  },
+  {
+    "name": "Ronaldo",
+    "team": "Bulldog Esports",
+    "overall": 78,
+    "nationality": "ro",
+    "role": "Mid",
+    "birthdate": "1998-12-23"
+  },
+  {
+    "name": "reje",
+    "team": "Bulldog Esports",
+    "overall": 77,
+    "nationality": "dk",
+    "role": "ADC",
+    "birthdate": "1998-11-12"
+  },
+  {
+    "name": "kaSing",
+    "team": "Bulldog Esports",
+    "overall": 79,
+    "nationality": "gb",
+    "role": "Support",
+    "birthdate": "1993-12-08"
+  },
+  {
+    "name": "Bust",
+    "team": "DMG Esports",
+    "overall": 76,
+    "nationality": "fo",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "CLEARS",
+    "team": "DMG Esports",
+    "overall": 76,
+    "nationality": "de",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "JayJay",
+    "team": "DMG Esports",
+    "overall": 76,
+    "nationality": "pl",
+    "role": "Mid",
+    "birthdate": "2003-09-29"
+  },
+  {
+    "name": "Kamito",
+    "team": "DMG Esports",
+    "overall": 77,
+    "nationality": "de",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Soul",
+    "team": "DMG Esports",
+    "overall": 77,
+    "nationality": "tr",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Nille",
+    "team": "Arctic Pandas",
+    "overall": 77,
+    "nationality": "fi",
+    "role": "Top",
+    "birthdate": "2000-08-16"
+  },
+  {
+    "name": "DIBU",
+    "team": "Arctic Pandas",
+    "overall": 77,
+    "nationality": "fi",
+    "role": "Jungle",
+    "birthdate": "1999-08-02"
+  },
+  {
+    "name": "Simpli",
+    "team": "Arctic Pandas",
+    "overall": 78,
+    "nationality": "fi",
+    "role": "Mid",
+    "birthdate": "2001-03-02"
+  },
+  {
+    "name": "Kehvo",
+    "team": "Arctic Pandas",
+    "overall": 78,
+    "nationality": "fi",
+    "role": "ADC",
+    "birthdate": "1998-03-12"
+  },
+  {
+    "name": "Boltox",
+    "team": "Arctic Pandas",
+    "overall": 77,
+    "nationality": "ee",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Virtuso",
+    "team": "Deer Gaming",
+    "overall": 77,
+    "nationality": "dk",
+    "role": "Top",
+    "birthdate": "2002-06-04"
+  },
+  {
+    "name": "Hankat",
+    "team": "Deer Gaming",
+    "overall": 77,
+    "nationality": "dk",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Scuffed",
+    "team": "Deer Gaming",
+    "overall": 78,
+    "nationality": "dk",
+    "role": "Mid",
+    "birthdate": "2002-09-29"
+  },
+  {
+    "name": "Kakarot",
+    "team": "Deer Gaming",
+    "overall": 78,
+    "nationality": "tr",
+    "role": "ADC",
+    "birthdate": "2006-03-09"
+  },
+  {
+    "name": "uden",
+    "team": "Deer Gaming",
+    "overall": 77,
+    "nationality": "pl",
+    "role": "Support",
+    "birthdate": "2002-02-14"
+  },
+  {
+    "name": "Cha0s",
+    "team": "Lund Esports Organization",
+    "overall": 75,
+    "nationality": "se",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "Slice",
+    "team": "Lund Esports Organization",
+    "overall": 75,
+    "nationality": "se",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Furby",
+    "team": "Lund Esports Organization",
+    "overall": 76,
+    "nationality": "se",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Goldenpenny",
+    "team": "Lund Esports Organization",
+    "overall": 76,
+    "nationality": "se",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "BrotherLuis",
+    "team": "Lund Esports Organization",
+    "overall": 75,
+    "nationality": "de",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Mansterninja",
+    "team": "Lundqvist Lightside",
+    "overall": 75,
+    "nationality": "se",
+    "role": "Top",
+    "birthdate": "2006-05-11"
+  },
+  {
+    "name": "Spiderlair",
+    "team": "Lundqvist Lightside",
+    "overall": 75,
+    "nationality": "se",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Unicow",
+    "team": "Lundqvist Lightside",
+    "overall": 75,
+    "nationality": "se",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Bjoernen",
+    "team": "Lundqvist Lightside",
+    "overall": 75,
+    "nationality": "dk",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Lyrokun",
+    "team": "Lundqvist Lightside",
+    "overall": 75,
+    "nationality": "de",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Kaermo",
+    "team": "Ruddy Corporation",
+    "overall": 78,
+    "nationality": "dk",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "Markus",
+    "team": "Ruddy Corporation",
+    "overall": 78,
+    "nationality": "dk",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Ag0nyPain",
+    "team": "Ruddy Corporation",
+    "overall": 79,
+    "nationality": "dk",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "MadsF",
+    "team": "Ruddy Corporation",
+    "overall": 79,
+    "nationality": "dk",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "FredSpaghet",
+    "team": "Ruddy Corporation",
+    "overall": 78,
+    "nationality": "dk",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Bobista",
+    "team": "Verdant",
+    "overall": 80,
+    "nationality": "cz",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "noname",
+    "team": "Verdant",
+    "overall": 80,
+    "nationality": "gb",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Furuy",
+    "team": "Verdant",
+    "overall": 80,
+    "nationality": "nl",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Mishigu",
+    "team": "Verdant",
+    "overall": 80,
+    "nationality": "se",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Guggu",
+    "team": "Verdant",
+    "overall": 79,
+    "nationality": "ge",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Philip",
+    "team": "Blue Otter",
+    "overall": 75,
+    "nationality": "us",
+    "role": "Top",
+    "birthdate": "2002-07-28"
+  },
+  {
+    "name": "Munchy",
+    "team": "Blue Otter",
+    "overall": 74,
+    "nationality": "us",
+    "role": "Jungle",
+    "birthdate": "2004-10-08"
+  },
+  {
+    "name": "Young",
+    "team": "Blue Otter",
+    "overall": 76,
+    "nationality": "ca",
+    "role": "Mid",
+    "birthdate": "2001-01-16"
+  },
+  {
+    "name": "Levitate",
+    "team": "Blue Otter",
+    "overall": 75,
+    "nationality": "us",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Minui",
+    "team": "Blue Otter",
+    "overall": 75,
+    "nationality": "ca",
+    "role": "Support",
+    "birthdate": "2003-03-26"
+  },
+  {
+    "name": "Fiji",
+    "team": "CCG Esports",
+    "overall": 76,
+    "nationality": "us",
+    "role": "Top",
+    "birthdate": "2001-07-30"
+  },
+  {
+    "name": "Dardoch",
+    "team": "CCG Esports",
+    "overall": 79,
+    "nationality": "us",
+    "role": "Jungle",
+    "birthdate": "1998-04-10"
+  },
+  {
+    "name": "Leza",
+    "team": "CCG Esports",
+    "overall": 77,
+    "nationality": "mx",
+    "role": "Mid",
+    "birthdate": "1998-09-28"
+  },
+  {
+    "name": "Spawn",
+    "team": "CCG Esports",
+    "overall": 76,
+    "nationality": "ca",
+    "role": "ADC",
+    "birthdate": "1998-05-18"
+  },
+  {
+    "name": "Only35",
+    "team": "CCG Esports",
+    "overall": 76,
+    "nationality": "tr",
+    "role": "Support",
+    "birthdate": "2000-04-30"
+  },
+  {
+    "name": "Horder",
+    "team": "Cupid Esports",
+    "overall": 75,
+    "nationality": "ca",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "Music",
+    "team": "Cupid Esports",
+    "overall": 76,
+    "nationality": "il",
+    "role": "Jungle",
+    "birthdate": "2000-02-03"
+  },
+  {
+    "name": "Ablazeolive",
+    "team": "Cupid Esports",
+    "overall": 78,
+    "nationality": "ca",
+    "role": "Mid",
+    "birthdate": "1998-11-16"
+  },
+  {
+    "name": "Mobility",
+    "team": "Cupid Esports",
+    "overall": 77,
+    "nationality": "us",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Breezy",
+    "team": "Cupid Esports",
+    "overall": 78,
+    "nationality": "us",
+    "role": "Support",
+    "birthdate": "1999-08-20"
+  },
+  {
+    "name": "Sniper",
+    "team": "Conviction",
+    "overall": 79,
+    "nationality": "ca",
+    "role": "Top",
+    "birthdate": "2006-11-10"
+  },
+  {
+    "name": "Tomio",
+    "team": "Conviction",
+    "overall": 79,
+    "nationality": "ca",
+    "role": "Jungle",
+    "birthdate": "2003-06-15"
+  },
+  {
+    "name": "Insanity",
+    "team": "Conviction",
+    "overall": 80,
+    "nationality": "us",
+    "role": "Mid",
+    "birthdate": "1999-09-22"
+  },
+  {
+    "name": "Cody Sun",
+    "team": "Conviction",
+    "overall": 79,
+    "nationality": "ca",
+    "role": "ADC",
+    "birthdate": "1997-04-25"
+  },
+  {
+    "name": "Zyko",
+    "team": "Conviction",
+    "overall": 77,
+    "nationality": "us",
+    "role": "Support",
+    "birthdate": "2000-06-02"
+  },
+  {
+    "name": "Decoy",
+    "team": "Dorado Gaming",
+    "overall": 75,
+    "nationality": "ca",
+    "role": "Top",
+    "birthdate": "1997-12-13"
+  },
+  {
+    "name": "Lojaz",
+    "team": "Dorado Gaming",
+    "overall": 75,
+    "nationality": "us",
+    "role": "Jungle",
+    "birthdate": "2000-10-04"
+  },
+  {
+    "name": "Aadam",
+    "team": "Dorado Gaming",
+    "overall": 77,
+    "nationality": "mu",
+    "role": "Mid",
+    "birthdate": "2005-10-28"
+  },
+  {
+    "name": "Hub",
+    "team": "Dorado Gaming",
+    "overall": 76,
+    "nationality": "ca",
+    "role": "ADC",
+    "birthdate": "2003-08-05"
+  },
+  {
+    "name": "InFlame",
+    "team": "Dorado Gaming",
+    "overall": 75,
+    "nationality": "th",
+    "role": "Support",
+    "birthdate": "2004-02-29"
+  },
+  {
+    "name": "Crimson",
+    "team": "Maryville University",
+    "overall": 77,
+    "nationality": "ca",
+    "role": "Top",
+    "birthdate": "2006-11-10"
+  },
+  {
+    "name": "Niles",
+    "team": "Maryville University",
+    "overall": 78,
+    "nationality": "us",
+    "role": "Jungle",
+    "birthdate": "1999-08-06"
+  },
+  {
+    "name": "AoJune",
+    "team": "Maryville University",
+    "overall": 78,
+    "nationality": "us",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "ScaryJerry",
+    "team": "Maryville University",
+    "overall": 77,
+    "nationality": "us",
+    "role": "ADC",
+    "birthdate": "2002-03-16"
+  },
+  {
+    "name": "Spirax",
+    "team": "Maryville University",
+    "overall": 77,
+    "nationality": "ca",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Zamudo",
+    "team": "NRG",
+    "overall": 78,
+    "nationality": "ca",
+    "role": "Top",
+    "birthdate": "2004-05-17"
+  },
+  {
+    "name": "Kisno",
+    "team": "NRG",
+    "overall": 79,
+    "nationality": "us",
+    "role": "Jungle",
+    "birthdate": "2002-12-28"
+  },
+  {
+    "name": "PhyMini",
+    "team": "NRG",
+    "overall": 77,
+    "nationality": "us",
+    "role": "Mid",
+    "birthdate": "2006-04-06"
+  },
+  {
+    "name": "Sushee",
+    "team": "NRG",
+    "overall": 77,
+    "nationality": "ca",
+    "role": "ADC",
+    "birthdate": "2006-09-13"
+  },
+  {
+    "name": "Spica",
+    "team": "NRG",
+    "overall": 80,
+    "nationality": "cn",
+    "role": "Support",
+    "birthdate": "2002-02-17"
+  },
+  {
+    "name": "Straight",
+    "team": "University of Mississippi",
+    "overall": 75,
+    "nationality": "ec",
+    "role": "Top",
+    "birthdate": "1999-10-14"
+  },
+  {
+    "name": "Griffin",
+    "team": "University of Mississippi",
+    "overall": 76,
+    "nationality": "us",
+    "role": "Jungle",
+    "birthdate": "1997-09-11"
+  },
+  {
+    "name": "Bradley",
+    "team": "University of Mississippi",
+    "overall": 78,
+    "nationality": "us",
+    "role": "Mid",
+    "birthdate": "2001-05-03"
+  },
+  {
+    "name": "Array",
+    "team": "University of Mississippi",
+    "overall": 76,
+    "nationality": "us",
+    "role": "ADC",
+    "birthdate": "2000-11-28"
+  },
+  {
+    "name": "Bounty",
+    "team": "University of Mississippi",
+    "overall": 76,
+    "nationality": "br",
+    "role": "Support",
+    "birthdate": "2003-02-04"
+  },
+  {
+    "name": "Berik",
+    "team": "Winthrop University",
+    "overall": 76,
+    "nationality": "us",
+    "role": "Top",
+    "birthdate": "2003-10-09"
+  },
+  {
+    "name": "Wilson",
+    "team": "Winthrop University",
+    "overall": 77,
+    "nationality": "ca",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Samikin",
+    "team": "Winthrop University",
+    "overall": 77,
+    "nationality": "kh",
+    "role": "Mid",
+    "birthdate": "2003-10-14"
+  },
+  {
+    "name": "Tomo",
+    "team": "Winthrop University",
+    "overall": 78,
+    "nationality": "us",
+    "role": "ADC",
+    "birthdate": "2001-01-19"
+  },
+  {
+    "name": "Kim Down",
+    "team": "Winthrop University",
+    "overall": 76,
+    "nationality": "us",
+    "role": "Support",
+    "birthdate": "1999-12-19"
+  },
+  {
+    "name": "JRockets",
+    "team": "Contingent Esports",
+    "overall": 75,
+    "nationality": "us",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "SiddyWiddy",
+    "team": "Contingent Esports",
+    "overall": 77,
+    "nationality": "ca",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Asilah",
+    "team": "Contingent Esports",
+    "overall": 76,
+    "nationality": "ca",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Daption",
+    "team": "Contingent Esports",
+    "overall": 76,
+    "nationality": "ca",
+    "role": "ADC",
+    "birthdate": "2001-05-22"
+  },
+  {
+    "name": "Tubs",
+    "team": "Contingent Esports",
+    "overall": 75,
+    "nationality": "us",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Madly",
+    "team": "BoostGate Esports",
+    "overall": 74,
+    "nationality": "tr",
+    "role": "Top",
+    "birthdate": "1999-03-13"
+  },
+  {
+    "name": "Kireas",
+    "team": "BoostGate Esports",
+    "overall": 76,
+    "nationality": "dk",
+    "role": "Jungle",
+    "birthdate": "2001-04-04"
+  },
+  {
+    "name": "Kachanava",
+    "team": "BoostGate Esports",
+    "overall": 74,
+    "nationality": "tr",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Neramin",
+    "team": "BoostGate Esports",
+    "overall": 75,
+    "nationality": "tr",
+    "role": "ADC",
+    "birthdate": "2001-08-04"
+  },
+  {
+    "name": "Berebo",
+    "team": "BoostGate Esports",
+    "overall": 74,
+    "nationality": "tr",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Aytekn",
+    "team": "Bushido Wildcats",
+    "overall": 77,
+    "nationality": "tr",
+    "role": "Top",
+    "birthdate": "2004-07-28"
+  },
+  {
+    "name": "Osman123",
+    "team": "Bushido Wildcats",
+    "overall": 77,
+    "nationality": "tr",
+    "role": "Jungle",
+    "birthdate": "2003-03-20"
+  },
+  {
+    "name": "Camana",
+    "team": "Bushido Wildcats",
+    "overall": 78,
+    "nationality": "tr",
+    "role": "Mid",
+    "birthdate": "2002-10-02"
+  },
+  {
+    "name": "Ruep",
+    "team": "Bushido Wildcats",
+    "overall": 79,
+    "nationality": "tr",
+    "role": "ADC",
+    "birthdate": "2002-12-09"
+  },
+  {
+    "name": "Carry",
+    "team": "Bushido Wildcats",
+    "overall": 78,
+    "nationality": "tr",
+    "role": "Support",
+    "birthdate": "2000-03-17"
+  },
+  {
+    "name": "fabFabulous",
+    "team": "Dark Passage",
+    "overall": 78,
+    "nationality": "tr",
+    "role": "Top",
+    "birthdate": "1996-02-15"
+  },
+  {
+    "name": "Typhoon",
+    "team": "Dark Passage",
+    "overall": 77,
+    "nationality": "tr",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Lynx",
+    "team": "Dark Passage",
+    "overall": 77,
+    "nationality": "tr",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Grave",
+    "team": "Dark Passage",
+    "overall": 79,
+    "nationality": "tr",
+    "role": "ADC",
+    "birthdate": "2005-01-01"
+  },
+  {
+    "name": "Beplush",
+    "team": "Dark Passage",
+    "overall": 79,
+    "nationality": "tr",
+    "role": "Support",
+    "birthdate": "2001-04-06"
+  },
+  {
+    "name": "Hamsi",
+    "team": "Ozarox Esports",
+    "overall": 76,
+    "nationality": "tr",
+    "role": "Top",
+    "birthdate": "2007-02-02"
+  },
+  {
+    "name": "Aspect",
+    "team": "Ozarox Esports",
+    "overall": 77,
+    "nationality": "tr",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Yuros",
+    "team": "Ozarox Esports",
+    "overall": 77,
+    "nationality": "tr",
+    "role": "Mid",
+    "birthdate": "2004-02-17"
+  },
+  {
+    "name": "Jeyrus",
+    "team": "Ozarox Esports",
+    "overall": 78,
+    "nationality": "tr",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Carve",
+    "team": "Ozarox Esports",
+    "overall": 77,
+    "nationality": "tr",
+    "role": "Support",
+    "birthdate": "2001-01-01"
+  },
+  {
+    "name": "Bayonetta",
+    "team": "PCIFIC Esports",
+    "overall": 78,
+    "nationality": "tr",
+    "role": "Top",
+    "birthdate": "2003-10-21"
+  },
+  {
+    "name": "Stalken",
+    "team": "PCIFIC Esports",
+    "overall": 79,
+    "nationality": "tr",
+    "role": "Jungle",
+    "birthdate": "2004-06-02"
+  },
+  {
+    "name": "FireAscept",
+    "team": "PCIFIC Esports",
+    "overall": 77,
+    "nationality": "tr",
+    "role": "Mid",
+    "birthdate": "2006-09-20"
+  },
+  {
+    "name": "Scorth",
+    "team": "PCIFIC Esports",
+    "overall": 79,
+    "nationality": "tr",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "monkaS",
+    "team": "PCIFIC Esports",
+    "overall": 78,
+    "nationality": "tr",
+    "role": "Support",
+    "birthdate": "2001-10-26"
+  },
+  {
+    "name": "IlllIma",
+    "team": "SU Esports",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "Top",
+    "birthdate": "2002-09-20"
+  },
+  {
+    "name": "Rames",
+    "team": "SU Esports",
+    "overall": 78,
+    "nationality": "tr",
+    "role": "Jungle",
+    "birthdate": "2004-01-05"
+  },
+  {
+    "name": "Vetheo",
+    "team": "SU Esports",
+    "overall": 80,
+    "nationality": "fr",
+    "role": "Mid",
+    "birthdate": "2002-07-26"
+  },
+  {
+    "name": "Kakarot",
+    "team": "SU Esports",
+    "overall": 78,
+    "nationality": "tr",
+    "role": "ADC",
+    "birthdate": "2006-03-09"
+  },
+  {
+    "name": "Patch",
+    "team": "SU Esports",
+    "overall": 79,
+    "nationality": "kr",
+    "role": "Support",
+    "birthdate": "2001-09-22"
+  },
+  {
+    "name": "Ersin",
+    "team": "Team Phoenix",
+    "overall": 76,
+    "nationality": "tr",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "ruinez",
+    "team": "Team Phoenix",
+    "overall": 76,
+    "nationality": "tr",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Creal",
+    "team": "Team Phoenix",
+    "overall": 77,
+    "nationality": "tr",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Raen",
+    "team": "Team Phoenix",
+    "overall": 76,
+    "nationality": "tr",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Varin",
+    "team": "Team Phoenix",
+    "overall": 77,
+    "nationality": "tr",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Sangrod",
+    "team": "Shark Attack",
+    "overall": 74,
+    "nationality": "tr",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "NightyNN",
+    "team": "Shark Attack",
+    "overall": 75,
+    "nationality": "tr",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Hades",
+    "team": "Shark Attack",
+    "overall": 76,
+    "nationality": "se",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Stansfield",
+    "team": "Shark Attack",
+    "overall": 75,
+    "nationality": "tr",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Revanche",
+    "team": "Shark Attack",
+    "overall": 75,
+    "nationality": "tr",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Irrelevant",
+    "team": "BIG",
+    "overall": 80,
+    "nationality": "de",
+    "role": "Top",
+    "birthdate": "2001-10-22"
+  },
+  {
+    "name": "113",
+    "team": "BIG",
+    "overall": 78,
+    "nationality": "tr",
+    "role": "Jungle",
+    "birthdate": "2004-08-12"
+  },
+  {
+    "name": "Reeker",
+    "team": "BIG",
+    "overall": 79,
+    "nationality": "de",
+    "role": "Mid",
+    "birthdate": "2001-05-15"
+  },
+  {
+    "name": "Patrik",
+    "team": "BIG",
+    "overall": 79,
+    "nationality": "cz",
+    "role": "ADC",
+    "birthdate": "2000-04-07"
+  },
+  {
+    "name": "Kaiser",
+    "team": "BIG",
+    "overall": 80,
+    "nationality": "de",
+    "role": "Support",
+    "birthdate": "1998-11-19"
+  },
+  {
+    "name": "Vizicsacsi",
+    "team": "E WIE EINFACH",
+    "overall": 77,
+    "nationality": "hu",
+    "role": "Top",
+    "birthdate": "1993-06-14"
+  },
+  {
+    "name": "Afroboi",
+    "team": "E WIE EINFACH",
+    "overall": 76,
+    "nationality": "de",
+    "role": "Jungle",
+    "birthdate": "2000-04-13"
+  },
+  {
+    "name": "Relative",
+    "team": "E WIE EINFACH",
+    "overall": 77,
+    "nationality": "de",
+    "role": "Mid",
+    "birthdate": "2002-06-14"
+  },
+  {
+    "name": "Noz2k",
+    "team": "E WIE EINFACH",
+    "overall": 77,
+    "nationality": "de",
+    "role": "ADC",
+    "birthdate": "2004-06-29"
+  },
+  {
+    "name": "Wildenbruch",
+    "team": "E WIE EINFACH",
+    "overall": 76,
+    "nationality": "de",
+    "role": "Support",
+    "birthdate": "2003-08-20"
+  },
+  {
+    "name": "Addusto",
+    "team": "Eintracht Frankfurt",
+    "overall": 75,
+    "nationality": "de",
+    "role": "Top",
+    "birthdate": "2005-12-16"
+  },
+  {
+    "name": "D4nKa",
+    "team": "Eintracht Frankfurt",
+    "overall": 74,
+    "nationality": "de",
+    "role": "Jungle",
+    "birthdate": "2001-11-17"
+  },
+  {
+    "name": "Sencux",
+    "team": "Eintracht Frankfurt",
+    "overall": 76,
+    "nationality": "dk",
+    "role": "Mid",
+    "birthdate": "1998-09-17"
+  },
+  {
+    "name": "Devn",
+    "team": "Eintracht Frankfurt",
+    "overall": 75,
+    "nationality": "de",
+    "role": "ADC",
+    "birthdate": "2001-06-03"
+  },
+  {
+    "name": "Richu",
+    "team": "Eintracht Frankfurt",
+    "overall": 74,
+    "nationality": "ee",
+    "role": "Support",
+    "birthdate": "2007-04-04"
+  },
+  {
+    "name": "JNX",
+    "team": "Eintracht Spandau",
+    "overall": 78,
+    "nationality": "de",
+    "role": "Top",
+    "birthdate": "1998-12-10"
+  },
+  {
+    "name": "Xagog",
+    "team": "Eintracht Spandau",
+    "overall": 77,
+    "nationality": "de",
+    "role": "Jungle",
+    "birthdate": "2004-02-14"
+  },
+  {
+    "name": "PowerOfEvil",
+    "team": "Eintracht Spandau",
+    "overall": 79,
+    "nationality": "de",
+    "role": "Mid",
+    "birthdate": "1997-10-27"
+  },
+  {
+    "name": "Fun K3y",
+    "team": "Eintracht Spandau",
+    "overall": 78,
+    "nationality": "de",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "seaz",
+    "team": "Eintracht Spandau",
+    "overall": 77,
+    "nationality": "at",
+    "role": "Support",
+    "birthdate": "2000-12-17"
+  },
+  {
+    "name": "Shelfmade",
+    "team": "G2 NORD",
+    "overall": 78,
+    "nationality": "de",
+    "role": "Top",
+    "birthdate": "2006-10-02"
+  },
+  {
+    "name": "Markoon",
+    "team": "G2 NORD",
+    "overall": 80,
+    "nationality": "nl",
+    "role": "Jungle",
+    "birthdate": "2002-06-28"
+  },
+  {
+    "name": "Toasty",
+    "team": "G2 NORD",
+    "overall": 79,
+    "nationality": "us",
+    "role": "Mid",
+    "birthdate": "2006-01-19"
+  },
+  {
+    "name": "Rin",
+    "team": "G2 NORD",
+    "overall": 80,
+    "nationality": "dz",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Tockimo",
+    "team": "G2 NORD",
+    "overall": 79,
+    "nationality": "de",
+    "role": "Support",
+    "birthdate": "2002-02-22"
+  },
+  {
+    "name": "Boda",
+    "team": "Kaufland Hangry Knights",
+    "overall": 78,
+    "nationality": "eg",
+    "role": "Top",
+    "birthdate": "2006-04-17"
+  },
+  {
+    "name": "Densi",
+    "team": "Kaufland Hangry Knights",
+    "overall": 77,
+    "nationality": "de",
+    "role": "Jungle",
+    "birthdate": "2003-06-03"
+  },
+  {
+    "name": "Abbedagge",
+    "team": "Kaufland Hangry Knights",
+    "overall": 80,
+    "nationality": "de",
+    "role": "Mid",
+    "birthdate": "1999-09-10"
+  },
+  {
+    "name": "UNF0RGIVEN",
+    "team": "Kaufland Hangry Knights",
+    "overall": 80,
+    "nationality": "se",
+    "role": "ADC",
+    "birthdate": "2000-08-23"
+  },
+  {
+    "name": "Doss",
+    "team": "Kaufland Hangry Knights",
+    "overall": 78,
+    "nationality": "dk",
+    "role": "Support",
+    "birthdate": "1999-03-19"
+  },
+  {
+    "name": "Fooneses",
+    "team": "ROSSMANN Centaurs",
+    "overall": 77,
+    "nationality": "de",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "jokaa",
+    "team": "ROSSMANN Centaurs",
+    "overall": 77,
+    "nationality": "de",
+    "role": "Jungle",
+    "birthdate": "2002-07-06"
+  },
+  {
+    "name": "c0st0m",
+    "team": "ROSSMANN Centaurs",
+    "overall": 78,
+    "nationality": "dk",
+    "role": "Mid",
+    "birthdate": "2005-04-06"
+  },
+  {
+    "name": "Hazel",
+    "team": "ROSSMANN Centaurs",
+    "overall": 78,
+    "nationality": "ro",
+    "role": "ADC",
+    "birthdate": "2007-05-13"
+  },
+  {
+    "name": "Infoneral",
+    "team": "ROSSMANN Centaurs",
+    "overall": 77,
+    "nationality": "bg",
+    "role": "Support",
+    "birthdate": "1999-04-04"
+  },
+  {
+    "name": "Zorenous",
+    "team": "TeamOrangeGaming",
+    "overall": 75,
+    "nationality": "au",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "Woldjo",
+    "team": "TeamOrangeGaming",
+    "overall": 75,
+    "nationality": "dk",
+    "role": "Jungle",
+    "birthdate": "2005-07-09"
+  },
+  {
+    "name": "Sajator",
+    "team": "TeamOrangeGaming",
+    "overall": 76,
+    "nationality": "cz",
+    "role": "Mid",
+    "birthdate": "2004-10-11"
+  },
+  {
+    "name": "Ryuk",
+    "team": "TeamOrangeGaming",
+    "overall": 77,
+    "nationality": "at",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Lilipp",
+    "team": "TeamOrangeGaming",
+    "overall": 76,
+    "nationality": "de",
+    "role": "Support",
+    "birthdate": "2001-01-20"
+  },
+  {
+    "name": "Sven",
+    "team": "VfB eSports",
+    "overall": 75,
+    "nationality": "de",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "Zwickl",
+    "team": "VfB eSports",
+    "overall": 75,
+    "nationality": "de",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Luke",
+    "team": "VfB eSports",
+    "overall": 74,
+    "nationality": "de",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Tazaku",
+    "team": "VfB eSports",
+    "overall": 76,
+    "nationality": "de",
+    "role": "ADC",
+    "birthdate": "2000-09-12"
+  },
+  {
+    "name": "Jakobobbi",
+    "team": "VfB eSports",
+    "overall": 75,
+    "nationality": "at",
+    "role": "Support",
+    "birthdate": "2000-03-26"
+  },
+  {
+    "name": "Fornoreason",
+    "team": "Unicorns of Love SE",
+    "overall": 77,
+    "nationality": "de",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "White",
+    "team": "Unicorns of Love SE",
+    "overall": 78,
+    "nationality": "fr",
+    "role": "Jungle",
+    "birthdate": "2002-07-11"
+  },
+  {
+    "name": "RoyalKanin",
+    "team": "Unicorns of Love SE",
+    "overall": 79,
+    "nationality": "se",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "DenVoksne",
+    "team": "Unicorns of Love SE",
+    "overall": 78,
+    "nationality": "dk",
+    "role": "ADC",
+    "birthdate": "2001-07-15"
+  },
+  {
+    "name": "Twiizt",
+    "team": "Unicorns of Love SE",
+    "overall": 79,
+    "nationality": "se",
+    "role": "Support",
+    "birthdate": "2000-11-02"
+  },
+  {
+    "name": "Maiquiyo",
+    "team": "3v Team",
+    "overall": 78,
+    "nationality": "do",
+    "role": "Top",
+    "birthdate": "2008-12-17"
+  },
+  {
+    "name": "Gato",
+    "team": "3v Team",
+    "overall": 79,
+    "nationality": "co",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Cor",
+    "team": "3v Team",
+    "overall": 79,
+    "nationality": "mx",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "ratth",
+    "team": "3v Team",
+    "overall": 78,
+    "nationality": "hn",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Felkross",
+    "team": "3v Team",
+    "overall": 77,
+    "nationality": "co",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Jauny",
+    "team": "Fuego",
+    "overall": 79,
+    "nationality": "cr",
+    "role": "Top",
+    "birthdate": "2001-04-12"
+  },
+  {
+    "name": "Grell",
+    "team": "Fuego",
+    "overall": 81,
+    "nationality": "mx",
+    "role": "Jungle",
+    "birthdate": "2001-04-09"
+  },
+  {
+    "name": "Skyy",
+    "team": "Fuego",
+    "overall": 80,
+    "nationality": "mx",
+    "role": "Mid",
+    "birthdate": "2001-04-10"
+  },
+  {
+    "name": "VirusFx",
+    "team": "Fuego",
+    "overall": 79,
+    "nationality": "mx",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Ichiwin",
+    "team": "Fuego",
+    "overall": 79,
+    "nationality": "co",
+    "role": "Support",
+    "birthdate": "2001-04-02"
+  },
+  {
+    "name": "Cacahuate",
+    "team": "Kits Esports",
+    "overall": 76,
+    "nationality": "ve",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "Dimitry",
+    "team": "Kits Esports",
+    "overall": 77,
+    "nationality": "do",
+    "role": "Jungle",
+    "birthdate": "2002-06-11"
+  },
+  {
+    "name": "iybc9o2q",
+    "team": "Kits Esports",
+    "overall": 77,
+    "nationality": "us",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Inorib",
+    "team": "Kits Esports",
+    "overall": 78,
+    "nationality": "us",
+    "role": "ADC",
+    "birthdate": "2005-05-27"
+  },
+  {
+    "name": "L1",
+    "team": "Kits Esports",
+    "overall": 77,
+    "nationality": "co",
+    "role": "Support",
+    "birthdate": "2007-05-10"
+  },
+  {
+    "name": "winder",
+    "team": "LYON Academy",
+    "overall": 75,
+    "nationality": "ve",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "KASE",
+    "team": "LYON Academy",
+    "overall": 76,
+    "nationality": "co",
+    "role": "Jungle",
+    "birthdate": "2003-08-20"
+  },
+  {
+    "name": "sweeho",
+    "team": "LYON Academy",
+    "overall": 76,
+    "nationality": "ve",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "NANINI",
+    "team": "LYON Academy",
+    "overall": 75,
+    "nationality": "ve",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "StarHide",
+    "team": "LYON Academy",
+    "overall": 75,
+    "nationality": "ve",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Tuercas",
+    "team": "NCG Esports",
+    "overall": 76,
+    "nationality": "mx",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "Veiga",
+    "team": "NCG Esports",
+    "overall": 77,
+    "nationality": "br",
+    "role": "Jungle",
+    "birthdate": "2004-01-10"
+  },
+  {
+    "name": "Vares",
+    "team": "NCG Esports",
+    "overall": 77,
+    "nationality": "mx",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Fatorix",
+    "team": "NCG Esports",
+    "overall": 76,
+    "nationality": "ar",
+    "role": "ADC",
+    "birthdate": "2002-04-10"
+  },
+  {
+    "name": "Crikx",
+    "team": "NCG Esports",
+    "overall": 75,
+    "nationality": "mx",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Oxy",
+    "team": "Polar Squad Esports",
+    "overall": 74,
+    "nationality": "ca",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "Chomu",
+    "team": "Polar Squad Esports",
+    "overall": 74,
+    "nationality": "mx",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Shao",
+    "team": "Polar Squad Esports",
+    "overall": 75,
+    "nationality": "us",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Rokecs",
+    "team": "Polar Squad Esports",
+    "overall": 75,
+    "nationality": "mx",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Zamacona",
+    "team": "Polar Squad Esports",
+    "overall": 74,
+    "nationality": "mx",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Steellar",
+    "team": "SDM Tigres",
+    "overall": 76,
+    "nationality": "mx",
+    "role": "Top",
+    "birthdate": "2003-01-18"
+  },
+  {
+    "name": "Mitir",
+    "team": "SDM Tigres",
+    "overall": 76,
+    "nationality": "co",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "DeadlyMark",
+    "team": "SDM Tigres",
+    "overall": 77,
+    "nationality": "pe",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Raysito",
+    "team": "SDM Tigres",
+    "overall": 77,
+    "nationality": "mx",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Erk",
+    "team": "SDM Tigres",
+    "overall": 75,
+    "nationality": "mx",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Keii",
+    "team": "Zeu5 Esports",
+    "overall": 79,
+    "nationality": "co",
+    "role": "Top",
+    "birthdate": "2002-06-26"
+  },
+  {
+    "name": "BlindWalker",
+    "team": "Zeu5 Esports",
+    "overall": 80,
+    "nationality": "gt",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Zelt",
+    "team": "Zeu5 Esports",
+    "overall": 80,
+    "nationality": "co",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "INTIO",
+    "team": "Zeu5 Esports",
+    "overall": 80,
+    "nationality": "co",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Kita",
+    "team": "Zeu5 Esports",
+    "overall": 79,
+    "nationality": "br",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Nate",
+    "team": "9z Globant",
+    "overall": 79,
+    "nationality": "ar",
+    "role": "Top",
+    "birthdate": "1999-03-30"
+  },
+  {
+    "name": "Apoka",
+    "team": "9z Globant",
+    "overall": 80,
+    "nationality": "ar",
+    "role": "Jungle",
+    "birthdate": "1998-07-26"
+  },
+  {
+    "name": "Aloned",
+    "team": "9z Globant",
+    "overall": 81,
+    "nationality": "cl",
+    "role": "Mid",
+    "birthdate": "1999-11-06"
+  },
+  {
+    "name": "FIX",
+    "team": "9z Globant",
+    "overall": 80,
+    "nationality": "ar",
+    "role": "ADC",
+    "birthdate": "1996-03-28"
+  },
+  {
+    "name": "Ux",
+    "team": "9z Globant",
+    "overall": 79,
+    "nationality": "ar",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Dinastik",
+    "team": "Docta Esports",
+    "overall": 77,
+    "nationality": "cl",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "Alluk",
+    "team": "Docta Esports",
+    "overall": 78,
+    "nationality": "ar",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "Saifer",
+    "team": "Docta Esports",
+    "overall": 78,
+    "nationality": "ar",
+    "role": "Mid",
+    "birthdate": "2004-09-01"
+  },
+  {
+    "name": "Syunko",
+    "team": "Docta Esports",
+    "overall": 77,
+    "nationality": "uy",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Lac",
+    "team": "Docta Esports",
+    "overall": 77,
+    "nationality": "ar",
+    "role": "Support",
+    "birthdate": "2001-04-21"
+  },
+  {
+    "name": "Brayaron",
+    "team": "Golden Lions",
+    "overall": 78,
+    "nationality": "pe",
+    "role": "Top",
+    "birthdate": "2001-09-25"
+  },
+  {
+    "name": "Ganks",
+    "team": "Golden Lions",
+    "overall": 79,
+    "nationality": "pe",
+    "role": "Jungle",
+    "birthdate": "2001-03-17"
+  },
+  {
+    "name": "Piqueos",
+    "team": "Golden Lions",
+    "overall": 79,
+    "nationality": "pe",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Scenari0",
+    "team": "Golden Lions",
+    "overall": 79,
+    "nationality": "pe",
+    "role": "ADC",
+    "birthdate": "2002-01-05"
+  },
+  {
+    "name": "Crecre",
+    "team": "Golden Lions",
+    "overall": 78,
+    "nationality": "pe",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Termo",
+    "team": "Malvinas Gaming",
+    "overall": 76,
+    "nationality": "ar",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "Tinchoxar",
+    "team": "Malvinas Gaming",
+    "overall": 76,
+    "nationality": "ar",
+    "role": "Jungle",
+    "birthdate": "2002-10-31"
+  },
+  {
+    "name": "Nobody",
+    "team": "Malvinas Gaming",
+    "overall": 77,
+    "nationality": "ar",
+    "role": "Mid",
+    "birthdate": "2000-01-23"
+  },
+  {
+    "name": "Hika",
+    "team": "Malvinas Gaming",
+    "overall": 77,
+    "nationality": "ar",
+    "role": "ADC",
+    "birthdate": "2002-12-22"
+  },
+  {
+    "name": "Fortu",
+    "team": "Malvinas Gaming",
+    "overall": 76,
+    "nationality": "ar",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Wamu",
+    "team": "Maze Gaming",
+    "overall": 78,
+    "nationality": "cl",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "Neo7",
+    "team": "Maze Gaming",
+    "overall": 78,
+    "nationality": "cl",
+    "role": "Jungle",
+    "birthdate": "2004-12-06"
+  },
+  {
+    "name": "Hitsu",
+    "team": "Maze Gaming",
+    "overall": 79,
+    "nationality": "cl",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "Viciun",
+    "team": "Maze Gaming",
+    "overall": 79,
+    "nationality": "cl",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "Shu Hari",
+    "team": "Maze Gaming",
+    "overall": 78,
+    "nationality": "cl",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Giankios",
+    "team": "Seven Dark",
+    "overall": 75,
+    "nationality": "cl",
+    "role": "Top",
+    "birthdate": null
+  },
+  {
+    "name": "Cow",
+    "team": "Seven Dark",
+    "overall": 75,
+    "nationality": "cl",
+    "role": "Jungle",
+    "birthdate": null
+  },
+  {
+    "name": "wdr",
+    "team": "Seven Dark",
+    "overall": 75,
+    "nationality": "cl",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "KUMEW",
+    "team": "Seven Dark",
+    "overall": 76,
+    "nationality": "ar",
+    "role": "ADC",
+    "birthdate": null
+  },
+  {
+    "name": "chilD",
+    "team": "Seven Dark",
+    "overall": 75,
+    "nationality": "cl",
+    "role": "Support",
+    "birthdate": null
+  },
+  {
+    "name": "Chordy",
+    "team": "Volticons",
+    "overall": 77,
+    "nationality": "ar",
+    "role": "Top",
+    "birthdate": "2001-05-10"
+  },
+  {
+    "name": "martote",
+    "team": "Volticons",
+    "overall": 78,
+    "nationality": "uy",
+    "role": "Jungle",
+    "birthdate": "2004-07-16"
+  },
+  {
+    "name": "DiDi",
+    "team": "Volticons",
+    "overall": 78,
+    "nationality": "ar",
+    "role": "Mid",
+    "birthdate": null
+  },
+  {
+    "name": "ianshaka",
+    "team": "Volticons",
+    "overall": 78,
+    "nationality": "ar",
+    "role": "ADC",
+    "birthdate": "2005-10-22"
+  },
+  {
+    "name": "camilo",
+    "team": "Volticons",
+    "overall": 77,
+    "nationality": "uy",
+    "role": "Support",
+    "birthdate": "2002-05-27"
+  },
+  {
+    "name": "Respeta",
+    "team": "ZEN Esports",
+    "overall": 75,
+    "nationality": "ar",
+    "role": "Top",
+    "birthdate": "2004-09-02"
+  },
+  {
+    "name": "QQMore",
+    "team": "ZEN Esports",
+    "overall": 76,
+    "nationality": "cl",
+    "role": "Jungle",
+    "birthdate": "1999-05-03"
+  },
+  {
+    "name": "Doni",
+    "team": "ZEN Esports",
+    "overall": 75,
+    "nationality": "ar",
+    "role": "Mid",
+    "birthdate": "2002-09-25"
+  },
+  {
+    "name": "Tomnam",
+    "team": "ZEN Esports",
+    "overall": 76,
+    "nationality": "ar",
+    "role": "ADC",
+    "birthdate": "1998-03-21"
+  },
+  {
+    "name": "Viico",
+    "team": "ZEN Esports",
+    "overall": 75,
+    "nationality": "ar",
+    "role": "Support",
+    "birthdate": null
+  }
+]
